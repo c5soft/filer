@@ -1,0 +1,176 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
+	<title>Filer</title>
+	<style>
+		.top {
+			display: flex;
+			columns: 500px 2;
+		}
+
+		.top-left {
+			width: 30%;
+			padding: 10px;
+		}
+
+		.top-right {
+			padding: 10px;
+		}
+
+		.large-title {
+			font-size: 150px;
+			font-family: sans-serif;
+			color: hsl(171, 100%, 41%);
+			margin-bottom: 0;
+			padding-bottom: 0;
+		}
+
+		.large-subtitle {
+			font-size: 16px;
+			font-family: sans-serif;
+			margin-top: 0;
+			padding-top: 0;
+		}
+
+		.large-subtitle-cn {
+			font-size: 34px;
+			font-family: 微软雅黑;
+		}
+
+		.guide-title {
+			font-size: 20px;
+			margin-left: 0;
+			padding: 1px;
+			padding-left: 10px;
+			color: white;
+			background: hsl(171, 100%, 41%);
+		}
+
+		.guide {
+			padding: 10px;
+			columns: 500px 2;
+		}
+
+		.warning {
+			color: red;
+		}
+
+		li {
+			text-indent: 24px;
+		}
+
+		li li {
+			text-indent: 48px;
+		}
+
+		li li li {
+			text-indent: 72px;
+		}
+	</style>
+</head>
+<div>
+	<div class="top">
+		<div class="top-left">
+			<div class="large-title">Filer</div>
+			<div class="large-subtitle">
+				Extreme Speed File Transfering System
+			</div>
+			<div class="large-subtitle-cn">极速文件分发系统</div>
+		</div>
+		<div class="top-right">
+			<h1 style="font-size:40px">Version 1.0.4<a style="margin-left:40px;font-size:20px" href="filer.zip">下载</a>
+			</h1>
+			<h1 style="font-size:30px;color: hsl(171, 100%, 41%);">传统文件复制需要20分钟，Filer只需20秒。</h1>
+			<p style="font-size:18px;margin-top:20px">Filer能充分利用电脑系统的性能，将多核平行处理能力用足，将网络带宽跑满。</p>
+			<p style="font-size:18px;margin-top:20px">Filer是如何做到的：</p>
+			<ul style="font-size:16px">
+				<li> 多路复用，并行传送。小文件多个文件一起传送，大文件分成多个片段同时传送。 </li>
+				<li> 文件对比，只传不同。计算文件内容哈希值（Blake3 Hasher，目前速度最快的安全算法），用服务器端与本地比对，只传送不同的文件。 </li>
+				<li> 重复检查，一次下载。相同文件仅从服务器下载一次，其他位置文件从本地复制。 </li>
+			</ul>
+		</div>
+	</div>
+	<div class="guide-title">Filer使用指南：</div>
+	<div class="guide">
+		<div>
+			<div> 整个Filer系统由两个文件组成： 可执行文件filer.exe, 配置文件filer.json。输入filer -h查看命令行参数。 </div>
+			<div>
+				Filer提供四个功能：
+				<ul>
+					<li> filer -i 计算文件检验值，检验值保存在filelist.txt中。 </li>
+					<li> filer -s 作为服务端启动，通过http/https协议提供文件服务。 </li>
+					<li> filer -d或-u 作为客户端启动，从服务端下载文件。-d下载全部文件，-u只下载与服务器端不同的文件。 </li>
+					<li> filer -x 高速版的XCopy, 复制指定位置整个文件夹（或单个大文件）到目标位置。 </li>
+				</ul>
+			</div>
+			<div>
+				Filer注意事项：
+				<ul>
+					<li> <span class="warning">需要特别注意的是，无论是-d -u 还是-x, 都会自动覆盖目标位置已有文件，没有提醒！</span></li>
+				</ul>
+			</div>
+			<div>
+				File使用要点：
+				<ul>
+					<li>通过配置文件part_size参数控制大文件的分片数量，控制单个文件的网络流量。 </li>
+					<li>通过配置文件max_tasks参数控制每个客户端启动的网络连接数，控制网络最大流量。 </li>
+					<li>用命令filer -i 及时更新服务端分发文件夹/客户端下载存储文件夹下的filelist.txt文件校验值清单，-i可与-s或-u并用。 </li>
+					<li>用命令filer -ir 更新校验值清单的同时，显示重复文件清单，方便整理分发文件。</li>
+				</ul>
+			</div>
+		</div>
+		<div>
+			filer.json配置文件说明：
+			<ul>
+				<li>
+					server区域配置服务端参数
+					<ul>
+						<li>static_path: 静态网页文件夹位置，用于放置从客户端打开网址，显示的内容 </li>
+						<li>server_name: 服务器名字，默认为Filer</li>
+						<li>http_active: 是否启动http服务</li>
+						<li>http_port: http服务端口</li>
+						<li>https_active: 是否启动https服务</li>
+						<li>https_port: https服务端口</li>
+						<li>https_cert: https公共密钥文件，pem格式</li>
+						<li>https_key: https私用密钥文件，pem格式</li>
+					</ul>
+				</li>
+				<li>
+					client区域配置客户端参数
+					<ul>
+						<li>server: 服务器地址，域名或ip地址</li>
+						<li>port: 服务器端口</li>
+						<li>is_https: 服务器是否启动了https加密</li>
+						<li>catalog: 服务器端的分发目录</li>
+						<li>path: 从服务器端下载文件存放到本地的文件夹</li>
+						<li>max_tasks: 同时启动并行下载器的最大数量，缺省为cpu核心数乘4</li>
+						<li>kill_running_exe：强行终止准备下载的同名exe进程，缺省为true</li>
+					</ul>
+				</li>
+				<li>
+					catalog区域配置分发目录参数，catalog可以有多个
+					<ul>
+						<li>path: 分发文件夹路径</li>
+						<li>part_size: 文件分片字节大小，缺省为1048576字节（1MiB）</li>
+						<li>max_tasks: 计算文件哈希值时同时运行的最大任务数量，缺省为cpu核心数乘2</li>
+						<li>list_name: 列表文件名，默认为filelist.txt</li>
+					</ul>
+				</li>
+				<li>
+					xcopy区域配置配置多路复用xcopy参数
+					<ul>
+						<li>max_tasks: 同时启动并行拷贝任务的最大数量，缺省为cpu核心数乘2</li>
+						<li>part_size: 文件分片字节大小，缺省为1048576字节（1MiB）</li>
+						<li>kill_running_exe：强行终止准备拷贝的同名exe进程，缺省为false</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+</html>

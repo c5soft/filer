@@ -1,0 +1,45 @@
+[package]
+name = "filer"
+version = "1.0.4"
+authors = ["Xander Xiao <xander.xiao@gmail.com>"]
+edition = "2018"
+#resolver = "2"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.14.0", features = [
+    "rt",
+    "rt-multi-thread",
+    "macros",
+    "fs",
+    "io-util",
+    "time",
+    "process",
+] }
+anyhow = { version = "1.0.48" }
+serde = { version = "1.0.130", features = ["derive"] }
+serde_json = "1.0.71"
+clap = { version = "2.33.3" }
+byte-unit = "4.0.13"
+num_cpus = "1.13.0"
+
+chrono = { version = "0.4.19", features = ["serde"], optional = true }
+tracing = { version = "0.1.29", optional = true }
+tracing-subscriber = { version = "0.3.2", optional = true }
+blake3 = { version = "1.2.0", optional = true } 
+#md5={version="0.7.0", optional = true}
+reqwest = { version = "0.11.6", optional = true }
+warp = { version = "0.3.1", features = ["tls", "compression"], optional = true }
+
+#thiserror = "1.0.23"
+#uuid = { version = "0.8.2", features = ["serde", "v4"] }
+#async-trait = "0.1.42"
+#regex = "1.4.3"
+
+[features]
+default = ["xcopy","digest","download","server"]
+digest = ["blake3"]
+download = ["reqwest", "blake3"]
+server = ["warp", "blake3", "tracing-subscriber", "tracing", "chrono"]
+xcopy = []

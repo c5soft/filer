@@ -1,0 +1,3077 @@
+Calc md5 for files in d:/tcsoftV6...
+Repeat file group #1 file size: 23.04 KB md5:1a68dd4b4d58fa94ac584c3f15ccbee8
+>> 1  d:/tcsoftV6/grsr60/pbprx90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbprx90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbprx90.dll
+Repeat file group #2 file size: 1.02 MB md5:e36a58868f19b7b23374946356b3fe4f
+>> 1  d:/tcsoftV6/gxcw60/mfc42.dll
+>> 2  d:/tcsoftV6/yhdz50/mfc42.dll
+>> 3  d:/tcsoftV6/yhdz60/mfc42.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/mfc42.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/mfc42.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/mfc42.dll
+>> 7  d:/tcsoftV6/档案管理系统最新版本/mfc42.dll
+Repeat file group #3 file size: 312.83 KB md5:9088ca504c513c673bbf01a7dd36f639
+>> 1  d:/tcsoftV6/grsr60/Pbo9090.dll
+>> 2  d:/tcsoftV6/gzgl60/Pbo9090.dll
+Repeat file group #4 file size: 116.74 KB md5:b45ef86c5d07aae61ce4bcead22f4195
+>> 1  d:/tcsoftV6/grsr60/pbjpx90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbjpx90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbjpx90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbjpx90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbjpx90.dll
+Repeat file group #5 file size: 307.20 KB md5:8fc54d86368243d7c7d527141194234a
+>> 1  d:/tcsoftV6/grsr60/PBXerces90.dll
+>> 2  d:/tcsoftV6/gzgl60/PBXerces90.dll
+Repeat file group #6 file size: 89.09 KB md5:8f2097e8b174f38178570c611464935f
+>> 1  d:/tcsoftV6/pjgl60/atl71.dll
+>> 2  d:/tcsoftV6/高校综合查询6.0客户端/atl71.dll
+Repeat file group #7 file size: 35.22 KB md5:7322ebc01ceaee138eca9dc2ea65eca5
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz02.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz02.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/01pz02.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz02.src
+Repeat file group #8 file size: 245.27 KB md5:c77f2bc9d3353800ab8fa7ee4071e9ca
+>> 1  d:/tcsoftV6/grsr60/WL50ENT.DLL
+>> 2  d:/tcsoftV6/gxcw60/WL50ENT.DLL
+>> 3  d:/tcsoftV6/gzgl60/Wl50ent.dll
+>> 4  d:/tcsoftV6/yhdz50/Wl50ent.dll
+>> 5  d:/tcsoftV6/yhdz60/Wl50ent.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/Wl50ent.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/Wl50ent.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/WL50ENT.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/WL50ENT.DLL
+Repeat file group #9 file size: 1.32 KB md5:adb0aff7179e51f1a2e5523ee6a442f7
+>> 1  d:/tcsoftV6/pjgl60/calender.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/calender.bmp
+>> 3  d:/tcsoftV6/yhpj60/calender.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/calender.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/calender.bmp
+Repeat file group #10 file size: 1.82 MB md5:69af8c2bfeaff488e841224c9b07a2b5
+>> 1  d:/tcsoftV6/grsr60/pbsys90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbsys90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbsys90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbsys90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbsys90.dll
+Repeat file group #11 file size: 204.80 KB md5:fa2172ac0c6d29eb5e34e057625fa3ec
+>> 1  d:/tcsoftV6/grsr60/CCardLibEx.dll
+>> 2  d:/tcsoftV6/gxcw60/CCardLibEx.dll
+>> 3  d:/tcsoftV6/gzgl60/CCardLibEx.dll
+>> 4  d:/tcsoftV6/yhdz50/CCardLibEx.dll
+>> 5  d:/tcsoftV6/yhdz60/CCardLibEx.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/CCardLibEx.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/CCardLibEx.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/CCardLibEx.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/CCardLibEx.dll
+Repeat file group #12 file size: 246 B md5:bcf62efadbbc9f09c69d6caa22b43e28
+>> 1  d:/tcsoftV6/pjgl60/print1.bmp
+>> 2  d:/tcsoftV6/yhpj60/print1.bmp
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/print1.bmp
+>> 4  d:/tcsoftV6/档案管理系统最新版本/print1.bmp
+Repeat file group #13 file size: 22.63 KB md5:760aacddfed4f3893400cf72499bc6f3
+>> 1  d:/tcsoftV6/pjgl60/image/kcyj.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/kcyj.bmp
+Repeat file group #14 file size: 131.07 KB md5:db411da54d908866c188ffc3d0c4642a
+>> 1  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/ScannerForPostalLib.dll
+>> 2  d:/tcsoftV6/gxcw60/ScannerForPostalLib.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ScannerForPostalLib.dll
+Repeat file group #15 file size: 22.63 KB md5:882c3815add3b6af21afd664eed7bc5e
+>> 1  d:/tcsoftV6/pjgl60/image/sjkbf - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/sjkbf.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/系统管理/sjkbf.bmp
+Repeat file group #16 file size: 409.09 KB md5:9acc40bcaf7d081d57a16357594b6325
+>> 1  d:/tcsoftV6/gxcw60/PrunedRotatePic.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/PrunedRotatePic.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PrunedRotatePic.dll
+Repeat file group #17 file size: 9.73 KB md5:28c1a7ba5f07529088ac42aa577d4ae6
+>> 1  d:/tcsoftV6/pjgl60/image/glxtcl.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/glxtcl.bmp
+Repeat file group #18 file size: 22.63 KB md5:a9eb122a8c091c275065147037f61e30
+>> 1  d:/tcsoftV6/pjgl60/image/bmzdsz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/bmzdsz.bmp
+Repeat file group #19 file size: 22.63 KB md5:923ac2dfd55820260f84defaf17764ae
+>> 1  d:/tcsoftV6/pjgl60/image/bangzh - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/bangzh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/帮助/bangzh.bmp
+Repeat file group #20 file size: 586.24 KB md5:34f524a361c27339f1484c6b840024bb
+>> 1  d:/tcsoftV6/yhdz50/yhdz_tools.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_tools.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_tools.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_tools.pbd
+Repeat file group #21 file size: 22.63 KB md5:509ac2dbe170d84827f86e6693c9c33e
+>> 1  d:/tcsoftV6/pjgl60/image/pjtlcx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjtlcx.bmp
+Repeat file group #22 file size: 77.82 KB md5:0173b69a26e0f600cc7860ee441f31e1
+>> 1  d:/tcsoftV6/grsr60/sure32wc.dll
+>> 2  d:/tcsoftV6/gxcw60/sure32wc.dll
+>> 3  d:/tcsoftV6/gzgl60/sure32wc.dll
+>> 4  d:/tcsoftV6/yhdz50/sure32wc.dll
+>> 5  d:/tcsoftV6/yhdz60/sure32wc.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/sure32wc.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/sure32wc.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/sure32wc.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/sure32wc.dll
+Repeat file group #23 file size: 246 B md5:9db9e3abe557ac100c0bfd5d4b0dbb29
+>> 1  d:/tcsoftV6/yhpj60/help.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/help.bmp
+Repeat file group #24 file size: 23.35 KB md5:47cd81a473079050918dfec99f4539f9
+>> 1  d:/tcsoftV6/grsr60/IC_API.DLL
+>> 2  d:/tcsoftV6/gxcw60/IC_API.DLL
+>> 3  d:/tcsoftV6/gzgl60/IC_API.DLL
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/IC_API.DLL
+>> 5  d:/tcsoftV6/档案管理系统最新版本/IC_API.DLL
+Repeat file group #25 file size: 685.06 KB md5:4399eb585174db8528346273b866352e
+>> 1  d:/tcsoftV6/grsr60/libeay32.dll
+>> 2  d:/tcsoftV6/gxcw60/libeay32.dll
+>> 3  d:/tcsoftV6/gzgl60/libeay32.dll
+>> 4  d:/tcsoftV6/yhdz50/libeay32.dll
+>> 5  d:/tcsoftV6/yhdz60/libeay32.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/libeay32.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/libeay32.dll
+>> 8  d:/tcsoftV6/yhpj60/libeay32.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/libeay32.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/libeay32.dll
+Repeat file group #26 file size: 294.91 KB md5:80c0feff7f2560347f2fd0c08c649668
+>> 1  d:/tcsoftV6/grsr60/CardInterfaceDll.dll
+>> 2  d:/tcsoftV6/gxcw60/CardInterfaceDll.dll
+>> 3  d:/tcsoftV6/gzgl60/CardInterfaceDll.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/CardInterfaceDll.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/CardInterfaceDll.dll
+Repeat file group #27 file size: 22.63 KB md5:02e816b772a7370d266b93dec31dea53
+>> 1  d:/tcsoftV6/pjgl60/image/apjhkscxdw - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/apjhkscxdw.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/票据查询/apjhkscxdw.bmp
+Repeat file group #28 file size: 22.63 KB md5:1213e2f4ec06f664ac545cfb97be38f0
+>> 1  d:/tcsoftV6/pjgl60/image/pjkcqdh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/pjkcqdh.bmp
+Repeat file group #29 file size: 22.63 KB md5:d02f23a0850ba5763afa6259a2e5eaf2
+>> 1  d:/tcsoftV6/pjgl60/image/zwkmzdh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/zwkmzdh.bmp
+Repeat file group #30 file size: 364.54 KB md5:20d5facc4f36f92989299b8f7068f13c
+>> 1  d:/tcsoftV6/grsr60/pbsoapclient90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbsoapclient90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbsoapclient90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbsoapclient90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbsoapclient90.dll
+Repeat file group #31 file size: 290.82 KB md5:5434932070cc1e85b4cddaada4286d9b
+>> 1  d:/tcsoftV6/gxcw60/ntwdblib.DLL
+>> 2  d:/tcsoftV6/pjgl60/ntwdblib.dll
+>> 3  d:/tcsoftV6/yhdz50/ntwdblib.DLL
+>> 4  d:/tcsoftV6/yhdz60/ntwdblib.DLL
+>> 5  d:/tcsoftV6/yhdz60(最新库)/ntwdblib.DLL
+>> 6  d:/tcsoftV6/yhdz60lsm/ntwdblib.DLL
+>> 7  d:/tcsoftV6/yhpj60/ntwdblib.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/ntwdblib.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/ntwdblib.DLL
+Repeat file group #32 file size: 1.26 KB md5:a8da575d8660247e5c88c61ab916e97b
+>> 1  d:/tcsoftV6/pjgl60/calculatorH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/calculatorH.bmp
+Repeat file group #33 file size: 8.22 KB md5:0649ed9d621aa0a05a1208def3f447ba
+>> 1  d:/tcsoftV6/yhpj60/yfh.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/yfh.bmp
+Repeat file group #34 file size: 110.59 KB md5:a5c9c4c8add8e28a0fb3d5959dd63dca
+>> 1  d:/tcsoftV6/grsr60/dbnetlib.dll
+>> 2  d:/tcsoftV6/gxcw60/dbnetlib.dll
+>> 3  d:/tcsoftV6/gzgl60/dbnetlib.dll
+>> 4  d:/tcsoftV6/pjgl60/dbnetlib.dll
+>> 5  d:/tcsoftV6/yhdz50/dbnetlib.dll
+>> 6  d:/tcsoftV6/yhdz60/dbnetlib.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/dbnetlib.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/dbnetlib.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/dbnetlib.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/dbnetlib.dll
+Repeat file group #35 file size: 67.89 KB md5:5a56392b1f7c00a277b77d5296fb87c8
+>> 1  d:/tcsoftV6/gxcw60/pbodb90.ini
+>> 2  d:/tcsoftV6/pjgl60/pbodb90.ini
+>> 3  d:/tcsoftV6/yhpj60/pbodb90.ini
+>> 4  d:/tcsoftV6/档案管理系统最新版本/pbodb90.ini
+Repeat file group #36 file size: 22.63 KB md5:8997d7e5646a92b99e5fa5f4c7704b93
+>> 1  d:/tcsoftV6/pjgl60/image/pjkcshh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/pjkcshh.bmp
+Repeat file group #37 file size: 96.06 KB md5:96e9c11077a4781161d1d87351df456b
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_PZ.BMP
+>> 2  d:/tcsoftV6/pjgl60/LOGO_PZ.BMP
+Repeat file group #38 file size: 104.45 KB md5:90e0a8b156b5e23c666ad3909d6d76f3
+>> 1  d:/tcsoftV6/grsr60/pbdpp90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdpp90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbdpp90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbdpp90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbdpp90.dll
+Repeat file group #39 file size: 1.26 KB md5:ba0bc9dd512cb85a1a75926bc0bed99a
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/ss.bmp
+>> 2  d:/tcsoftV6/pjgl60/ss.bmp
+Repeat file group #40 file size: 1.26 KB md5:9326b4e3bb9cc90e844e81e68a6478e2
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/queryH.bmp
+>> 2  d:/tcsoftV6/pjgl60/queryH.bmp
+Repeat file group #41 file size: 28.67 KB md5:4a5e9d51349aeb3b2bc250fcc3e42ce4
+>> 1  d:/tcsoftV6/gxcw60/dbnmpntw.dll
+>> 2  d:/tcsoftV6/yhdz50/dbnmpntw.dll
+>> 3  d:/tcsoftV6/yhdz60/dbnmpntw.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/dbnmpntw.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/dbnmpntw.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/dbnmpntw.dll
+Repeat file group #42 file size: 685.84 KB md5:8efdffd4e5b72343824ae010934c55fa
+>> 1  d:/tcsoftV6/grsr60/libEncina_nodce.dll
+>> 2  d:/tcsoftV6/gzgl60/libEncina_nodce.dll
+>> 3  d:/tcsoftV6/pjgl60/libEncina_nodce.dll
+>> 4  d:/tcsoftV6/yhpj60/libEncina_nodce.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/libEncina_nodce.dll
+Repeat file group #43 file size: 26.25 KB md5:16bbba2f7aa3c660b7187803684328cc
+>> 1  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/Resource/BinarySchema/CEBX_Full_v1.1.bsg
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/Resource/BinarySchema/CEBX_Full_v1.1u.bsg
+Repeat file group #44 file size: 246 B md5:0ba4eb5e5ea26d916675c33f6375badb
+>> 1  d:/tcsoftV6/pjgl60/First1.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/First1.bmp
+>> 3  d:/tcsoftV6/yhpj60/First1.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/First1.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/First1.bmp
+Repeat file group #45 file size: 180.29 KB md5:2423978aed128a68087af05e5951252b
+>> 1  d:/tcsoftV6/gxcw60/SQLUNIRL.DLL
+>> 2  d:/tcsoftV6/档案管理系统最新版本/SQLUNIRL.DLL
+Repeat file group #46 file size: 74.81 KB md5:73e73291091e4d456f4c5b3650eaf51b
+>> 1  d:/tcsoftV6/grsr60/atl.dll
+>> 2  d:/tcsoftV6/gxcw60/atl.dll
+>> 3  d:/tcsoftV6/gzgl60/atl.dll
+>> 4  d:/tcsoftV6/yhdz50/atl.dll
+>> 5  d:/tcsoftV6/yhdz60/atl.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/atl.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/atl.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/atl.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/atl.dll
+Repeat file group #47 file size: 110.59 KB md5:bccbff15c12f42b12f1e8bae164a6694
+>> 1  d:/tcsoftV6/grsr60/HRecordSet.dll
+>> 2  d:/tcsoftV6/gxcw60/HRecordSet.dll
+>> 3  d:/tcsoftV6/gzgl60/HRecordSet.dll
+>> 4  d:/tcsoftV6/yhdz50/HRecordSet.dll
+>> 5  d:/tcsoftV6/yhdz60/HRecordSet.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HRecordSet.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HRecordSet.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HRecordSet.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HRecordSet.dll
+Repeat file group #48 file size: 96.06 KB md5:b4c4295e0052b3b7dcc14713ce046da3
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_kcqd.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_kcqd.bmp
+Repeat file group #49 file size: 22.63 KB md5:99e3322d51c414a20649dd279f39383c
+>> 1  d:/tcsoftV6/pjgl60/image/ylywhxpjcxH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/ylywhxpjcxH.bmp
+Repeat file group #50 file size: 1.48 MB md5:bffe680bee4ce9d85995f13d670cacc7
+>> 1  d:/tcsoftV6/grsr60/pbudo90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbudo90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbudo90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbudo90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbudo90.dll
+Repeat file group #51 file size: 22.63 KB md5:658d111b19987190231e9f8c167948b0
+>> 1  d:/tcsoftV6/pjgl60/image/pjhxcx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjhxcx.bmp
+Repeat file group #52 file size: 22.63 KB md5:d286654b2ebfa52b601a9741fea29ea1
+>> 1  d:/tcsoftV6/pjgl60/image/pjjcbh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/月末结存/pjjcbh.bmp
+Repeat file group #53 file size: 1.44 MB md5:93c03ada635e817ae75746fd6b951555
+>> 1  d:/tcsoftV6/grsr60/xerces-c_1_5_1.dll
+>> 2  d:/tcsoftV6/gzgl60/xerces-c_1_5_1.dll
+>> 3  d:/tcsoftV6/pjgl60/xerces-c_1_5_1.dll
+Repeat file group #54 file size: 8.19 KB md5:3433b51d6330ac9d3bb6993be279082b
+>> 1  d:/tcsoftV6/grsr60/pbsoapclient90.pbd
+>> 2  d:/tcsoftV6/gxcw60/pbsoapclient90.pbd
+>> 3  d:/tcsoftV6/yhdz50/pbsoapclient90.pbd
+>> 4  d:/tcsoftV6/yhdz60/pbsoapclient90.pbd
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbsoapclient90.pbd
+>> 6  d:/tcsoftV6/yhdz60lsm/pbsoapclient90.pbd
+>> 7  d:/tcsoftV6/yxhl60/pbsoapclient90.pbd
+>> 8  d:/tcsoftV6/档案管理系统最新版本/pbsoapclient90.pbd
+Repeat file group #55 file size: 69.63 KB md5:b5706bdd0d096513c7f174b932b3124a
+>> 1  d:/tcsoftV6/gxcw60/LinearBarDecodeEX.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/DecodeDll/LinearBarDecodeEX.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/LinearBarDecodeEX.dll
+Repeat file group #56 file size: 311.30 KB md5:93cf71eb9be988009237cb5aa935f850
+>> 1  d:/tcsoftV6/yxhl60/Pbodbc1.dll
+>> 2  d:/tcsoftV6/yxhl60/Pbodbc90.dll
+Repeat file group #57 file size: 22.63 KB md5:fb902f452e0bd8166b6449914530b8bb
+>> 1  d:/tcsoftV6/pjgl60/image/pjtkh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjtkh.bmp
+Repeat file group #58 file size: 27.65 KB md5:b3996e6bdc2e984c7f4bc9f9eb5d2c9e
+>> 1  d:/tcsoftV6/gxcw60/PRTSET32.DLL
+>> 2  d:/tcsoftV6/yhdz50/prtset32.dll
+>> 3  d:/tcsoftV6/yhdz60/prtset32.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/prtset32.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/prtset32.dll
+Repeat file group #59 file size: 22.63 KB md5:94f8dea17f502adfaccd6ed27aa4c2c4
+>> 1  d:/tcsoftV6/pjgl60/image/dwmcxlhh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/帮助/dwmcxlhh.bmp
+Repeat file group #60 file size: 22.63 KB md5:9b7cb36afaf6526c116bddd40e810315
+>> 1  d:/tcsoftV6/pjgl60/image/pjhxcxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjhxcxh.bmp
+Repeat file group #61 file size: 7.17 KB md5:f56c3ac4df54941bf365ad2cf30d12cb
+>> 1  d:/tcsoftV6/grsr60/pbwei90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwei90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwei90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwei90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwei90.dll
+Repeat file group #62 file size: 728.58 KB md5:5db90391f9d9a6523e37ad1806d404b4
+>> 1  d:/tcsoftV6/grsr60/tc_zw_kmqs.dll
+>> 2  d:/tcsoftV6/gzgl60/tc_zw_kmqs.dll
+Repeat file group #63 file size: 22.63 KB md5:e645a93637297f8fe253139dd5376bd8
+>> 1  d:/tcsoftV6/pjgl60/image/pjkccshh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/pjkccshh.bmp
+Repeat file group #64 file size: 38.91 KB md5:904445dcf8e9b4716207d8de44376f19
+>> 1  d:/tcsoftV6/gxcw60/AForge.Video.DirectShow.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/AForge.Video.DirectShow.dll
+Repeat file group #65 file size: 38.40 KB md5:62317fe4f8dcc776b57d4916a6e3aa5d
+>> 1  d:/tcsoftV6/yhdz50/main.exe
+>> 2  d:/tcsoftV6/yhdz60/main.exe
+>> 3  d:/tcsoftV6/yhdz60(最新库)/main.exe
+>> 4  d:/tcsoftV6/yhdz60lsm/main.exe
+Repeat file group #66 file size: 9.76 KB md5:03aeab53e69102e0ac300015afe92a9f
+>> 1  d:/tcsoftV6/pjgl60/image/passwordBG.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/passwordBG.bmp
+>> 3  d:/tcsoftV6/pjgl60/passwordBG.bmp
+Repeat file group #67 file size: 1.27 MB md5:f61cddd834c5526988a43c097e138a30
+>> 1  d:/tcsoftV6/gxcw60/ImageZoom.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/ImageZoom.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ImageZoom.dll
+Repeat file group #68 file size: 22.63 KB md5:dd35fa8d061d1559105b1ee46883f851
+>> 1  d:/tcsoftV6/pjgl60/image/zwjsfs.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/cwjsfs.bmp
+Repeat file group #69 file size: 268.80 KB md5:9069a3e862982861994c6cd9de5f35df
+>> 1  d:/tcsoftV6/yhdz50/yhdz_munutools.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_munutools.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_munutools.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_munutools.pbd
+Repeat file group #70 file size: 96.06 KB md5:f96b01e7fdf134169d0da00cacb41070
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_tl.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_tl.bmp
+Repeat file group #71 file size: 32.26 KB md5:0ba5df543b71c5dbd74cfa70339be3b4
+>> 1  d:/tcsoftV6/grsr60/pfccom32.dll
+>> 2  d:/tcsoftV6/gzgl60/pfccom32.dll
+Repeat file group #72 file size: 563.20 KB md5:f5e73760a3f52d0fc11aa3b30f9c4b75
+>> 1  d:/tcsoftV6/grsr60/pbcmp90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcmp90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcmp90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcmp90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcmp90.dll
+Repeat file group #73 file size: 246 B md5:a962612cba9b94d9946719375d048e36
+>> 1  d:/tcsoftV6/pjgl60/SELECT.BMP
+>> 2  d:/tcsoftV6/yhpj60/select.bmp
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/select.bmp
+>> 4  d:/tcsoftV6/档案管理系统最新版本/select.bmp
+Repeat file group #74 file size: 34.82 KB md5:fc2ab15d2bdd54b483505da7bf46cb4f
+>> 1  d:/tcsoftV6/gxcw60/pbtra90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbtra90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbtra90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbtra90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbtra90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbtra90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbtra90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbtra90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbtra90.dll
+Repeat file group #75 file size: 738 B md5:05c5f9e476eb661d1e930458ea2222d3
+>> 1  d:/tcsoftV6/gxcw60/jyp/vssver2.scc
+>> 2  d:/tcsoftV6/档案管理系统最新版本/vssver2.scc
+Repeat file group #76 file size: 96.06 KB md5:093d2f6e8d0b5955bbb87b3a83e90113
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_jc.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_jc.bmp
+Repeat file group #77 file size: 246 B md5:33fba71362e25da97eaf07d47882a9a1
+>> 1  d:/tcsoftV6/yhpj60/PRIOR.BMP
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/PRIOR.BMP
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PRIOR.BMP
+Repeat file group #78 file size: 9.73 KB md5:480c3594d9351a7d82b67e00e61ba2e5
+>> 1  d:/tcsoftV6/pjgl60/image/rcywH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/rcywH.bmp
+Repeat file group #79 file size: 406.02 KB md5:52c6e347d2727c99176c08e2572b38d4
+>> 1  d:/tcsoftV6/gxcw60/pbsyc90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbsyc90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbsyc90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbsyc90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbsyc90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbsyc90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbsyc90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbsyc90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbsyc90.dll
+Repeat file group #80 file size: 246 B md5:2286ae3169be846baffc2ea8a3f8345e
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/NEXT.BMP
+>> 2  d:/tcsoftV6/pjgl60/NEXT.BMP
+>> 3  d:/tcsoftV6/yhpj60/NEXT.BMP
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/NEXT.BMP
+>> 5  d:/tcsoftV6/档案管理系统最新版本/NEXT.BMP
+Repeat file group #81 file size: 246 B md5:e6fa1e5a8ed987efc181e8e91ff173d4
+>> 1  d:/tcsoftV6/pjgl60/FOLDOPEN.BMP
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/FOLDOPEN.BMP
+>> 3  d:/tcsoftV6/yhpj60/FOLDOPEN.BMP
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/FOLDOPEN.BMP
+Repeat file group #82 file size: 28.94 KB md5:cbf7e0f5e97d2ac85b8dea6b9c32f486
+>> 1  d:/tcsoftV6/grsr60/DBmsRPCn.dll
+>> 2  d:/tcsoftV6/gxcw60/DBmsRPCn.dll
+>> 3  d:/tcsoftV6/gzgl60/DBmsRPCn.dll
+>> 4  d:/tcsoftV6/yhdz50/DBmsRPCn.dll
+>> 5  d:/tcsoftV6/yhdz60/DBmsRPCn.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/DBmsRPCn.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/DBmsRPCn.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/DBmsRPCn.dll
+Repeat file group #83 file size: 164.11 KB md5:0e1dccba4de90c1489c0372075205961
+>> 1  d:/tcsoftV6/grsr60/olepro32.dll
+>> 2  d:/tcsoftV6/gxcw60/olepro32.dll
+>> 3  d:/tcsoftV6/gzgl60/olepro32.dll
+>> 4  d:/tcsoftV6/yhdz50/olepro32.dll
+>> 5  d:/tcsoftV6/yhdz60/olepro32.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/olepro32.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/olepro32.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/olepro32.dll
+Repeat file group #84 file size: 82.94 KB md5:48094bbdcc164d2eee720826736d0a78
+>> 1  d:/tcsoftV6/yhdz50/yhdz_calender.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_calender.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_calender.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_calender.pbd
+Repeat file group #85 file size: 246 B md5:4b05293996e13a6296d749dc7ca0630f
+>> 1  d:/tcsoftV6/yhpj60/del.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/del.bmp
+Repeat file group #86 file size: 245.76 KB md5:354d71202051ffc6a3397357d245dace
+>> 1  d:/tcsoftV6/gxcw60/ImageToPDF.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/ImageToPDF.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ImageToPDF.dll
+Repeat file group #87 file size: 291.84 KB md5:be8892d568c7b45315ecf14f3d35ec80
+>> 1  d:/tcsoftV6/gxcw60/DirectShow.NET.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/DirectShow.NET.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PZSM/DirectShow.NET.dll
+Repeat file group #88 file size: 49.15 KB md5:7661816e2e33a3b4f0fcf9dcc441b5d2
+>> 1  d:/tcsoftV6/gxcw60/AForge.Controls.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/AForge.Controls.dll
+Repeat file group #89 file size: 1.26 KB md5:9e8f5b33f5a72337b84a741364ddb1c1
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/ymszH.bmp
+>> 2  d:/tcsoftV6/pjgl60/ymszH.bmp
+Repeat file group #90 file size: 22.63 KB md5:d9951cabd899f286e6476285c9d1d87a
+>> 1  d:/tcsoftV6/pjgl60/image/bmkcxeyj.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/bmkcxeyj.bmp
+Repeat file group #91 file size: 827.45 KB md5:0030b7bb099895fe5b877c4f9b4fc847
+>> 1  d:/tcsoftV6/grsr60/MFCO42D.DLL
+>> 2  d:/tcsoftV6/gxcw60/MFCO42D.DLL
+>> 3  d:/tcsoftV6/gzgl60/MFCO42D.DLL
+>> 4  d:/tcsoftV6/yhdz50/MFCO42D.DLL
+>> 5  d:/tcsoftV6/yhdz60/MFCO42D.DLL
+>> 6  d:/tcsoftV6/yhdz60(最新库)/MFCO42D.DLL
+>> 7  d:/tcsoftV6/yhdz60lsm/MFCO42D.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/MFCO42D.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/MFCO42D.DLL
+Repeat file group #92 file size: 859.14 KB md5:b76f61ee74e33ab2fcddc6d7b6892639
+>> 1  d:/tcsoftV6/grsr60/pbrtc90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbrtc90.dll
+>> 3  d:/tcsoftV6/yxhl60/pbrtc90.dll
+Repeat file group #93 file size: 22.63 KB md5:f91ccfe5c38e3c7d01497b2ae923046f
+>> 1  d:/tcsoftV6/pjgl60/image/pjpc.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/pjpc.bmp
+Repeat file group #94 file size: 500.22 KB md5:5b462147cd7205c7211f5fa421e61a58
+>> 1  d:/tcsoftV6/gxcw60/ImgFmt.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/ImgFmt.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ImgFmt.dll
+Repeat file group #95 file size: 7.69 KB md5:b7dd309db750a8d03e7026e905755a9b
+>> 1  d:/tcsoftV6/grsr60/dygs/02fk01.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/02fk01.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/02fk01.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/02fk01.src
+Repeat file group #96 file size: 22.63 KB md5:ccdf4805e6742c6f49a47e81f6e31991
+>> 1  d:/tcsoftV6/pjgl60/image/pjrkcx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjrkcx.bmp
+Repeat file group #97 file size: 499.71 KB md5:561fa2abb31dfa8fab762145f81667c2
+>> 1  d:/tcsoftV6/grsr60/msvcp71.dll
+>> 2  d:/tcsoftV6/gxcw60/msvcp71.dll
+>> 3  d:/tcsoftV6/gzgl60/msvcp71.dll
+>> 4  d:/tcsoftV6/pjgl60/msvcp71.dll
+>> 5  d:/tcsoftV6/yhdz50/msvcp71.dll
+>> 6  d:/tcsoftV6/yhdz60/msvcp71.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/msvcp71.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/msvcp71.dll
+>> 9  d:/tcsoftV6/yhpj60/msvcp71.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/msvcp71.dll
+>>11  d:/tcsoftV6/高校综合查询6.0客户端/msvcp71.dll
+Repeat file group #98 file size: 601.60 KB md5:cc111c4992960414926bfc593a3f6fa4
+>> 1  d:/tcsoftV6/grsr60/tc_bt_10.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_bt_10.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_bt_10.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_bt_10.dll
+Repeat file group #99 file size: 564.74 KB md5:8b1479e09fca9db43a50cc3957b00fde
+>> 1  d:/tcsoftV6/grsr60/pbgen90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbgen90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbgen90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbgen90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbgen90.dll
+Repeat file group #100 file size: 33.04 KB md5:1aa7a832bc7e001103910060db74ba8c
+>> 1  d:/tcsoftV6/grsr60/DBmsSHRn.dll
+>> 2  d:/tcsoftV6/gxcw60/DBmsSHRn.dll
+>> 3  d:/tcsoftV6/gzgl60/DBmsSHRn.dll
+>> 4  d:/tcsoftV6/pjgl60/DBmsSHRn.dll
+>> 5  d:/tcsoftV6/yhdz50/DBmsSHRn.dll
+>> 6  d:/tcsoftV6/yhdz60/DBmsSHRn.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/DBmsSHRn.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/DBmsSHRn.dll
+>> 9  d:/tcsoftV6/yhpj60/DBmsSHRn.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/DBmsSHRn.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/DBmsSHRn.dll
+Repeat file group #101 file size: 65.60 KB md5:57a3abc05de355737995c24b92040722
+>> 1  d:/tcsoftV6/gxcw60/PZSM/AForge.Controls.xml
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.Controls.xml
+Repeat file group #102 file size: 199.17 KB md5:bd002a3320df2479c6a4190325ad717a
+>> 1  d:/tcsoftV6/yhdz50/wy_dba.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_dba.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_dba.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_dba.pbd
+Repeat file group #103 file size: 108.03 KB md5:48ce47eef5eb347b99b7d3361b5fe025
+>> 1  d:/tcsoftV6/grsr60/pbwpb90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwpb90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwpb90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwpb90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwpb90.dll
+Repeat file group #104 file size: 12.16 KB md5:7026cd23c3c894c9c839c82f8a9b14cd
+>> 1  d:/tcsoftV6/yxhl60/file/ALL/wy_bwjg.txt
+>> 2  d:/tcsoftV6/yxhl60/file/wy_bwjg.txt
+Repeat file group #105 file size: 22.63 KB md5:9064c754a627974e63e8450746abaf95
+>> 1  d:/tcsoftV6/pjgl60/image/ggklh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/ggklh.bmp
+Repeat file group #106 file size: 9.73 KB md5:6fa4384dcecedcaafe94e0ba8c1f0c57
+>> 1  d:/tcsoftV6/pjgl60/image/rcyw.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/rcyw.bmp
+Repeat file group #107 file size: 1.67 MB md5:3376c3b4af47368504ecbdd07158d2b5
+>> 1  d:/tcsoftV6/grsr60/pbch90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbch90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbch90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbch90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbch90.dll
+Repeat file group #108 file size: 600.58 KB md5:12f057bdcfb9a986dd03c9f09b571fb2
+>> 1  d:/tcsoftV6/grsr60/tc_rq_12.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_rq_12.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_rq_12.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_rq_12.dll
+Repeat file group #109 file size: 22.63 KB md5:9020f063df2c5584135909b37c00f513
+>> 1  d:/tcsoftV6/pjgl60/image/bmhxpjtjbh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/bmhxpjtjbh.bmp
+Repeat file group #110 file size: 1.26 KB md5:b183c03c6d125ff02c071c32f042da4d
+>> 1  d:/tcsoftV6/pjgl60/cancleH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/cancleH.bmp
+Repeat file group #111 file size: 115.20 KB md5:f62e2ae837564107cae815f89a33532e
+>> 1  d:/tcsoftV6/grsr60/pbapl90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbapl90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbapl90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbapl90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbapl90.dll
+Repeat file group #112 file size: 153.60 KB md5:69d970bbeadabe0d6cd29ffc31db6b96
+>> 1  d:/tcsoftV6/grsr60/pbwsdl90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwsdl90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwsdl90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwsdl90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwsdl90.dll
+Repeat file group #113 file size: 1.26 KB md5:6cd37ad6ddfe3e36e5c72a217911066c
+>> 1  d:/tcsoftV6/pjgl60/dyylH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/dyylH.bmp
+Repeat file group #114 file size: 1.65 KB md5:2cb0115b7eaabf553cfcbdf091d522a0
+>> 1  d:/tcsoftV6/yhpj60/question.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/question.bmp
+Repeat file group #115 file size: 24.58 KB md5:b21553227f7a0139735c0ef665580650
+>> 1  d:/tcsoftV6/grsr60/STKIT432.DLL
+>> 2  d:/tcsoftV6/gxcw60/STKIT432.DLL
+>> 3  d:/tcsoftV6/gzgl60/STKIT432.DLL
+>> 4  d:/tcsoftV6/yhdz50/STKIT432.DLL
+>> 5  d:/tcsoftV6/yhdz60/STKIT432.DLL
+>> 6  d:/tcsoftV6/yhdz60(最新库)/STKIT432.DLL
+>> 7  d:/tcsoftV6/yhdz60lsm/STKIT432.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/STKIT432.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/STKIT432.DLL
+Repeat file group #116 file size: 405.50 KB md5:8671567a51df1e9dfd77eed935875d93
+>> 1  d:/tcsoftV6/grsr60/pbsyc90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbsyc90.dll
+>> 3  d:/tcsoftV6/yxhl60/pbsyc90.dll
+Repeat file group #117 file size: 452.61 KB md5:c9c692e7344fa654c519c15aa9b6ff9d
+>> 1  d:/tcsoftV6/grsr60/pbodb90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbodb90.dll
+Repeat file group #118 file size: 46.27 KB md5:8f3b6d6147bd06ce501d0806d7c0ec62
+>> 1  d:/tcsoftV6/gzgl60/dygs/01pz01.srd
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz01.srd
+Repeat file group #119 file size: 8.24 KB md5:f20b55b00b7cfd8cc140696a7f29aa6e
+>> 1  d:/tcsoftV6/yhpj60/pjdygs/06zzzp.srd
+>> 2  d:/tcsoftV6/yhpj60/pjdygs/07xxzp.srd
+>> 3  d:/tcsoftV6/yhpj60/pjdygs/08zzzps.srd
+Repeat file group #120 file size: 231.18 KB md5:269be8f0a4549e4597e1b063c01733f6
+>> 1  d:/tcsoftV6/grsr60/GDI32.DLL
+>> 2  d:/tcsoftV6/gxcw60/GDI32.DLL
+>> 3  d:/tcsoftV6/gzgl60/GDI32.DLL
+>> 4  d:/tcsoftV6/yhdz50/GDI32.DLL
+>> 5  d:/tcsoftV6/yhdz60/GDI32.DLL
+>> 6  d:/tcsoftV6/yhdz60(最新库)/GDI32.DLL
+>> 7  d:/tcsoftV6/yhdz60lsm/GDI32.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/GDI32.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/GDI32.DLL
+Repeat file group #121 file size: 602.62 KB md5:813aae3c1880b781a4b6e26241ac85b9
+>> 1  d:/tcsoftV6/grsr60/tc_rq_11.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_rq_11.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_rq_11.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_rq_11.dll
+Repeat file group #122 file size: 22.63 KB md5:64fbc9e1378f2ddda37b7354db2d96a7
+>> 1  d:/tcsoftV6/pjgl60/image/drpjxtkpxxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/drpjxtkpxxh.bmp
+Repeat file group #123 file size: 22.63 KB md5:12f29ee96b5b6c50fed0a7e4df1ec3db
+>> 1  d:/tcsoftV6/pjgl60/image/dhxpjcx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/dhxpjcx.bmp
+Repeat file group #124 file size: 22.63 KB md5:31d95849542ad0da0ebb84effdd1a592
+>> 1  d:/tcsoftV6/pjgl60/image/kcxesz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/kcxesz.bmp
+Repeat file group #125 file size: 147.46 KB md5:4f2b77038fe9fc9c06b917bee0c375b3
+>> 1  d:/tcsoftV6/yhdz50/Net.dll
+>> 2  d:/tcsoftV6/yhdz60/Net.dll
+>> 3  d:/tcsoftV6/yhdz60(最新库)/Net.dll
+>> 4  d:/tcsoftV6/yhdz60lsm/Net.dll
+Repeat file group #126 file size: 155.65 KB md5:b20769d272eaf7b922fc7b91279c23bd
+>> 1  d:/tcsoftV6/grsr60/htrf32.dll
+>> 2  d:/tcsoftV6/gxcw60/htrf32.dll
+>> 3  d:/tcsoftV6/gzgl60/htrf32.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/htrf32.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/htrf32.dll
+Repeat file group #127 file size: 151.04 KB md5:16e71844485a9eb7888771f7ef1584f9
+>> 1  d:/tcsoftV6/gxcw60/Accounting.Client.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/Accounting.Client.dll
+Repeat file group #128 file size: 96.06 KB md5:5a8fe1dd7945f2ef51b977d7e454c4d1
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_dwdm.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_dwdm.bmp
+Repeat file group #129 file size: 110.59 KB md5:bc93fb0279b6744cb8e28323cf588f33
+>> 1  d:/tcsoftV6/gxcw60/pbjag90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbjag90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbjag90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbjag90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbjag90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbjag90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbjag90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbjag90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbjag90.dll
+Repeat file group #130 file size: 412.67 KB md5:f6d738fd4dc434309eea3e3377d7fcfd
+>> 1  d:/tcsoftV6/yhdz50/menutool1.pbd
+>> 2  d:/tcsoftV6/yhdz60/menutool1.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/menutool1.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/menutool1.pbd
+Repeat file group #131 file size: 20.78 KB md5:0815db5fdad0735bfaa9900cea666cca
+>> 1  d:/tcsoftV6/yxhl60/attachment/LogDownload.txt
+>> 2  d:/tcsoftV6/yxhl60/attachment/LogHttp.txt
+>> 3  d:/tcsoftV6/yxhl60/attachment/WY_Master_2020_HD_20200321110883600165PIWZOGB_00001.pdf
+Repeat file group #132 file size: 957.20 KB md5:99f34cdf387b7d903662d8126deddd8d
+>> 1  d:/tcsoftV6/grsr60/OLE32.DLL
+>> 2  d:/tcsoftV6/gxcw60/OLE32.DLL
+>> 3  d:/tcsoftV6/gzgl60/OLE32.DLL
+>> 4  d:/tcsoftV6/yhdz50/OLE32.DLL
+>> 5  d:/tcsoftV6/yhdz60/OLE32.DLL
+>> 6  d:/tcsoftV6/yhdz60(最新库)/OLE32.DLL
+>> 7  d:/tcsoftV6/yhdz60lsm/OLE32.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/OLE32.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/OLE32.DLL
+Repeat file group #133 file size: 379.90 KB md5:575f38f8299fdba846c4e6a39b2f2645
+>> 1  d:/tcsoftV6/gxcw60/RFDLL32.dll
+>> 2  d:/tcsoftV6/yhdz50/RFDLL32.dll
+>> 3  d:/tcsoftV6/yhdz60/RFDLL32.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/RFDLL32.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/RFDLL32.dll
+>> 6  d:/tcsoftV6/档案管理系统最新版本/RFDLL32.dll
+Repeat file group #134 file size: 22.63 KB md5:9460d3072d567e61edf85a8b97177478
+>> 1  d:/tcsoftV6/pjgl60/image/jiankh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/帮助/jiankh.bmp
+Repeat file group #135 file size: 2.18 KB md5:de9e5e8d0fc3fe157ccbc97677c28e2a
+>> 1  d:/tcsoftV6/grsr60/dygs/03zz.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/03zz.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/03zz.txt
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/03zz.txt
+Repeat file group #136 file size: 22.63 KB md5:1f7239a7b007dc31f1fe7d2ce91e2533
+>> 1  d:/tcsoftV6/pjgl60/image/xtcsszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/xtcsszh.bmp
+Repeat file group #137 file size: 1.26 KB md5:9fbb56e93103298e70b0a979f58347e5
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/printer.bmp
+>> 2  d:/tcsoftV6/pjgl60/printer.bmp
+Repeat file group #138 file size: 1.86 MB md5:dd500b61f6cbf2374ebe94b953103fc3
+>> 1  d:/tcsoftV6/grsr60/xerces-c_2_1_0.dll
+>> 2  d:/tcsoftV6/gxcw60/xerces-c_2_1_0.dll
+>> 3  d:/tcsoftV6/gzgl60/xerces-c_2_1_0.dll
+>> 4  d:/tcsoftV6/pjgl60/xerces-c_2_1_0.dll
+>> 5  d:/tcsoftV6/yhdz50/xerces-c_2_1_0.dll
+>> 6  d:/tcsoftV6/yhdz60/xerces-c_2_1_0.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/xerces-c_2_1_0.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/xerces-c_2_1_0.dll
+>> 9  d:/tcsoftV6/yhpj60/xerces-c_2_1_0.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/xerces-c_2_1_0.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/xerces-c_2_1_0.dll
+Repeat file group #139 file size: 22.63 KB md5:1433396c688c46bd9af90c07f8e615a0
+>> 1  d:/tcsoftV6/pjgl60/image/pjbs.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjbs.bmp
+Repeat file group #140 file size: 109.25 KB md5:3d8fd62d17a44221e07d5c535950449b
+>> 1  d:/tcsoftV6/gxcw60/Mswinsck.ocx
+>> 2  d:/tcsoftV6/档案管理系统最新版本/Mswinsck.ocx
+Repeat file group #141 file size: 22.63 KB md5:7c34d4660e1de7aaccbd98a15cf5cd9e
+>> 1  d:/tcsoftV6/pjgl60/image/ggczy.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/ggczy.bmp
+Repeat file group #142 file size: 22.63 KB md5:f419ad1c98d65e8c562593ddec52be02
+>> 1  d:/tcsoftV6/pjgl60/image/sjjggxh - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/sjjggxh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/系统管理/sjjggxh.bmp
+Repeat file group #143 file size: 238 B md5:db00ba8d1c05753cc165aec66b443abb
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/PRIOR.BMP
+>> 2  d:/tcsoftV6/pjgl60/PRIOR.BMP
+Repeat file group #144 file size: 158.21 KB md5:8159deca95776cd024935e8036d1c09c
+>> 1  d:/tcsoftV6/yhdz50/wy_help.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_help.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_help.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_help.pbd
+Repeat file group #145 file size: 3.47 KB md5:380e004cf582d775d64d8867373495a4
+>> 1  d:/tcsoftV6/gxcw60/dygs/03zz.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/03zz.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/03zz.srd
+Repeat file group #146 file size: 223.13 KB md5:4167c80bb3bc80fd516c0a82ad0a8217
+>> 1  d:/tcsoftV6/gxcw60/file/zw_kmdzb_help.txt
+>> 2  d:/tcsoftV6/gxcw60/zw_kmdzb_help.txt
+Repeat file group #147 file size: 1.26 KB md5:d8e0f7576cbe441ac3f0ffae76b0dd3b
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/indexH.bmp
+>> 2  d:/tcsoftV6/pjgl60/indexH.bmp
+Repeat file group #148 file size: 22.63 KB md5:5b1ea491fd18eb70b758f13e9c36bb60
+>> 1  d:/tcsoftV6/pjgl60/image/pjqjfsetjbh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjqjfsetjbh.bmp
+Repeat file group #149 file size: 776 B md5:7e0fe2e07ed01f09b59eb7d4e65f5555
+>> 1  d:/tcsoftV6/yhpj60/date.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/date.bmp
+>> 3  d:/tcsoftV6/档案管理系统最新版本/date.bmp
+Repeat file group #150 file size: 7.64 KB md5:b9443131a98fda4e57a4acc2214d9896
+>> 1  d:/tcsoftV6/gxcw60/dygs/01pz06.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/01pz06.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz06.srd
+Repeat file group #151 file size: 11 B md5:e39379128a289335981e69b1a5722df0
+>> 1  d:/tcsoftV6/grsr60/PBDLL.DLL
+>> 2  d:/tcsoftV6/gzgl60/Pbdll.dll
+Repeat file group #152 file size: 9.73 KB md5:e2103a62c1946b89cf0e8b1e5b8d8966
+>> 1  d:/tcsoftV6/pjgl60/image/pjcxH - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/pjcxH.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/pjcxH.bmp
+Repeat file group #153 file size: 22.63 KB md5:0e38b7d9c2e28540b65f3dc536962a65
+>> 1  d:/tcsoftV6/pjgl60/image/pjlyh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjlyh.bmp
+Repeat file group #154 file size: 52.22 KB md5:6bcb884ed70c0b1c18815709e8aad0d8
+>> 1  d:/tcsoftV6/gxcw60/wy_update.pbd
+>> 2  d:/tcsoftV6/yhdz50/wy_update.pbd
+>> 3  d:/tcsoftV6/yhdz60/wy_update.pbd
+>> 4  d:/tcsoftV6/yhdz60(最新库)/wy_update.pbd
+>> 5  d:/tcsoftV6/yhdz60lsm/wy_update.pbd
+>> 6  d:/tcsoftV6/yxhl60/wy_update.pbd
+Repeat file group #155 file size: 310.78 KB md5:a0e3bff2076cccc30e53479afff814b0
+>> 1  d:/tcsoftV6/grsr60/ejb2pbdll90.dll
+>> 2  d:/tcsoftV6/gzgl60/ejb2pbdll90.dll
+>> 3  d:/tcsoftV6/pjgl60/ejb2pbdll90.dll
+>> 4  d:/tcsoftV6/yhpj60/ejb2pbdll90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/ejb2pbdll90.dll
+Repeat file group #156 file size: 616.96 KB md5:373716afcc6f95920d0745578a4f256c
+>> 1  d:/tcsoftV6/grsr60/tc_rq_16.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_rq_16.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_rq_16.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_rq_16.dll
+Repeat file group #157 file size: 22.63 KB md5:4d006bc03d2e23ad2d239ff646bc07f6
+>> 1  d:/tcsoftV6/pjgl60/image/pjkcqd.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/pjkcqd.bmp
+Repeat file group #158 file size: 33.66 KB md5:583acff2d68107394eba69c44651adc3
+>> 1  d:/tcsoftV6/pjgl60/image/left - 副本.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/left.jpg
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/left.jpg
+Repeat file group #159 file size: 179.71 KB md5:79e238aae71dc8b78e5a476d1595d5e2
+>> 1  d:/tcsoftV6/yhdz50/wy_account.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_account.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_account.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_account.pbd
+Repeat file group #160 file size: 65.54 KB md5:8b789c290bf800f90376aa26ff44b4fb
+>> 1  d:/tcsoftV6/grsr60/mwrf32.dll
+>> 2  d:/tcsoftV6/grsr60/mwrf321.dll
+>> 3  d:/tcsoftV6/gxcw60/mwrf32.dll
+>> 4  d:/tcsoftV6/gxcw60/mwrf321.dll
+>> 5  d:/tcsoftV6/gzgl60/mwrf32.dll
+>> 6  d:/tcsoftV6/gzgl60/mwrf321.dll
+>> 7  d:/tcsoftV6/凭证联查SQL6.0/mwrf32.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/mwrf321.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/mwrf32.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/mwrf321.dll
+Repeat file group #161 file size: 53.25 KB md5:04a8263d1c2183de3bd342d536ab464a
+>> 1  d:/tcsoftV6/gxcw60/PlusDll32.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/PlusDll32.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PlusDll32.dll
+Repeat file group #162 file size: 433.15 KB md5:63b7301a51a7630358987b15865f04cc
+>> 1  d:/tcsoftV6/grsr60/transkmbmxm.dll
+>> 2  d:/tcsoftV6/gxcw60/transkmbmxm.dll
+>> 3  d:/tcsoftV6/gzgl60/transkmbmxm.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/transkmbmxm.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/transkmbmxm.dll
+Repeat file group #163 file size: 98.30 KB md5:30d444987af4c7a791a4929449b71ca4
+>> 1  d:/tcsoftV6/gxcw60/printpreview.pbd
+>> 2  d:/tcsoftV6/yhpj60/printpreview.pbd
+Repeat file group #164 file size: 285.18 KB md5:3c8a7aaedde82ea0421ba54b98e38eb4
+>> 1  d:/tcsoftV6/grsr60/pbdir90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdir90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbdir90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbdir90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbdir90.dll
+Repeat file group #165 file size: 22.63 KB md5:5d6aba8aeb17889467b86e09dd3e0d76
+>> 1  d:/tcsoftV6/pjgl60/image/ylywhxpjcx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/ylywhxpjcx.bmp
+Repeat file group #166 file size: 22.63 KB md5:700cec5a654e2650e5f11b947438740a
+>> 1  d:/tcsoftV6/pjgl60/image/pjrk.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjrk.bmp
+Repeat file group #167 file size: 2.26 KB md5:3829a3e08b7546a97eea31154e7a31ef
+>> 1  d:/tcsoftV6/gxcw60/dygs/02jsd.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/02jsd.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/02jsd.srd
+Repeat file group #168 file size: 206.34 KB md5:e149210afd250563c49839613fbea016
+>> 1  d:/tcsoftV6/grsr60/pbejbclient90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbejbclient90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbejbclient90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbejbclient90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbejbclient90.dll
+Repeat file group #169 file size: 18.54 KB md5:65aa594765414c74e304c3bd33bcc22e
+>> 1  d:/tcsoftV6/gxcw60/dygs/02sk01.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/02sk01.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/02sk01.srd
+Repeat file group #170 file size: 22.63 KB md5:0ba7744ce463b0da47a809ab0e10a88c
+>> 1  d:/tcsoftV6/pjgl60/image/glxtsz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/glxtsz.bmp
+Repeat file group #171 file size: 577.54 KB md5:5a74198ed3174e72526674a9a31ab43c
+>> 1  d:/tcsoftV6/grsr60/tc_bt_12.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_bt_12.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_bt_12.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_bt_12.dll
+Repeat file group #172 file size: 2.00 MB md5:7a2ab7c3ebb821a2fc51f7ea582d835a
+>> 1  d:/tcsoftV6/yhdz50/wy_gkcx.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_gkcx.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_gkcx.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_gkcx.pbd
+Repeat file group #173 file size: 306.18 KB md5:474c39e03363952cbf2ab8da6462953c
+>> 1  d:/tcsoftV6/档案管理系统最新版本/eloamCom/bin/eloamCom.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/lt/eloamCom.dll
+Repeat file group #174 file size: 356.35 KB md5:50c786017a46ffc0caffb16eb839d46d
+>> 1  d:/tcsoftV6/grsr60/HGrid3x.dll
+>> 2  d:/tcsoftV6/gxcw60/HGrid3x.dll
+>> 3  d:/tcsoftV6/gzgl60/HGrid3x.dll
+>> 4  d:/tcsoftV6/yhdz50/HGrid3x.dll
+>> 5  d:/tcsoftV6/yhdz60/HGrid3x.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HGrid3x.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HGrid3x.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HGrid3x.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HGrid3x.dll
+Repeat file group #175 file size: 22.63 KB md5:3a2d2f7ee6d847f5f0b1a4105e57b6dd
+>> 1  d:/tcsoftV6/pjgl60/image/glzwpzxxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/glzwpzxxh.bmp
+Repeat file group #176 file size: 46.80 KB md5:6cb7726d05687e23cdfe2882518fd084
+>> 1  d:/tcsoftV6/gxcw60/dygs/01pz02.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/01pz02.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz02.srd
+Repeat file group #177 file size: 1.26 KB md5:88092f90fa5b8eee47e08e00f151238a
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/syH.bmp
+>> 2  d:/tcsoftV6/pjgl60/syH.bmp
+Repeat file group #178 file size: 96.06 KB md5:730ef457cd00617b067bfa753082655b
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_kcpc.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_kcpc.bmp
+Repeat file group #179 file size: 22.63 KB md5:98924f1f68978ede6d41f61875c5d468
+>> 1  d:/tcsoftV6/pjgl60/image/pjtlcxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjtlcxh.bmp
+Repeat file group #180 file size: 28.16 KB md5:59c0d288bd891790b54d8ef79c32114a
+>> 1  d:/tcsoftV6/grsr60/pbcn90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcn90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcn90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcn90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcn90.dll
+Repeat file group #181 file size: 638.98 KB md5:dcbb082439d1a0afa140f6b6bab3c97b
+>> 1  d:/tcsoftV6/pjgl60/pbodbc90.dll
+>> 2  d:/tcsoftV6/yhpj60/pbodbc90.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/pbodbc90.dll
+Repeat file group #182 file size: 96.06 KB md5:2e59a0602c3b4a48f8d953a709da9e7a
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_hx.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_hx.bmp
+Repeat file group #183 file size: 7.66 MB md5:c9ef1ada347fc9a65545e9c1ef828a4f
+>> 1  d:/tcsoftV6/gxcw60/Jieyipai.exe
+>> 2  d:/tcsoftV6/档案管理系统最新版本/jyp/Jieyipai.exe
+Repeat file group #184 file size: 19.46 KB md5:556c494b5c497123eaecc2fb95fdb0fa
+>> 1  d:/tcsoftV6/gxcw60/AForge.Video.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/AForge.Video.dll
+Repeat file group #185 file size: 9.73 KB md5:4424973815678617fda0ecacbfc77286
+>> 1  d:/tcsoftV6/pjgl60/image/bz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/bz.bmp
+Repeat file group #186 file size: 597.50 KB md5:3222bdd712511f804c90b66ec9b8b849
+>> 1  d:/tcsoftV6/gxcw60/PZSM/PZYXH.Common.dll
+>> 2  d:/tcsoftV6/gxcw60/PZYXH.Common.dll
+Repeat file group #187 file size: 5.47 MB md5:7a9b08c12958e8652f9ef97143536a9e
+>> 1  d:/tcsoftV6/gxcw60/DevComponents.DotNetBar2.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/DevComponents.DotNetBar2.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/DevComponents.DotNetBar2.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/PZSM/DevComponents.DotNetBar2.dll
+Repeat file group #188 file size: 2.33 KB md5:a334f845917ede71ca39c97b2e28af8d
+>> 1  d:/tcsoftV6/gxcw60/dygs/0104.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/0104.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/0104.srd
+Repeat file group #189 file size: 22.63 KB md5:8fd190ba5f5ba4cce475a7db544252c2
+>> 1  d:/tcsoftV6/pjgl60/image/pjly.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjly.bmp
+Repeat file group #190 file size: 33.79 KB md5:cb9072da637796d87fdd8876fe5d7ffb
+>> 1  d:/tcsoftV6/grsr60/pbnat90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbnat90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbnat90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbnat90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbnat90.dll
+Repeat file group #191 file size: 1.59 MB md5:ac8c80301d134105d15fa5133c6a8863
+>> 1  d:/tcsoftV6/gxcw60/AOCR.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/AOCR.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/AOCR.dll
+Repeat file group #192 file size: 610.82 KB md5:cbb62d28c55159eec5f38ac470e23bf4
+>> 1  d:/tcsoftV6/grsr60/tc_rq_14.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_rq_14.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_rq_14.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_rq_14.dll
+Repeat file group #193 file size: 407.78 KB md5:f75fe8d06448d07720d5456f2a327f08
+>> 1  d:/tcsoftV6/pjgl60/BillsService.Web/bin/Newtonsoft.Json.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/Newtonsoft.Json.dll
+Repeat file group #194 file size: 22.63 KB md5:739c92830cc98074d06e60dd8f12194f
+>> 1  d:/tcsoftV6/pjgl60/image/bmkcyj.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/bmkcyj.bmp
+Repeat file group #195 file size: 118.84 KB md5:f89b31cbf4734d7b349e9b472e8ee762
+>> 1  d:/tcsoftV6/grsr60/lzudc.dll
+>> 2  d:/tcsoftV6/gxcw60/lzudc.dll
+>> 3  d:/tcsoftV6/gzgl60/lzudc.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/lzudc.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/lzudc.dll
+Repeat file group #196 file size: 159.74 KB md5:72a960164003e22e0a863d542168ac02
+>> 1  d:/tcsoftV6/gxcw60/Mfcans32.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/Mfcans32.dll
+Repeat file group #197 file size: 97.55 KB md5:1662c4512924ca4dec5fe2dc5348a01f
+>> 1  d:/tcsoftV6/grsr60/rdocurs.dll
+>> 2  d:/tcsoftV6/gxcw60/rdocurs.dll
+>> 3  d:/tcsoftV6/gzgl60/rdocurs.dll
+>> 4  d:/tcsoftV6/pjgl60/rdocurs.dll
+>> 5  d:/tcsoftV6/yhdz50/rdocurs.dll
+>> 6  d:/tcsoftV6/yhdz60/rdocurs.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/rdocurs.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/rdocurs.dll
+>> 9  d:/tcsoftV6/yhpj60/rdocurs.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/rdocurs.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/rdocurs.dll
+Repeat file group #198 file size: 22.63 KB md5:3bca40108dc8eb795f1eb515f0ca51a1
+>> 1  d:/tcsoftV6/pjgl60/image/pjjcb.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/月末结存/pjjcb.bmp
+Repeat file group #199 file size: 33.04 KB md5:40d4c576779ba7d8feabdcc9a660944a
+>> 1  d:/tcsoftV6/grsr60/dbnmpntw.dll
+>> 2  d:/tcsoftV6/gzgl60/dbnmpntw.dll
+Repeat file group #200 file size: 4.72 KB md5:c610fb6b6db4d561ddfbb4651f8e7100
+>> 1  d:/tcsoftV6/pjgl60/image/loginBtn.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/loginBtn.bmp
+>> 3  d:/tcsoftV6/pjgl60/loginBtn.bmp
+Repeat file group #201 file size: 97.82 KB md5:d826b9cc61cf90947078b68bb4ab6960
+>> 1  d:/tcsoftV6/yhdz50/Dbl50t.dll
+>> 2  d:/tcsoftV6/yhdz60/Dbl50t.dll
+>> 3  d:/tcsoftV6/yhdz60(最新库)/Dbl50t.dll
+>> 4  d:/tcsoftV6/yhdz60lsm/Dbl50t.dll
+Repeat file group #202 file size: 3.08 KB md5:fb31c990c29546d3b120e029ea1a7bb5
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz05.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz05.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/01pz05.txt
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz05.txt
+Repeat file group #203 file size: 178.69 KB md5:4ff3642081c08c3c2fc50e3945ee84d0
+>> 1  d:/tcsoftV6/grsr60/pbwpg90.DLL
+>> 2  d:/tcsoftV6/gzgl60/pbwpg90.DLL
+>> 3  d:/tcsoftV6/pjgl60/pbwpg90.DLL
+>> 4  d:/tcsoftV6/yhpj60/pbwpg90.DLL
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwpg90.DLL
+Repeat file group #204 file size: 238 B md5:8ae7bb1a419003fa0c552c693a6ae400
+>> 1  d:/tcsoftV6/yhpj60/UP.BMP
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/UP.BMP
+Repeat file group #205 file size: 380.69 KB md5:ec08d487473008ef0a1d7cf7e6db6cf1
+>> 1  d:/tcsoftV6/grsr60/USER32.DLL
+>> 2  d:/tcsoftV6/gzgl60/USER32.DLL
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/USER32.DLL
+>> 4  d:/tcsoftV6/档案管理系统最新版本/USER32.DLL
+Repeat file group #206 file size: 89.60 KB md5:79cb6457c81ada9eb7f2087ce799aaa7
+>> 1  d:/tcsoftV6/grsr60/atl71.dll
+>> 2  d:/tcsoftV6/gzgl60/atl71.dll
+Repeat file group #207 file size: 337.92 KB md5:740624acc7a5714708d102f77d552d86
+>> 1  d:/tcsoftV6/yhdz50/menutool.pbd
+>> 2  d:/tcsoftV6/yhdz60/menutool.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/menutool.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/menutool.pbd
+Repeat file group #208 file size: 1.15 MB md5:db77ad3fd8cdc28a314f15e7b23bde1f
+>> 1  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/XBKrnl.dll
+>> 2  d:/tcsoftV6/gxcw60/XBKrnl.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/XBKrnl.dll
+Repeat file group #209 file size: 22.63 KB md5:fb13a072a16ce5ed877d0b97304a7ed5
+>> 1  d:/tcsoftV6/pjgl60/image/ggczyh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/ggczyh.bmp
+Repeat file group #210 file size: 22.63 KB md5:c2628e77c90bf4e62125133c9397ff85
+>> 1  d:/tcsoftV6/pjgl60/image/pjkcsh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/pjkcsh.bmp
+Repeat file group #211 file size: 26.00 KB md5:fe02aa76f6e81712765949430b5d37f9
+>> 1  d:/tcsoftV6/pjgl60/image/pjjh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/pjjh.bmp
+Repeat file group #212 file size: 372.22 KB md5:b8008b72f046cd82bfb909d911a6c0ad
+>> 1  d:/tcsoftV6/gxcw60/ImageProcessV.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/ImageProcessV.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ImageProcessV.dll
+Repeat file group #213 file size: 96.06 KB md5:fa1bc9d783afb3864e5a750fe9c4806c
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_tk.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_tk.bmp
+Repeat file group #214 file size: 660 B md5:8a46e8246721b47afb1cde2e23bb499c
+>> 1  d:/tcsoftV6/yhdz50/file/pscwjdy.txt
+>> 2  d:/tcsoftV6/yhdz60/file/pscwjdy.txt
+>> 3  d:/tcsoftV6/yhdz60(最新库)/file/pscwjdy.txt
+>> 4  d:/tcsoftV6/yhdz60lsm/file/pscwjdy.txt
+Repeat file group #215 file size: 212.99 KB md5:633d2e9750d03f7d9c435cdfcf2a7920
+>> 1  d:/tcsoftV6/grsr60/HGUI.dll
+>> 2  d:/tcsoftV6/gxcw60/HGUI.dll
+>> 3  d:/tcsoftV6/gzgl60/HGUI.dll
+>> 4  d:/tcsoftV6/yhdz50/HGUI.dll
+>> 5  d:/tcsoftV6/yhdz60/HGUI.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HGUI.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HGUI.dll
+>> 8  d:/tcsoftV6/yxhl60/HGUI.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/HGUI.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/HGUI.dll
+Repeat file group #216 file size: 18.54 KB md5:f352a2815a02dcd231704eeeec9ff612
+>> 1  d:/tcsoftV6/gxcw60/dygs/02fk01.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/02fk01.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/02fk01.srd
+Repeat file group #217 file size: 26.00 KB md5:dc6eab07e438680ce74b80f73804c523
+>> 1  d:/tcsoftV6/pjgl60/image/pjjhH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/pjjhH.bmp
+Repeat file group #218 file size: 132.61 KB md5:df42e4f0b859b1febe8900153f989ca2
+>> 1  d:/tcsoftV6/yhdz50/yhdz_qxgl.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_qxgl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_qxgl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_qxgl.pbd
+Repeat file group #219 file size: 491 B md5:541b9ba48465268bef4a696f1826a440
+>> 1  d:/tcsoftV6/grsr60/dygs/0104.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/0104.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/0104.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/0104.src
+Repeat file group #220 file size: 65.51 KB md5:30b9ef2988da6ba55a41d6b0770c0515
+>> 1  d:/tcsoftV6/gzgl60/dygs/01pz03.srd
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz03.srd
+Repeat file group #221 file size: 9.73 KB md5:85d0fde6d8276f38a6e8eea116e1268b
+>> 1  d:/tcsoftV6/pjgl60/image/jcxxsz - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/jcxxsz.bmp
+>> 3  d:/tcsoftV6/pjgl60/jcxxsz.bmp
+Repeat file group #222 file size: 22.63 KB md5:c140940c29d18ad953b491e013cdf0af
+>> 1  d:/tcsoftV6/pjgl60/image/pjbsh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjbsh.bmp
+Repeat file group #223 file size: 1.84 KB md5:d1c40dbc448becf8e6978d7250c8d2e0
+>> 1  d:/tcsoftV6/grsr60/dygs/02jsd.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/02jsd.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/02jsd.txt
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/02jsd.txt
+Repeat file group #224 file size: 346.62 KB md5:ae3ffa8c2cad245cf62b140c3c6e5eb9
+>> 1  d:/tcsoftV6/grsr60/pbscr90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbscr90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbscr90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbscr90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbscr90.dll
+Repeat file group #225 file size: 47.90 KB md5:1a3e024d4ed5500445e393db214395dd
+>> 1  d:/tcsoftV6/yhpj60/logo1.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/logo1.bmp
+>> 3  d:/tcsoftV6/档案管理系统最新版本/logo1.bmp
+Repeat file group #226 file size: 277.50 KB md5:151e6221a19cf861da0f46854c844f15
+>> 1  d:/tcsoftV6/yhdz50/wy_download.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_download.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_download.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_download.pbd
+>> 5  d:/tcsoftV6/yxhl60/wy_download.pbd
+Repeat file group #227 file size: 246 B md5:5cf515f16129b0278df01e205ca857d1
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/PRIOR1.BMP
+>> 2  d:/tcsoftV6/pjgl60/PRIOR1.BMP
+>> 3  d:/tcsoftV6/yhpj60/prior1.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/prior1.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/prior1.bmp
+Repeat file group #228 file size: 122 B md5:b61b26ad012b1b99e45b0ac13f99642d
+>> 1  d:/tcsoftV6/yhpj60/calender1.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/calender1.bmp
+Repeat file group #229 file size: 10.84 KB md5:3a2188855718bbcc31b062eba27aa3bf
+>> 1  d:/tcsoftV6/pjgl60/closeBtn.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/closeBtn.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/closeBtn.bmp
+Repeat file group #230 file size: 22.63 KB md5:eddd7d81e3d0a62b97f519db3aa85e0c
+>> 1  d:/tcsoftV6/pjgl60/image/kcxesdh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/kcxesdh.bmp
+Repeat file group #231 file size: 203.78 KB md5:a73a7a4dae1db9d6601dd754492f2b6e
+>> 1  d:/tcsoftV6/pjgl60/PBUSDRV.DLL
+>> 2  d:/tcsoftV6/yhpj60/PBUSDRV.DLL
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PBUSDRV.DLL
+Repeat file group #232 file size: 22.63 KB md5:7a1be398c11599757ab42f2e6c0adbb3
+>> 1  d:/tcsoftV6/pjgl60/image/pjtkcx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjtkcx.bmp
+Repeat file group #233 file size: 4.56 KB md5:138d52db19274c7d1624c8891ec6a6cd
+>> 1  d:/tcsoftV6/yhpj60/pjdygs/06zzzp.src
+>> 2  d:/tcsoftV6/yhpj60/pjdygs/07xxzp.src
+>> 3  d:/tcsoftV6/yhpj60/pjdygs/08zzzps.src
+Repeat file group #234 file size: 22.63 KB md5:5ef7dd4193116a1ead08e5a4729bb6a2
+>> 1  d:/tcsoftV6/pjgl60/image/drpjxtkpxx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/drpjxtkpxx.bmp
+Repeat file group #235 file size: 28.94 KB md5:e4bfa05bf0dd0f605612df2e8a0bfc88
+>> 1  d:/tcsoftV6/pjgl60/DBMSRPCN.DLL
+>> 2  d:/tcsoftV6/yhpj60/DBmsRPCn.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/DBmsRPCn.dll
+Repeat file group #236 file size: 1.93 MB md5:5674065904ae17e47820ce2b45a0612e
+>> 1  d:/tcsoftV6/grsr60/Pbvml90.dll
+>> 2  d:/tcsoftV6/gxcw60/Pbvml90.dll
+>> 3  d:/tcsoftV6/gzgl60/Pbvml90.dll
+>> 4  d:/tcsoftV6/yhpj60/Pbvml90.dll
+>> 5  d:/tcsoftV6/yxhl60/Pbvml90.dll
+>> 6  d:/tcsoftV6/档案管理系统最新版本/Pbvml90.dll
+Repeat file group #237 file size: 306.69 KB md5:2538b78d1b262149d9d71b2ed80e8b12
+>> 1  d:/tcsoftV6/grsr60/Pbdvm90.dll
+>> 2  d:/tcsoftV6/grsr60/Pbodbc90.dll
+>> 3  d:/tcsoftV6/grsr60/Pbwe60.dll
+>> 4  d:/tcsoftV6/gzgl60/Pbdvm90.dll
+>> 5  d:/tcsoftV6/gzgl60/Pbodbc90.dll
+>> 6  d:/tcsoftV6/gzgl60/Pbwe60.dll
+>> 7  d:/tcsoftV6/yhdz50/Pbdvm90.dll
+>> 8  d:/tcsoftV6/yhdz60/Pbdvm90.dll
+>> 9  d:/tcsoftV6/yhdz60(最新库)/Pbdvm90.dll
+>>10  d:/tcsoftV6/yhdz60lsm/Pbdvm90.dll
+>>11  d:/tcsoftV6/高校综合查询6.0客户端/Pbodbc1.dll
+Repeat file group #238 file size: 46.81 KB md5:e000f1263f0eb5640f481c57de420956
+>> 1  d:/tcsoftV6/gxcw60/dygs/01pz01 - 副本.srd
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz01.srd
+Repeat file group #239 file size: 22.63 KB md5:12ef0336e3f42192c62af5fd74f40647
+>> 1  d:/tcsoftV6/pjgl60/image/bspjqdcx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/bspjqdcx.bmp
+Repeat file group #240 file size: 22.63 KB md5:5ad9b8de61910e7d9cdb1b7c8ae1291f
+>> 1  d:/tcsoftV6/pjgl60/image/pjhxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjhxh.bmp
+Repeat file group #241 file size: 22.63 KB md5:c5cfebd02c580cfeacfb64b487ba1917
+>> 1  d:/tcsoftV6/pjgl60/image/apjhkscxdwh - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/apjhkscxdwh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/票据查询/apjhkscxdwh.bmp
+Repeat file group #242 file size: 964.10 KB md5:020a13b1270a69a6477544c086baaeb8
+>> 1  d:/tcsoftV6/grsr60/pbwdw90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwdw90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwdw90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwdw90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwdw90.dll
+Repeat file group #243 file size: 840.98 KB md5:6911eb24a3f17828286872ecb0b05699
+>> 1  d:/tcsoftV6/grsr60/KERNEL32.DLL
+>> 2  d:/tcsoftV6/gxcw60/KERNEL32.DLL
+>> 3  d:/tcsoftV6/gzgl60/KERNEL32.DLL
+>> 4  d:/tcsoftV6/yhdz50/KERNEL32.DLL
+>> 5  d:/tcsoftV6/yhdz60/KERNEL32.DLL
+>> 6  d:/tcsoftV6/yhdz60(最新库)/KERNEL32.DLL
+>> 7  d:/tcsoftV6/yhdz60lsm/KERNEL32.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/KERNEL32.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/KERNEL32.DLL
+Repeat file group #244 file size: 22.63 KB md5:175229b67107e746f24541ef5a000197
+>> 1  d:/tcsoftV6/pjgl60/image/pjrkcxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjrkcxh.bmp
+Repeat file group #245 file size: 4.80 MB md5:cb2da27c71552e5790b1a696d68542a6
+>> 1  d:/tcsoftV6/gxcw60/pbvm90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbvm90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbvm90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbvm90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbvm90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbvm90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbvm90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbvm90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbvm90.dll
+Repeat file group #246 file size: 22.63 KB md5:5d61592b52e8baeb67ac55d80a54035b
+>> 1  d:/tcsoftV6/pjgl60/image/pjlxszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/pjlxszh.bmp
+Repeat file group #247 file size: 1.26 KB md5:73d0b80b241f7333f5d92091154b8638
+>> 1  d:/tcsoftV6/pjgl60/exportH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/exportH.bmp
+Repeat file group #248 file size: 11.63 MB md5:7fe1f863413d7f31bf79ad3290a07a48
+>> 1  d:/tcsoftV6/yhdz50/wy_pic.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_pic.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_pic.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_pic.pbd
+Repeat file group #249 file size: 153.09 KB md5:0b4c220be3b2bfd235fb9ea624488e1b
+>> 1  d:/tcsoftV6/grsr60/UNWISE.EXE
+>> 2  d:/tcsoftV6/gzgl60/UNWISE.EXE
+Repeat file group #250 file size: 96.06 KB md5:1c6090a2530016c012191e2f1330a63a
+>> 1  d:/tcsoftV6/yhpj60/logo_pz.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/logo_pz.bmp
+>> 3  d:/tcsoftV6/档案管理系统最新版本/logo_pz.bmp
+Repeat file group #251 file size: 11.60 KB md5:03303904c8964e7bd5b6b7eaeab9c9ee
+>> 1  d:/tcsoftV6/yhpj60/pjdygs/06zzzp.txt
+>> 2  d:/tcsoftV6/yhpj60/pjdygs/07xxzp.txt
+>> 3  d:/tcsoftV6/yhpj60/pjdygs/08zzzps.txt
+Repeat file group #252 file size: 246 B md5:129b2ff2e77fe31574386c5ff8552ff7
+>> 1  d:/tcsoftV6/pjgl60/print.bmp
+>> 2  d:/tcsoftV6/yhpj60/print.bmp
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/print.bmp
+>> 4  d:/tcsoftV6/档案管理系统最新版本/print.bmp
+Repeat file group #253 file size: 9.73 KB md5:e71051f7bddfc0680a1a2588ab8ff044
+>> 1  d:/tcsoftV6/pjgl60/image/xtglH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/xtglH.bmp
+Repeat file group #254 file size: 650.24 KB md5:c9749074ff0ddc219ffe726fdd8c0096
+>> 1  d:/tcsoftV6/grsr60/extlib.dll
+>> 2  d:/tcsoftV6/gzgl60/extlib.dll
+Repeat file group #255 file size: 8.22 KB md5:eb5fac66cd3db6a72e73fda9aefcdaca
+>> 1  d:/tcsoftV6/pjgl60/trash.bmp
+>> 2  d:/tcsoftV6/yhpj60/trash.bmp
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/trash.bmp
+Repeat file group #256 file size: 3.27 MB md5:68236ff278f2d8872c04b46ac86eb97e
+>> 1  d:/tcsoftV6/yhdz50/wy_gkcnlr.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_gkcnlr.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_gkcnlr.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_gkcnlr.pbd
+Repeat file group #257 file size: 1.26 KB md5:39d4f35a6832535c4c3e7aea78f5f639
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/modifyH.bmp
+>> 2  d:/tcsoftV6/pjgl60/modifyH.bmp
+Repeat file group #258 file size: 434.25 KB md5:65f232ae50755a6fbf72dac2977a118f
+>> 1  d:/tcsoftV6/grsr60/MSVCRTD.DLL
+>> 2  d:/tcsoftV6/gxcw60/MSVCRTD.DLL
+>> 3  d:/tcsoftV6/gzgl60/MSVCRTD.DLL
+>> 4  d:/tcsoftV6/yhdz50/MSVCRTD.DLL
+>> 5  d:/tcsoftV6/yhdz60/MSVCRTD.DLL
+>> 6  d:/tcsoftV6/yhdz60(最新库)/MSVCRTD.DLL
+>> 7  d:/tcsoftV6/yhdz60lsm/MSVCRTD.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/MSVCRTD.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/MSVCRTD.DLL
+Repeat file group #259 file size: 1.26 KB md5:a0e5df63a0f6289f78fd9fe7491a4e65
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/modify.bmp
+>> 2  d:/tcsoftV6/pjgl60/modify.bmp
+Repeat file group #260 file size: 22.63 KB md5:be55af91f2f245d867cce1ff2a04a68c
+>> 1  d:/tcsoftV6/pjgl60/image/系统管理/qxgl.bmp
+>> 2  d:/tcsoftV6/pjgl60/qxgl.bmp
+Repeat file group #261 file size: 601.60 KB md5:67fbf38148fe900600d71ea6c14164f9
+>> 1  d:/tcsoftV6/yhdz50/wy_bbgl.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_bbgl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_bbgl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_bbgl.pbd
+Repeat file group #262 file size: 22.63 KB md5:bcd4b481e7063463e647aa74c38a9e60
+>> 1  d:/tcsoftV6/pjgl60/image/ffdwszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/ffdwszh.bmp
+Repeat file group #263 file size: 373.76 KB md5:71e666b3e67012f39df990d9494cf12c
+>> 1  d:/tcsoftV6/gxcw60/pbsyj90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbsyj90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbsyj90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbsyj90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbsyj90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbsyj90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbsyj90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbsyj90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbsyj90.dll
+Repeat file group #264 file size: 246 B md5:6e4b1a5660f3a74df149291c8e032908
+>> 1  d:/tcsoftV6/yhpj60/find.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/find.bmp
+Repeat file group #265 file size: 238 B md5:eeddf00133a1efa8ccb8dd7a86459a68
+>> 1  d:/tcsoftV6/pjgl60/DN.BMP
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/DN.BMP
+>> 3  d:/tcsoftV6/yhpj60/DN.BMP
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/DN.BMP
+Repeat file group #266 file size: 9.73 KB md5:19726e01465d6396fc6ba09f1eda403c
+>> 1  d:/tcsoftV6/pjgl60/image/ymjcH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/ymjcH.bmp
+Repeat file group #267 file size: 22.63 KB md5:1ee5f25b262eadb9411b57b19efc0716
+>> 1  d:/tcsoftV6/pjgl60/image/pjjch.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/月末结存/pjjch.bmp
+Repeat file group #268 file size: 98.30 KB md5:a6c48da95cf311b5f652494397371a23
+>> 1  d:/tcsoftV6/grsr60/HScript.dll
+>> 2  d:/tcsoftV6/gxcw60/HScript.dll
+>> 3  d:/tcsoftV6/gzgl60/HScript.dll
+>> 4  d:/tcsoftV6/yhdz50/HScript.dll
+>> 5  d:/tcsoftV6/yhdz60/HScript.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HScript.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HScript.dll
+>> 8  d:/tcsoftV6/yxhl60/HScript.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/HScript.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/HScript.dll
+Repeat file group #269 file size: 22.63 KB md5:05862551ef71c37f4e8b2d35863832f8
+>> 1  d:/tcsoftV6/pjgl60/image/bmkcxeyjh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/bmkcxeyjh.bmp
+Repeat file group #270 file size: 109.06 KB md5:82eafdc86aa67d768b9d9c5beff55a4f
+>> 1  d:/tcsoftV6/grsr60/ddehlp.dll
+>> 2  d:/tcsoftV6/gzgl60/ddehlp.dll
+Repeat file group #271 file size: 105.47 KB md5:b8c6ef3e8e0c62766850f67c7429a204
+>> 1  d:/tcsoftV6/grsr60/pbogr90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbogr90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbogr90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbogr90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbogr90.dll
+Repeat file group #272 file size: 618.50 KB md5:bb464318f30fa4864ba4b3b2c1242ce4
+>> 1  d:/tcsoftV6/grsr60/tc_rq_15.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_rq_15.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_rq_15.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_rq_15.dll
+Repeat file group #273 file size: 14.61 KB md5:e97d312844b372f681ee35eb06e567db
+>> 1  d:/tcsoftV6/grsr60/dygs/02sk01.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/02sk01.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/02sk01.txt
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/02sk01.txt
+Repeat file group #274 file size: 922.62 KB md5:f6bebcdc9f494feda873e135bfb7f94f
+>> 1  d:/tcsoftV6/yhdz50/wy_main.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_main.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_main.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_main.pbd
+Repeat file group #275 file size: 98.30 KB md5:950cd18c0818614454c029bf391779b2
+>> 1  d:/tcsoftV6/yhdz50/printpreview.pbd
+>> 2  d:/tcsoftV6/yhdz60/printpreview.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/printpreview.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/printpreview.pbd
+Repeat file group #276 file size: 74.75 KB md5:ae01c70c433a2728043f99534f02b7da
+>> 1  d:/tcsoftV6/grsr60/pbjdc90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbjdc90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbjdc90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbjdc90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbjdc90.dll
+Repeat file group #277 file size: 22.63 KB md5:44d3d5b3bdec02ac25fa0de98f0d002e
+>> 1  d:/tcsoftV6/pjgl60/image/bmkcxesd.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/bmkcxesd.bmp
+Repeat file group #278 file size: 442.37 KB md5:322fa644f70bb1403f553d9229d0e253
+>> 1  d:/tcsoftV6/pjgl60/sqlsrv32.dll
+>> 2  d:/tcsoftV6/yhpj60/sqlsrv32.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/sqlsrv32.dll
+Repeat file group #279 file size: 4.94 KB md5:f02b2fc6210ec48f5ddd0827e40828ad
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz06.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz06.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/01pz06.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz06.src
+Repeat file group #280 file size: 4.51 KB md5:d03a138c248097dc450a8117024b0194
+>> 1  d:/tcsoftV6/pjgl60/image/resetBtn.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/resetBtn.bmp
+>> 3  d:/tcsoftV6/pjgl60/resetBtn.bmp
+Repeat file group #281 file size: 1.26 KB md5:faead4a8ad2be28aa19027cbc5dae32a
+>> 1  d:/tcsoftV6/pjgl60/delH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/delH.bmp
+Repeat file group #282 file size: 157.57 KB md5:a29a8b7164e81e16e7d37a1dc4eb11c4
+>> 1  d:/tcsoftV6/gxcw60/PZSM/AForge.Video.DirectShow.xml
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.Video.DirectShow.xml
+Repeat file group #283 file size: 412.16 KB md5:91060fa4d2f2e0484b1ad5a337ff5699
+>> 1  d:/tcsoftV6/gxcw60/PZSM/ScanDll.dll
+>> 2  d:/tcsoftV6/gxcw60/ScanDll.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ScanDll.dll
+Repeat file group #284 file size: 2.74 KB md5:7e8b3fd1594da6954aaf9e04765700d0
+>> 1  d:/tcsoftV6/pjgl60/image/xls.bmp
+>> 2  d:/tcsoftV6/pjgl60/xls.bmp
+>> 3  d:/tcsoftV6/yhpj60/xls.bmp
+Repeat file group #285 file size: 22.63 KB md5:f5b177e84efff9cad23750ffa22698e2
+>> 1  d:/tcsoftV6/pjgl60/image/dhxpjcxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/dhxpjcxh.bmp
+Repeat file group #286 file size: 457.22 KB md5:f465258482571c5503f9b92ca7a3e16e
+>> 1  d:/tcsoftV6/gxcw60/libpbx.dll
+>> 2  d:/tcsoftV6/gzgl60/libpbx.dll
+>> 3  d:/tcsoftV6/pjgl60/libpbx.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/libpbx.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/libpbx.dll
+Repeat file group #287 file size: 176.13 KB md5:8cec16f685a11d0bc4df581fa75a957d
+>> 1  d:/tcsoftV6/grsr60/Mwic_32.dll
+>> 2  d:/tcsoftV6/gxcw60/Mwic_32.dll
+>> 3  d:/tcsoftV6/gzgl60/Mwic_32.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/Mwic_32.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/Mwic_32.dll
+Repeat file group #288 file size: 22.63 KB md5:5d86fc4cef100347ebda7dbfc8ca5a00
+>> 1  d:/tcsoftV6/pjgl60/image/scpjdyxtpjxxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/scpjdyxtpjxxh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/票据查询/scpjdyxtpjxxh.bmp
+Repeat file group #289 file size: 120.34 KB md5:343679314ef5a0b5a34a2e7fdb676e47
+>> 1  d:/tcsoftV6/grsr60/WOD50T.DLL
+>> 2  d:/tcsoftV6/gxcw60/WOD50T.DLL
+>> 3  d:/tcsoftV6/gzgl60/Wod50t.dll
+>> 4  d:/tcsoftV6/yhdz50/Wod50t.dll
+>> 5  d:/tcsoftV6/yhdz60/Wod50t.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/Wod50t.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/Wod50t.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/WOD50T.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/WOD50T.DLL
+Repeat file group #290 file size: 28.67 KB md5:086e811c73b476e20fd53b23aea596b7
+>> 1  d:/tcsoftV6/grsr60/pbwep90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwep90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwep90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwep90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwep90.dll
+Repeat file group #291 file size: 96.06 KB md5:9bdb439333319a6c3029aa754509f6c9
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_rk.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_rk.bmp
+Repeat file group #292 file size: 22.63 KB md5:89b883650ad490dff775634dc062c590
+>> 1  d:/tcsoftV6/pjgl60/image/sjbbf.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/系统管理/sjbbf.bmp
+Repeat file group #293 file size: 51.35 KB md5:feaf940e3d88621e5f75c3e5c6dffabd
+>> 1  d:/tcsoftV6/grsr60/getfont.dll
+>> 2  d:/tcsoftV6/gxcw60/getfont.dll
+>> 3  d:/tcsoftV6/gzgl60/getfont.dll
+>> 4  d:/tcsoftV6/pjgl60/getfont.dll
+>> 5  d:/tcsoftV6/yhdz50/getfont.dll
+>> 6  d:/tcsoftV6/yhdz60/getfont.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/getfont.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/getfont.dll
+>> 9  d:/tcsoftV6/yhpj60/getfont.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/getfont.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/getfont.dll
+Repeat file group #294 file size: 96.06 KB md5:9f8364395987e1dd4bb30c15f5abd1b9
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_bmdm.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_bmdm.bmp
+Repeat file group #295 file size: 124.42 KB md5:634f7573b14fc32bc6b12a3606a2ef7a
+>> 1  d:/tcsoftV6/yhdz50/yhdz_account.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_account.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_account.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_account.pbd
+Repeat file group #296 file size: 272 B md5:bd773b288d83643f712f770cd9f18854
+>> 1  d:/tcsoftV6/gzgl60/dygs/01pz03.src
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz03.src
+Repeat file group #297 file size: 113.15 KB md5:f06b16425608f9e83f88bf2e858569a5
+>> 1  d:/tcsoftV6/grsr60/pbwed90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwed90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwed90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwed90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwed90.dll
+Repeat file group #298 file size: 1.33 MB md5:fe1764aa962c3dd81689f19cc515f603
+>> 1  d:/tcsoftV6/gxcw60/bitmap.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/bitmap.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/bitmap.dll
+Repeat file group #299 file size: 22.63 KB md5:df7ffb8aa57ae531a0a32c4ac48bfed9
+>> 1  d:/tcsoftV6/pjgl60/image/pjqjfsetjb.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjqjfsetjb.bmp
+Repeat file group #300 file size: 61.95 KB md5:b7921a07b8736e68061db4308e03ffe9
+>> 1  d:/tcsoftV6/gxcw60/pbjvm90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbjvm90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbjvm90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbjvm90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbjvm90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbjvm90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbjvm90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbjvm90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbjvm90.dll
+Repeat file group #301 file size: 262.14 KB md5:6ea5db76120aeca20f739575b22f994d
+>> 1  d:/tcsoftV6/grsr60/EasySoap.dll
+>> 2  d:/tcsoftV6/gzgl60/EasySoap.dll
+>> 3  d:/tcsoftV6/pjgl60/EasySoap.dll
+>> 4  d:/tcsoftV6/yhpj60/EasySoap.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/EasySoap.dll
+Repeat file group #302 file size: 34.42 KB md5:1046c1bfd90c7ec58ed0176139e987c4
+>> 1  d:/tcsoftV6/grsr60/demo.dll
+>> 2  d:/tcsoftV6/gxcw60/demo.dll
+>> 3  d:/tcsoftV6/gzgl60/demo.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/demo.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/demo.dll
+Repeat file group #303 file size: 22.63 KB md5:29c76ff3603623ea71bc5d5856f0afbe
+>> 1  d:/tcsoftV6/pjgl60/image/pjtkcxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjtkcxh.bmp
+Repeat file group #304 file size: 1.17 MB md5:a975f8c4d1b74b47f5c76e01eeef4dd8
+>> 1  d:/tcsoftV6/grsr60/pblib90.dll
+>> 2  d:/tcsoftV6/gzgl60/pblib90.dll
+>> 3  d:/tcsoftV6/pjgl60/pblib90.dll
+>> 4  d:/tcsoftV6/yhpj60/pblib90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pblib90.dll
+Repeat file group #305 file size: 334 B md5:85c131895c9105656b01295c6d7fd933
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/preview.bmp
+>> 2  d:/tcsoftV6/pjgl60/preview.bmp
+>> 3  d:/tcsoftV6/yhpj60/preview.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/preview.bmp
+Repeat file group #306 file size: 22.63 KB md5:2199ee12d601eb0330df7d1e0e0b2604
+>> 1  d:/tcsoftV6/pjgl60/image/jskljxxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/帮助/jskljxxh.bmp
+Repeat file group #307 file size: 104.96 KB md5:7f50578fbdde8748e20f47fcb5ef037d
+>> 1  d:/tcsoftV6/grsr60/pbjag90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbjag90.dll
+Repeat file group #308 file size: 334 B md5:893f5f46070592909d620220fe96d512
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/RULER.BMP
+>> 2  d:/tcsoftV6/pjgl60/RULER.BMP
+Repeat file group #309 file size: 2.26 KB md5:fb42d90ed7d2416d11ca86de035a757c
+>> 1  d:/tcsoftV6/yhpj60/pjdygs/06zp.srd
+>> 2  d:/tcsoftV6/yhpj60/pjdygs/07zp.srd
+Repeat file group #310 file size: 22.63 KB md5:b7f6862c47144e70788bb3fe9d20df99
+>> 1  d:/tcsoftV6/pjgl60/image/pjzhtjbh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjzhtjbh.bmp
+Repeat file group #311 file size: 75.26 KB md5:a93c72d7731937568d047f4b6b27ee90
+>> 1  d:/tcsoftV6/gxcw60/AForge.Math.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/AForge.Math.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.Math.dll
+Repeat file group #312 file size: 326.14 KB md5:bb5c0c22e3ea2d11fd0aa3d6d814b71c
+>> 1  d:/tcsoftV6/grsr60/pbcom90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcom90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcom90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcom90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcom90.dll
+Repeat file group #313 file size: 22.63 KB md5:078bcf57f58eaa6983b255e2b2628206
+>> 1  d:/tcsoftV6/pjgl60/image/kcxesd.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/kcxesd.bmp
+Repeat file group #314 file size: 491 B md5:f27de24b3ad22e7d763fc8c46d576eb3
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/01pz.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz.src
+Repeat file group #315 file size: 310 B md5:0f549ce02f4681109df2cef298544c7d
+>> 1  d:/tcsoftV6/yhpj60/sliver.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/sliver.bmp
+Repeat file group #316 file size: 24.58 KB md5:ff541276badd813ecc255a89761a2b4d
+>> 1  d:/tcsoftV6/gxcw60/dbmsgnet.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dbmsgnet.dll
+Repeat file group #317 file size: 208.90 KB md5:80874fff94c927a46ce04c91e9e95edc
+>> 1  d:/tcsoftV6/grsr60/AIO_API.dll
+>> 2  d:/tcsoftV6/gxcw60/AIO_API.dll
+>> 3  d:/tcsoftV6/gzgl60/AIO_API.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/AIO_API.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/AIO_API.dll
+Repeat file group #318 file size: 286.77 KB md5:dc8b7481f2239317aac1d1ad5498030d
+>> 1  d:/tcsoftV6/grsr60/msvcrt.dll
+>> 2  d:/tcsoftV6/gxcw60/msvcrt.dll
+>> 3  d:/tcsoftV6/gzgl60/msvcrt.dll
+>> 4  d:/tcsoftV6/pjgl60/msvcrt.dll
+>> 5  d:/tcsoftV6/yhdz50/msvcrt.dll
+>> 6  d:/tcsoftV6/yhdz60/msvcrt.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/msvcrt.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/msvcrt.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/msvcrt.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/msvcrt.dll
+Repeat file group #319 file size: 61.44 KB md5:fec5c5f757209849c2db6bd056defd27
+>> 1  d:/tcsoftV6/gxcw60/PlusScan.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/PlusScan.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PlusScan.dll
+Repeat file group #320 file size: 22.63 KB md5:929f1134d7882002cf1f7558c1e2592a
+>> 1  d:/tcsoftV6/pjgl60/image/zwkmzd.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/cwkmzd.bmp
+Repeat file group #321 file size: 158.21 KB md5:488dc624ebfff03885f1fd3da77c514e
+>> 1  d:/tcsoftV6/grsr60/pbjpg90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbjpg90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbjpg90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbjpg90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbjpg90.dll
+Repeat file group #322 file size: 1.81 MB md5:c361684666a2220cdd8d7dc76edd629c
+>> 1  d:/tcsoftV6/gxcw60/ZWEncode.dll
+>> 2  d:/tcsoftV6/pjgl60/ZWEncode.dll
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/ZWEncode.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/ZWEncode.dll
+Repeat file group #323 file size: 22.63 KB md5:f99fb1880ae26e81acdd949d489053e7
+>> 1  d:/tcsoftV6/pjgl60/image/sjglh - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/sjglh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/系统管理/sjglh.bmp
+Repeat file group #324 file size: 246 B md5:f6534a0ce3f4ba016ea435d309e49ff8
+>> 1  d:/tcsoftV6/pjgl60/FIRST.BMP
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/FIRST.BMP
+>> 3  d:/tcsoftV6/yhpj60/FIRST.BMP
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/FIRST.BMP
+>> 5  d:/tcsoftV6/档案管理系统最新版本/FIRST.BMP
+Repeat file group #325 file size: 13.34 KB md5:cfecc228266f3a24a1e97d27bdaecc8c
+>> 1  d:/tcsoftV6/grsr60/dygs/03zzd.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/03zzd.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/03zzd.src
+Repeat file group #326 file size: 372.74 KB md5:9a958cb9534b83f1da014391425b6080
+>> 1  d:/tcsoftV6/grsr60/pbsyj90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbsyj90.dll
+Repeat file group #327 file size: 111.10 KB md5:8db2d1fad37209bdf54242367ea2a3b5
+>> 1  d:/tcsoftV6/grsr60/Ticbus95.dll
+>> 2  d:/tcsoftV6/gxcw60/Ticbus95.dll
+>> 3  d:/tcsoftV6/gzgl60/Ticbus95.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/Ticbus95.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/Ticbus95.dll
+>> 6  d:/tcsoftV6/高校综合查询6.0客户端/Ticbus95.dll
+Repeat file group #328 file size: 122.88 KB md5:e30b47e9723cbd6469b2451c18e55e34
+>> 1  d:/tcsoftV6/gxcw60/ExPat.dll
+>> 2  d:/tcsoftV6/yhdz50/ExPat.dll
+>> 3  d:/tcsoftV6/yhdz60/ExPat.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/ExPat.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/ExPat.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/ExPat.dll
+Repeat file group #329 file size: 22.63 KB md5:8558d5caee4338eb9048eb4ce13b0cc8
+>> 1  d:/tcsoftV6/pjgl60/image/ffdwsz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/ffdwsz.bmp
+Repeat file group #330 file size: 606.72 KB md5:9b468dcb1ad7a96755e68ed573f88fce
+>> 1  d:/tcsoftV6/grsr60/HGrid.dll
+>> 2  d:/tcsoftV6/gxcw60/HGrid.dll
+>> 3  d:/tcsoftV6/gzgl60/HGrid.dll
+>> 4  d:/tcsoftV6/yhdz50/HGrid.dll
+>> 5  d:/tcsoftV6/yhdz60/HGrid.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HGrid.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HGrid.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HGrid.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HGrid.dll
+Repeat file group #331 file size: 10.84 KB md5:94bd73ff37a25459870c17df185fdb05
+>> 1  d:/tcsoftV6/pjgl60/image/loginHover.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/loginHover.bmp
+>> 3  d:/tcsoftV6/pjgl60/loginHover.bmp
+Repeat file group #332 file size: 33.04 KB md5:9b437433333020f1bc3f58dbb87f1f6c
+>> 1  d:/tcsoftV6/grsr60/DBmsSPXn.dll
+>> 2  d:/tcsoftV6/gxcw60/DBmsSPXn.dll
+>> 3  d:/tcsoftV6/gzgl60/DBmsSPXn.dll
+>> 4  d:/tcsoftV6/yhdz50/DBmsSPXn.dll
+>> 5  d:/tcsoftV6/yhdz60/DBmsSPXn.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/DBmsSPXn.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/DBmsSPXn.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/DBmsSPXn.dll
+Repeat file group #333 file size: 22.63 KB md5:0a7b030ec4689b8c4262b9c05ea616f7
+>> 1  d:/tcsoftV6/pjgl60/image/xtcssz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/xtcssz.bmp
+Repeat file group #334 file size: 20.03 KB md5:1bc6f6276602af1e313936ddd0cc1958
+>> 1  d:/tcsoftV6/gxcw60/dygs/08bkd.txt
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dygs/08bkd.txt
+Repeat file group #335 file size: 2.50 MB md5:f7aa624fb2c43bf4efc68df65ab06ef2
+>> 1  d:/tcsoftV6/gxcw60/pbdwe90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbdwe90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbdwe90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbdwe90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbdwe90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbdwe90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbdwe90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbdwe90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbdwe90.dll
+Repeat file group #336 file size: 14.55 MB md5:ece8eb699f0862b594ea5f8f959f2be2
+>> 1  d:/tcsoftV6/gxcw60/zwmain.exe
+>> 2  d:/tcsoftV6/gxcw60/zwmain.exe.copied
+Repeat file group #337 file size: 791.55 KB md5:d2821d9353efc2b859a8168fe29a6651
+>> 1  d:/tcsoftV6/yhdz50/yhdz_sjcl.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_sjcl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_sjcl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_sjcl.pbd
+Repeat file group #338 file size: 22.63 KB md5:952ed2ca09c66c2c8d4e3f759b6e1e85
+>> 1  d:/tcsoftV6/pjgl60/image/ggpzwjszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/帮助/ggpzwjszh.bmp
+Repeat file group #339 file size: 1.23 KB md5:79291c262c0d791c85907dfaf55ef532
+>> 1  d:/tcsoftV6/grsr60/dygs/02jsd.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/02jsd.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/02jsd.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/02jsd.src
+Repeat file group #340 file size: 22.63 KB md5:f3ad368788d3c607c27f213ed9aa6240
+>> 1  d:/tcsoftV6/pjgl60/image/glstxxskxx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/glstxxskxx.bmp
+Repeat file group #341 file size: 151.55 KB md5:899f59411e9d47affb49fab3c2628ebc
+>> 1  d:/tcsoftV6/grsr60/HCommon.dll
+>> 2  d:/tcsoftV6/gxcw60/HCommon.dll
+>> 3  d:/tcsoftV6/gzgl60/HCommon.dll
+>> 4  d:/tcsoftV6/yhdz50/HCommon.dll
+>> 5  d:/tcsoftV6/yhdz60/HCommon.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HCommon.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HCommon.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HCommon.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HCommon.dll
+Repeat file group #342 file size: 36.86 KB md5:1d53bfcc11dce72f57bbf63e4f0d7e1b
+>> 1  d:/tcsoftV6/grsr60/pborc90.dll
+>> 2  d:/tcsoftV6/gzgl60/pborc90.dll
+>> 3  d:/tcsoftV6/pjgl60/pborc90.dll
+Repeat file group #343 file size: 147.46 KB md5:884a98a039d0179352f084d42618c43c
+>> 1  d:/tcsoftV6/grsr60/Net.dll
+>> 2  d:/tcsoftV6/gxcw60/Net.dll
+>> 3  d:/tcsoftV6/gzgl60/Net.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/Net.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/Net.dll
+Repeat file group #344 file size: 6.51 MB md5:cd5621cf9e53239e72390760157bd67d
+>> 1  d:/tcsoftV6/yhdz50/yhdzmain.exe
+>> 2  d:/tcsoftV6/yhdz60/yhdzmain.exe
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdzmain.exe
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdzmain.exe
+Repeat file group #345 file size: 26.58 KB md5:6e88ba66bd4485f45fdbb857826afa17
+>> 1  d:/tcsoftV6/gxcw60/dygs/08bkd.srd
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dygs/08bkd.srd
+Repeat file group #346 file size: 26.00 KB md5:917736dc3f7603e25eacefacfe5228fa
+>> 1  d:/tcsoftV6/pjgl60/image/yhdl.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/yhdl.bmp
+Repeat file group #347 file size: 274.49 KB md5:7abe3953dfde032df1bd221421edc8cd
+>> 1  d:/tcsoftV6/grsr60/ntwdblib.DLL
+>> 2  d:/tcsoftV6/gzgl60/ntwdblib.DLL
+>> 3  d:/tcsoftV6/yxhl60/ntwdblib.DLL
+Repeat file group #348 file size: 955.39 KB md5:41ac49fbeb0ba66cfabf379ca94aca34
+>> 1  d:/tcsoftV6/gxcw60/PZSM/UI.dll
+>> 2  d:/tcsoftV6/gxcw60/UI.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/UI.dll
+Repeat file group #349 file size: 22.63 KB md5:53297cbe75b7e9a2d0807b0fa0ae6555
+>> 1  d:/tcsoftV6/pjgl60/image/jcgxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/帮助/jcgxh.bmp
+Repeat file group #350 file size: 266.37 KB md5:67948adce531dab03c85f99bbb0276d3
+>> 1  d:/tcsoftV6/gxcw60/PZSM/AForge.Math.xml
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.Math.xml
+Repeat file group #351 file size: 2.32 KB md5:9fb8ce8b79f094ea2bb375b08eaa4452
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz05.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz05.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/01pz05.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz05.src
+Repeat file group #352 file size: 8.22 KB md5:1b90b6084c02dcaf93df4401678712ed
+>> 1  d:/tcsoftV6/yhpj60/cnfh.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/cnfh.bmp
+Repeat file group #353 file size: 118.78 KB md5:2c4c2c19c55c2f4922109855ea21a020
+>> 1  d:/tcsoftV6/grsr60/PCSCSCR2.dll
+>> 2  d:/tcsoftV6/gxcw60/PCSCSCR2.dll
+>> 3  d:/tcsoftV6/gzgl60/PCSCSCR2.dll
+>> 4  d:/tcsoftV6/yhdz50/PCSCSCR2.dll
+>> 5  d:/tcsoftV6/yhdz60/PCSCSCR2.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/PCSCSCR2.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/PCSCSCR2.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/PCSCSCR2.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/PCSCSCR2.dll
+Repeat file group #354 file size: 246.27 KB md5:7061b362a6071921ae7fddda26c835b3
+>> 1  d:/tcsoftV6/grsr60/pbo7390.dll
+>> 2  d:/tcsoftV6/gzgl60/pbo7390.dll
+>> 3  d:/tcsoftV6/pjgl60/pbo7390.dll
+>> 4  d:/tcsoftV6/yhpj60/pbo7390.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbo7390.dll
+Repeat file group #355 file size: 126.98 KB md5:1d51659b553001ed967a5658eaf35691
+>> 1  d:/tcsoftV6/grsr60/ReadCardUSB.dll
+>> 2  d:/tcsoftV6/gxcw60/ReadCardUSB.dll
+>> 3  d:/tcsoftV6/gzgl60/ReadCardUSB.dll
+>> 4  d:/tcsoftV6/yhdz50/ReadCardUSB.dll
+>> 5  d:/tcsoftV6/yhdz60/ReadCardUSB.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/ReadCardUSB.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/ReadCardUSB.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/ReadCardUSB.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/ReadCardUSB.dll
+Repeat file group #356 file size: 28.94 KB md5:a9310940e0e369dbdf8e96c48b5d8882
+>> 1  d:/tcsoftV6/grsr60/DBmsVINn.dll
+>> 2  d:/tcsoftV6/gxcw60/DBmsVINn.dll
+>> 3  d:/tcsoftV6/gzgl60/DBmsVINn.dll
+>> 4  d:/tcsoftV6/pjgl60/DBmsVINn.dll
+>> 5  d:/tcsoftV6/yhdz50/DBmsVINn.dll
+>> 6  d:/tcsoftV6/yhdz60/DBmsVINn.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/DBmsVINn.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/DBmsVINn.dll
+>> 9  d:/tcsoftV6/yhpj60/DBmsVINn.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/DBmsVINn.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/DBmsVINn.dll
+Repeat file group #357 file size: 132.61 KB md5:d96ca9e310856a105ff5ab2bd698e3ac
+>> 1  d:/tcsoftV6/gxcw60/sourdll.dll
+>> 2  d:/tcsoftV6/yhdz50/sourdll.dll
+>> 3  d:/tcsoftV6/yhdz60/sourdll.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/sourdll.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/sourdll.dll
+>> 6  d:/tcsoftV6/档案管理系统最新版本/sourdll.dll
+Repeat file group #358 file size: 114.69 KB md5:6c617083cd0227b2a894b026accabedf
+>> 1  d:/tcsoftV6/gxcw60/decQR.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/DecodeDll/decQR.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/decQR.dll
+Repeat file group #359 file size: 375.30 KB md5:431cf4674c4e340908cec261091af95c
+>> 1  d:/tcsoftV6/grsr60/pbsql90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbsql90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbsql90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbsql90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbsql90.dll
+Repeat file group #360 file size: 962.61 KB md5:71846abc9fa408fc283d174194caf29d
+>> 1  d:/tcsoftV6/grsr60/MFC42D.DLL
+>> 2  d:/tcsoftV6/gxcw60/MFC42D.DLL
+>> 3  d:/tcsoftV6/gzgl60/MFC42D.DLL
+>> 4  d:/tcsoftV6/yhdz50/MFC42D.DLL
+>> 5  d:/tcsoftV6/yhdz60/MFC42D.DLL
+>> 6  d:/tcsoftV6/yhdz60(最新库)/MFC42D.DLL
+>> 7  d:/tcsoftV6/yhdz60lsm/MFC42D.DLL
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/MFC42D.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/MFC42D.DLL
+Repeat file group #361 file size: 246 B md5:d2396dda1bf7f5a8a2cf81c808d79b9f
+>> 1  d:/tcsoftV6/yhpj60/var1.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/var1.bmp
+Repeat file group #362 file size: 9.73 KB md5:690814a086512ceae21c390e708e2c3e
+>> 1  d:/tcsoftV6/pjgl60/image/bzH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/bzH.bmp
+Repeat file group #363 file size: 77.82 KB md5:71b6e43463b1055b6b2d910b33a3eaa2
+>> 1  d:/tcsoftV6/grsr60/ZYICRWCOM.dll
+>> 2  d:/tcsoftV6/gxcw60/ZYICRWCOM.dll
+>> 3  d:/tcsoftV6/gzgl60/ZYICRWCOM.dll
+>> 4  d:/tcsoftV6/yhdz50/ZYICRWCOM.dll
+>> 5  d:/tcsoftV6/yhdz60/ZYICRWCOM.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/ZYICRWCOM.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/ZYICRWCOM.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/ZYICRWCOM.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/ZYICRWCOM.dll
+Repeat file group #364 file size: 159.74 KB md5:52948bd6737e2fb2739c5c9998a08be2
+>> 1  d:/tcsoftV6/grsr60/libjotsclnt.dll
+>> 2  d:/tcsoftV6/gzgl60/libjotsclnt.dll
+>> 3  d:/tcsoftV6/pjgl60/libjotsclnt.dll
+>> 4  d:/tcsoftV6/yhpj60/libjotsclnt.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/libjotsclnt.dll
+Repeat file group #365 file size: 1.26 KB md5:01eb5912ac816a8fd491dd10343f4844
+>> 1  d:/tcsoftV6/pjgl60/cxxgH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/cxxgH.bmp
+Repeat file group #366 file size: 299.01 KB md5:9dbb51155c375854b1c25e0c4de9a866
+>> 1  d:/tcsoftV6/gxcw60/dll_camera.dll
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/dll_camera.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dll_camera.dll
+Repeat file group #367 file size: 246 B md5:02378ba44b2b612e80bf87bd71db26c3
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/RULER1.BMP
+>> 2  d:/tcsoftV6/pjgl60/RULER1.BMP
+>> 3  d:/tcsoftV6/yhpj60/ruler1.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/ruler1.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/ruler1.bmp
+Repeat file group #368 file size: 45.06 KB md5:5558f06ba0d8884694f0b0fda887ea85
+>> 1  d:/tcsoftV6/grsr60/HZip.dll
+>> 2  d:/tcsoftV6/gxcw60/HZip.dll
+>> 3  d:/tcsoftV6/gzgl60/HZip.dll
+>> 4  d:/tcsoftV6/yhdz50/HZip.dll
+>> 5  d:/tcsoftV6/yhdz60/HZip.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HZip.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HZip.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HZip.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HZip.dll
+Repeat file group #369 file size: 1.23 KB md5:5ded2516871bc48d8a89a21701193768
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/01pz.txt
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz.txt
+Repeat file group #370 file size: 193.02 KB md5:5207fed76ebd355340c4b00a45f914ca
+>> 1  d:/tcsoftV6/grsr60/pbdwg90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdwg90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbdwg90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbdwg90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbdwg90.dll
+Repeat file group #371 file size: 22.63 KB md5:681d373c0b7af79a7b9b3cdb3e345ce0
+>> 1  d:/tcsoftV6/pjgl60/image/bmzdszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/bmzdh.bmp
+Repeat file group #372 file size: 1 B md5:7215ee9c7d9dc229d2921a40e899ec5f
+>> 1  d:/tcsoftV6/gxcw60/dygs/0122.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/0122.srd
+>> 3  d:/tcsoftV6/gxcw60/dygs/01pz.srd
+>> 4  d:/tcsoftV6/gzgl60/dygs/01pz.srd
+>> 5  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz.srd
+Repeat file group #373 file size: 38.86 KB md5:f41a9277ce5d5681cc2ab9d64788cad1
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/Page6.bmp
+>> 2  d:/tcsoftV6/pjgl60/Page6.bmp
+>> 3  d:/tcsoftV6/yhpj60/Page6.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/Page6.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/Page6.bmp
+Repeat file group #374 file size: 246 B md5:9ffaebe4d27af4294a0235b5d490ba54
+>> 1  d:/tcsoftV6/yhpj60/ruler.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/ruler.bmp
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ruler.bmp
+Repeat file group #375 file size: 11.30 KB md5:816b39afd8e199a92917c5f124b74372
+>> 1  d:/tcsoftV6/pjgl60/image/bottomcentre - 副本.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/bottomcentre.jpg
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/bottomcentre.jpg
+Repeat file group #376 file size: 505.86 KB md5:400819dfcfeb2cd987d3dc1ff77edb4d
+>> 1  d:/tcsoftV6/yhdz50/wy_shgl.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_shgl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_shgl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_shgl.pbd
+Repeat file group #377 file size: 39.35 KB md5:410d09e8cd553a560386c5a76f265cf5
+>> 1  d:/tcsoftV6/pjgl60/PBWS32.DLL
+>> 2  d:/tcsoftV6/yhpj60/PBWS32.DLL
+>> 3  d:/tcsoftV6/档案管理系统最新版本/PBWS32.DLL
+Repeat file group #378 file size: 22.63 KB md5:3a8ec63ed5cae7b22c0b93985890b1a5
+>> 1  d:/tcsoftV6/pjgl60/image/jsqh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/帮助/jsqh.bmp
+Repeat file group #379 file size: 152.58 KB md5:45aef53596e54a3a220c29306bff38cb
+>> 1  d:/tcsoftV6/gxcw60/pbdwr90.pbd
+>> 2  d:/tcsoftV6/pjgl60/pbdwr90.pbd
+Repeat file group #380 file size: 22.63 KB md5:7a289e49b7fd073fb181cbfb95d5e464
+>> 1  d:/tcsoftV6/pjgl60/image/sjjggx - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/sjjggx.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/系统管理/sjjggx.bmp
+Repeat file group #381 file size: 33.04 KB md5:4b4c36753573c324082f29fb6f11171b
+>> 1  d:/tcsoftV6/pjgl60/DBMSADSN.DLL
+>> 2  d:/tcsoftV6/yhpj60/dbmsadsn.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dbmsadsn.dll
+Repeat file group #382 file size: 369.66 KB md5:0dc67e802592fb18c26258e7868fe802
+>> 1  d:/tcsoftV6/grsr60/Pbrs60.dll
+>> 2  d:/tcsoftV6/grsr60/Pbvr60.dll
+>> 3  d:/tcsoftV6/gzgl60/Pbrs60.dll
+>> 4  d:/tcsoftV6/gzgl60/Pbvr60.dll
+Repeat file group #383 file size: 216.06 KB md5:06d03311ccd0d9f490ce3165a0d3589e
+>> 1  d:/tcsoftV6/grsr60/pbin990.dll
+>> 2  d:/tcsoftV6/gzgl60/pbin990.dll
+>> 3  d:/tcsoftV6/pjgl60/pbin990.dll
+>> 4  d:/tcsoftV6/yhpj60/pbin990.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbin990.dll
+Repeat file group #384 file size: 3.95 MB md5:6fb14d96967e1f5d6ea131594cbed7ff
+>> 1  d:/tcsoftV6/gxcw60/PZSM/DevComponents.DotNetBar2.xml
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/DevComponents.DotNetBar2.xml
+Repeat file group #385 file size: 0 B md5:d41d8cd98f00b204e9800998ecf8427e
+>> 1  d:/tcsoftV6/gxcw60/PZSM/0
+>> 2  d:/tcsoftV6/gxcw60/PZSM/TRACE/Utility.log
+>> 3  d:/tcsoftV6/pjgl60/pjgl_mig.log
+>> 4  d:/tcsoftV6/档案管理系统最新版本/PZSM/App_Data/null.txt
+Repeat file group #386 file size: 64.00 KB md5:8bb9e6fc646e1a28a02f9a4f9384c476
+>> 1  d:/tcsoftV6/grsr60/icdll32.dll
+>> 2  d:/tcsoftV6/gxcw60/icdll32.dll
+>> 3  d:/tcsoftV6/gzgl60/icdll32.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/icdll32.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/icdll32.dll
+Repeat file group #387 file size: 468.99 KB md5:ac0fff140a8e5c86c39f54cb3a86475e
+>> 1  d:/tcsoftV6/gxcw60/pbodb90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbodb90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbodb90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbodb90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbodb90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbodb90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbodb90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbodb90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbodb90.dll
+Repeat file group #388 file size: 246 B md5:cf490237e7fb758d8c1f0959302f5376
+>> 1  d:/tcsoftV6/yhpj60/SAVE.BMP
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/SAVE.BMP
+Repeat file group #389 file size: 585.73 KB md5:1b1ccf589ed17628f9eb3e97c60dfa50
+>> 1  d:/tcsoftV6/grsr60/tc_rq_17.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_rq_17.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_rq_17.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_rq_17.dll
+Repeat file group #390 file size: 378 B md5:97d96ae99443e4673bbd93328c890d92
+>> 1  d:/tcsoftV6/pjgl60/footcentre.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/footcentre.jpg
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/footcentre.jpg
+Repeat file group #391 file size: 14.77 KB md5:6c9e8c8c5db78ce9d5c56a69a3b9ef08
+>> 1  d:/tcsoftV6/grsr60/pfcflsrv.dll
+>> 2  d:/tcsoftV6/gzgl60/pfcflsrv.dll
+>> 3  d:/tcsoftV6/yxhl60/pfcflsrv.dll
+Repeat file group #392 file size: 238 B md5:2ce8dc1c06ebf4a8ec92740880c35b7a
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LAST.BMP
+>> 2  d:/tcsoftV6/pjgl60/LAST.BMP
+>> 3  d:/tcsoftV6/yhpj60/LAST.BMP
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/LAST.BMP
+Repeat file group #393 file size: 524.89 KB md5:a6023ffdd8bfef917962f391db53a301
+>> 1  d:/tcsoftV6/pjgl60/image/LoginBG3.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/LoginBG3.bmp
+>> 3  d:/tcsoftV6/pjgl60/LoginBG3.bmp
+Repeat file group #394 file size: 9.73 KB md5:6c6ccab059596580b2de92d90e730ecf
+>> 1  d:/tcsoftV6/pjgl60/image/xtgl.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/xtgl.bmp
+Repeat file group #395 file size: 602.62 KB md5:bbcf29387b7b359662bc3ba5c8018c47
+>> 1  d:/tcsoftV6/grsr60/tc_rq_10.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_rq_10.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_rq_10.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_rq_10.dll
+Repeat file group #396 file size: 301.06 KB md5:a8efff561837b76f61a89d527357d636
+>> 1  d:/tcsoftV6/grsr60/pbo8490.dll
+>> 2  d:/tcsoftV6/gzgl60/pbo8490.dll
+>> 3  d:/tcsoftV6/pjgl60/pbo8490.dll
+>> 4  d:/tcsoftV6/yhpj60/pbo8490.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbo8490.dll
+Repeat file group #397 file size: 524.89 KB md5:02bd591c27e2ae140cd2c4a20453dfd7
+>> 1  d:/tcsoftV6/pjgl60/image/LoginBG2.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/LoginBG2.bmp
+>> 3  d:/tcsoftV6/pjgl60/LoginBG2.bmp
+Repeat file group #398 file size: 1.33 MB md5:8da57bb946fb7bcdb9bac1674d68c5e8
+>> 1  d:/tcsoftV6/grsr60/libEncinaClientJaguar.dll
+>> 2  d:/tcsoftV6/gzgl60/libEncinaClientJaguar.dll
+>> 3  d:/tcsoftV6/pjgl60/libEncinaClientJaguar.dll
+>> 4  d:/tcsoftV6/yhpj60/libEncinaClientJaguar.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/libEncinaClientJaguar.dll
+Repeat file group #399 file size: 22.63 KB md5:7f98e7c877f3c5e2e9d9506aeeaaf750
+>> 1  d:/tcsoftV6/pjgl60/image/yhglh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/系统管理/yhglh.bmp
+Repeat file group #400 file size: 43.24 KB md5:11a1864dd308d4622cf081ac39816789
+>> 1  d:/tcsoftV6/gxcw60/PZSM/AForge.Video.xml
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.Video.xml
+Repeat file group #401 file size: 17.56 KB md5:336ebeded5ffe3d7c1254c51d85a729a
+>> 1  d:/tcsoftV6/pjgl60/image/right.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/right.jpg
+Repeat file group #402 file size: 22.63 KB md5:3b18f3cca9e698276c4b0b0dbc53c512
+>> 1  d:/tcsoftV6/pjgl60/image/pjlxsz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/pjlxsz.bmp
+Repeat file group #403 file size: 9.73 KB md5:d2d56fd096975dab16941c3f62521541
+>> 1  d:/tcsoftV6/gzgl60/pbsoapclient90.pbd
+>> 2  d:/tcsoftV6/pjgl60/pbsoapclient90.pbd
+Repeat file group #404 file size: 94.21 KB md5:c1ac53884b8f7c71df8bfbf80e1b64ee
+>> 1  d:/tcsoftV6/gxcw60/datamatrix_de_win.dll
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/datamatrix_de_win.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/datamatrix_de_win.dll
+Repeat file group #405 file size: 1.54 KB md5:736b865e4777d553a774c2a0bba8f91a
+>> 1  d:/tcsoftV6/yhdz50/100221.XLS
+>> 2  d:/tcsoftV6/yhdz60/100221.XLS
+>> 3  d:/tcsoftV6/yhdz60(最新库)/100221.XLS
+>> 4  d:/tcsoftV6/yhdz60lsm/100221.XLS
+Repeat file group #406 file size: 334 B md5:14e7a62bcf3792a4c42946e15ba89fc3
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/EXIT.BMP
+>> 2  d:/tcsoftV6/yhpj60/exit.bmp
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/exit.bmp
+>> 4  d:/tcsoftV6/档案管理系统最新版本/exit.bmp
+Repeat file group #407 file size: 859.65 KB md5:be69e814d45fa4377008dfe6bf32035f
+>> 1  d:/tcsoftV6/gxcw60/pbrtc90.dll
+>> 2  d:/tcsoftV6/pjgl60/PBRTC90.DLL
+>> 3  d:/tcsoftV6/yhdz50/pbrtc90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbrtc90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbrtc90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbrtc90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbrtc90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbrtc90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbrtc90.dll
+Repeat file group #408 file size: 3.92 MB md5:2595821fe8584d4fe4b5d91f80956d6f
+>> 1  d:/tcsoftV6/grsr60/pbwzp90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwzp90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwzp90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwzp90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwzp90.dll
+Repeat file group #409 file size: 1.26 KB md5:89b0938dab44c39813e386460b1a07d7
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/inportH.bmp
+>> 2  d:/tcsoftV6/pjgl60/inportH.bmp
+Repeat file group #410 file size: 22.63 KB md5:c44bd48a8db6aefa5f7496686139f6e4
+>> 1  d:/tcsoftV6/pjgl60/image/pjbscx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjbscx.bmp
+Repeat file group #411 file size: 824 B md5:ee6a56869336e616b1020f33a0577c04
+>> 1  d:/tcsoftV6/pjgl60/closed-folder.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/closed-folder.bmp
+Repeat file group #412 file size: 96.06 KB md5:83e7b4c96248ddf6694927d5b3d6803e
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_ly.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_ly.bmp
+Repeat file group #413 file size: 1.26 KB md5:191bfaef40610fac87164727487d05e7
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/sjzcH.bmp
+>> 2  d:/tcsoftV6/pjgl60/sjzcH.bmp
+Repeat file group #414 file size: 48.13 KB md5:515e7c7c5ee783740e5688a252d3584a
+>> 1  d:/tcsoftV6/gxcw60/RC532API.dll
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/RC532API.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/RC532API.dll
+Repeat file group #415 file size: 412.67 KB md5:630aa51f2fb91c108ee100f610c29b85
+>> 1  d:/tcsoftV6/yhdz50/yhdz_menu1.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_menu1.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_menu1.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_menu1.pbd
+Repeat file group #416 file size: 1.26 KB md5:419764db2f9ae746ba235cca056e4ab1
+>> 1  d:/tcsoftV6/pjgl60/Exit.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/quitH.bmp
+Repeat file group #417 file size: 1.26 KB md5:571fe8b8374dd79bb853f7819be5b20e
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/saveH.bmp
+>> 2  d:/tcsoftV6/pjgl60/saveH.bmp
+Repeat file group #418 file size: 1.05 MB md5:a619d7a3cbc9aa297a1dfc7bed537b9d
+>> 1  d:/tcsoftV6/grsr60/pbcgc90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcgc90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcgc90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcgc90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcgc90.dll
+Repeat file group #419 file size: 212.99 KB md5:dee33c4fa782643d4de614474e285c73
+>> 1  d:/tcsoftV6/grsr60/CSU_AIO_API.dll
+>> 2  d:/tcsoftV6/gxcw60/CSU_AIO_API.dll
+>> 3  d:/tcsoftV6/gzgl60/CSU_AIO_API.dll
+>> 4  d:/tcsoftV6/yhdz50/CSU_AIO_API.dll
+>> 5  d:/tcsoftV6/yhdz60/CSU_AIO_API.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/CSU_AIO_API.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/CSU_AIO_API.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/CSU_AIO_API.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/CSU_AIO_API.dll
+Repeat file group #420 file size: 22.63 KB md5:8f8512773929e6fb5c8cb6613e4f2f66
+>> 1  d:/tcsoftV6/pjgl60/image/pjrkh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjrkh.bmp
+Repeat file group #421 file size: 109.57 KB md5:8446637f9efa7d169a8b38c223f1ee54
+>> 1  d:/tcsoftV6/grsr60/pbcpp90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcpp90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcpp90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcpp90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcpp90.dll
+Repeat file group #422 file size: 897.01 KB md5:fc92d78647e1427018d41272e01c4aaf
+>> 1  d:/tcsoftV6/gxcw60/PZSM/AForge.Imaging.xml
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.Imaging.xml
+Repeat file group #423 file size: 1.26 KB md5:1de9e8fd476859e11d7bf364340919c6
+>> 1  d:/tcsoftV6/pjgl60/addH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/addH.bmp
+Repeat file group #424 file size: 22.63 KB md5:79a203e73c57173c4975cd7e911f6c7c
+>> 1  d:/tcsoftV6/pjgl60/image/bmhxpjtjb.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/bmhxpjtjb.bmp
+Repeat file group #425 file size: 92.67 KB md5:b0d851d586f8ba1d252e7ac8790fc349
+>> 1  d:/tcsoftV6/gxcw60/pbno.dll
+>> 2  d:/tcsoftV6/yhdz50/pbno.dll
+>> 3  d:/tcsoftV6/yhdz60/pbno.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/pbno.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/pbno.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/pbno.dll
+>> 7  d:/tcsoftV6/档案管理系统最新版本/pbno.dll
+>> 8  d:/tcsoftV6/高校综合查询6.0客户端/pbno.dll
+Repeat file group #426 file size: 22.63 KB md5:caa982479311fcbb2b21f6f09d71434b
+>> 1  d:/tcsoftV6/pjgl60/image/pjkccsh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/pjkccsh.bmp
+Repeat file group #427 file size: 189.76 KB md5:a5b5a78703802d42576943764cf507af
+>> 1  d:/tcsoftV6/grsr60/pbcgr90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcgr90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcgr90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcgr90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcgr90.dll
+Repeat file group #428 file size: 440.83 KB md5:4b8719009b9115a3e78825dabf40ec79
+>> 1  d:/tcsoftV6/grsr60/printview.dll
+>> 2  d:/tcsoftV6/gxcw60/printview.dll
+>> 3  d:/tcsoftV6/gzgl60/printview.dll
+>> 4  d:/tcsoftV6/yhdz50/printview.dll
+>> 5  d:/tcsoftV6/yhdz60/printview.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/printview.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/printview.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/printview.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/printview.dll
+Repeat file group #429 file size: 9.73 KB md5:4a1d37dcdcfffaa3d5b364ec0cc8d9ae
+>> 1  d:/tcsoftV6/pjgl60/image/jcxxszH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/jcxxszH.bmp
+Repeat file group #430 file size: 147.46 KB md5:d875d60bb039bc7c650d6e5063116422
+>> 1  d:/tcsoftV6/yhdz50/yhdz_printview.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_printview.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_printview.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_printview.pbd
+Repeat file group #431 file size: 122.88 KB md5:39a1c5d1f10cb3ab64095f864c4f0a70
+>> 1  d:/tcsoftV6/gxcw60/ImageProcess.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/ImageProcess.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/ImageProcess.dll
+Repeat file group #432 file size: 143.18 KB md5:12f8e28205f4e9d25c1e43c878230abb
+>> 1  d:/tcsoftV6/档案管理系统最新版本/PZSM/tmp/19040102086-001L.jpg
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/tmp/19040102088-001L.jpg
+Repeat file group #433 file size: 22.63 KB md5:045039a64d8abcb01d4a804ca3c737e0
+>> 1  d:/tcsoftV6/pjgl60/image/pjtlh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjtlh.bmp
+Repeat file group #434 file size: 11.54 KB md5:c984f537930fc59b1c46c28bff60dccb
+>> 1  d:/tcsoftV6/gxcw60/DBmsSOCn.dll
+>> 2  d:/tcsoftV6/yhdz50/DBmsSOCn.dll
+>> 3  d:/tcsoftV6/yhdz60/DBmsSOCn.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/DBmsSOCn.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/DBmsSOCn.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/DBmsSOCn.dll
+Repeat file group #435 file size: 270 B md5:39d2fbdb75f8232d63b2f8f2f4f94f9d
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz03.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz03.src
+Repeat file group #436 file size: 106.50 KB md5:8792342dd8341cc09ef485645e1e0d7b
+>> 1  d:/tcsoftV6/grsr60/MasterCom.dll
+>> 2  d:/tcsoftV6/gxcw60/MasterCom.dll
+>> 3  d:/tcsoftV6/gzgl60/MasterCom.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/MasterCom.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/MasterCom.dll
+Repeat file group #437 file size: 76 B md5:366d2e47a92d14d0e5a66f3008e60ad2
+>> 1  d:/tcsoftV6/yxhl60/file/wy_kh.txt
+>> 2  d:/tcsoftV6/yxhl60/file/wy_tc.txt
+Repeat file group #438 file size: 392.19 KB md5:f91f03d86aef8c3149ef752c8fa208bb
+>> 1  d:/tcsoftV6/grsr60/libjcc.dll
+>> 2  d:/tcsoftV6/gxcw60/libjcc.dll
+>> 3  d:/tcsoftV6/gzgl60/libjcc.dll
+>> 4  d:/tcsoftV6/yhdz50/libjcc.dll
+>> 5  d:/tcsoftV6/yhdz60/libjcc.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/libjcc.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/libjcc.dll
+>> 8  d:/tcsoftV6/yhpj60/libjcc.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/libjcc.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/libjcc.dll
+Repeat file group #439 file size: 22.63 KB md5:93079bc0c1d3eb224d819ba5f650b9b2
+>> 1  d:/tcsoftV6/pjgl60/image/pjzhtjb.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjzhtjb.bmp
+Repeat file group #440 file size: 627.20 KB md5:5d7acee2f10fcdb2806514ca078bd835
+>> 1  d:/tcsoftV6/yhdz50/wy_tools.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_tools.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_tools.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_tools.pbd
+Repeat file group #441 file size: 680 B md5:696bd21e59e57650c3e269d78180059a
+>> 1  d:/tcsoftV6/gxcw60/icrf32.dll.lnk
+>> 2  d:/tcsoftV6/档案管理系统最新版本/icrf32.dll.lnk
+Repeat file group #442 file size: 33.04 KB md5:9b6cfe657bb87a354c71ae7c82968a71
+>> 1  d:/tcsoftV6/grsr60/dbmsadsn.dll
+>> 2  d:/tcsoftV6/gxcw60/dbmsadsn - 副本.dll
+>> 3  d:/tcsoftV6/gxcw60/dbmsadsn.dll
+>> 4  d:/tcsoftV6/gzgl60/dbmsadsn.dll
+>> 5  d:/tcsoftV6/yhdz50/dbmsadsn.dll
+>> 6  d:/tcsoftV6/yhdz60/dbmsadsn.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/dbmsadsn.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/dbmsadsn.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/dbmsadsn.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/dbmsadsn - 副本.dll
+Repeat file group #443 file size: 43.52 KB md5:a57f690616028d39158910258e851825
+>> 1  d:/tcsoftV6/yhdz50/CVSProcess.exe
+>> 2  d:/tcsoftV6/yhdz60/CVSProcess.exe
+>> 3  d:/tcsoftV6/yhdz60(最新库)/CVSProcess.exe
+>> 4  d:/tcsoftV6/yhdz60lsm/CVSProcess.exe
+Repeat file group #444 file size: 246 B md5:6f92da2cff54c9fa2ea5b4c414ed9935
+>> 1  d:/tcsoftV6/yhpj60/var.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/var.bmp
+Repeat file group #445 file size: 612.86 KB md5:a4d124aec7a0484ccb5d59624cd122d4
+>> 1  d:/tcsoftV6/grsr60/tc_bt_11.dll
+>> 2  d:/tcsoftV6/gxcw60/tc_bt_11.dll
+>> 3  d:/tcsoftV6/gzgl60/tc_bt_11.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/tc_bt_11.dll
+Repeat file group #446 file size: 84.50 KB md5:eb6deab05a90b0241df094a22b82243f
+>> 1  d:/tcsoftV6/grsr60/DBL50T.DLL
+>> 2  d:/tcsoftV6/gxcw60/Dbl50t - 副本.dll
+>> 3  d:/tcsoftV6/gxcw60/Dbl50t.dll
+>> 4  d:/tcsoftV6/gzgl60/Dbl50t.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/Dbl50t - 副本.dll
+>> 6  d:/tcsoftV6/档案管理系统最新版本/Dbl50t.dll
+Repeat file group #447 file size: 82.43 KB md5:b7f18d1aa5ec6ce3c438525d61e78493
+>> 1  d:/tcsoftV6/yhdz50/calender.pbd
+>> 2  d:/tcsoftV6/yhdz60/calender.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/calender.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/calender.pbd
+Repeat file group #448 file size: 125.95 KB md5:0a3d7b05a21ae4553c89e7002a5ada30
+>> 1  d:/tcsoftV6/grsr60/htcommon.dll
+>> 2  d:/tcsoftV6/gxcw60/htcommon.dll
+>> 3  d:/tcsoftV6/gzgl60/htcommon.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/htcommon.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/htcommon.dll
+Repeat file group #449 file size: 22.63 KB md5:edcf05a19ae6fc02f2ce75bcf4c7ddf8
+>> 1  d:/tcsoftV6/pjgl60/image/yhgl.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/系统管理/yhgl.bmp
+Repeat file group #450 file size: 848.90 KB md5:48a46636dc079f9399830a58c2f2b90c
+>> 1  d:/tcsoftV6/yhdz50/tc_xlstool.pbl
+>> 2  d:/tcsoftV6/yhdz60/tc_xlstool.pbl
+>> 3  d:/tcsoftV6/yhdz60(最新库)/tc_xlstool.pbl
+>> 4  d:/tcsoftV6/yhdz60lsm/tc_xlstool.pbl
+Repeat file group #451 file size: 339.97 KB md5:b4a7dd4a050308e3f8f83bfcd92170e5
+>> 1  d:/tcsoftV6/gxcw60/Imglibtiff.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/Imglibtiff.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/Imglibtiff.dll
+Repeat file group #452 file size: 22.63 KB md5:0d6e6be377b6bc151dab48b1c20872b8
+>> 1  d:/tcsoftV6/pjgl60/image/bmkcyjH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/bmkcyjH.bmp
+Repeat file group #453 file size: 259.58 KB md5:5a96037e7d4f12a84f0c471651dec855
+>> 1  d:/tcsoftV6/gxcw60/PZSM/AForge.Math.pdb
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.Math.pdb
+Repeat file group #454 file size: 33.04 KB md5:0b335aed678055227fd8768294e4435a
+>> 1  d:/tcsoftV6/pjgl60/DBNMPNTW.DLL
+>> 2  d:/tcsoftV6/yhpj60/dbnmpntw.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dbnmpntw.dll
+Repeat file group #455 file size: 22.63 KB md5:8a703550856f35e38dea840a0f878ea8
+>> 1  d:/tcsoftV6/pjgl60/image/glstxxskxxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/glstxxskxxh.bmp
+Repeat file group #456 file size: 10.84 KB md5:d0cde5b6e2eb8255a9860e3ae0f539ff
+>> 1  d:/tcsoftV6/pjgl60/closeHover.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/closeHover.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/closeHover.bmp
+Repeat file group #457 file size: 246 B md5:efba0390b2781e74038fe37dd7545d17
+>> 1  d:/tcsoftV6/pjgl60/SELECT1.BMP
+>> 2  d:/tcsoftV6/yhpj60/select1.bmp
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/select1.bmp
+Repeat file group #458 file size: 139.78 KB md5:947df6cce8df14098ccfcd2224f8ef1f
+>> 1  d:/tcsoftV6/grsr60/ssleay32.dll
+>> 2  d:/tcsoftV6/gxcw60/ssleay32.dll
+>> 3  d:/tcsoftV6/gzgl60/ssleay32.dll
+>> 4  d:/tcsoftV6/yhdz50/ssleay32.dll
+>> 5  d:/tcsoftV6/yhdz60/ssleay32.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/ssleay32.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/ssleay32.dll
+>> 8  d:/tcsoftV6/yhpj60/ssleay32.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/ssleay32.dll
+Repeat file group #459 file size: 542.21 KB md5:6eb0833e876e0c39e7df30015074a3c8
+>> 1  d:/tcsoftV6/grsr60/pbdev90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdev90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbdev90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbdev90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbdev90.dll
+Repeat file group #460 file size: 22.63 KB md5:baa00a6ee7e356e3cf3eeaf442676893
+>> 1  d:/tcsoftV6/pjgl60/image/bspjqdcxh - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/bspjqdcxh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/票据查询/bspjqdcxh.bmp
+Repeat file group #461 file size: 401.92 KB md5:07bef5d816e0175e6cd2a7c1001bef48
+>> 1  d:/tcsoftV6/gxcw60/pbole90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbole90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbole90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbole90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbole90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbole90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbole90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbole90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbole90.dll
+Repeat file group #462 file size: 8.21 KB md5:be75d90e444d9309713bb15f23122027
+>> 1  d:/tcsoftV6/pjgl60/printed.bmp
+>> 2  d:/tcsoftV6/yhpj60/printed.bmp
+Repeat file group #463 file size: 52.59 KB md5:fbea8cce04ac36e63ad821daea63d965
+>> 1  d:/tcsoftV6/pjgl60/image/topleft.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/topleft.jpg
+Repeat file group #464 file size: 1.12 MB md5:b6efa012d716f95a29f3c5a7fff54282
+>> 1  d:/tcsoftV6/grsr60/pbwiz90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwiz90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwiz90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwiz90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwiz90.dll
+Repeat file group #465 file size: 139.25 KB md5:fb4f3af7203e49c4164b1a48485f0cc8
+>> 1  d:/tcsoftV6/grsr60/pbcgb90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcgb90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcgb90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcgb90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcgb90.dll
+Repeat file group #466 file size: 684.03 KB md5:1ffb06ac8c6293b8fadaf0617653a270
+>> 1  d:/tcsoftV6/grsr60/pbdts90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdts90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbdts90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbdts90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbdts90.dll
+Repeat file group #467 file size: 3.81 MB md5:5300dd1d5f2c874c89c70d0bcfd6bb15
+>> 1  d:/tcsoftV6/grsr60/pbwps90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwps90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwps90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwps90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwps90.dll
+Repeat file group #468 file size: 3.49 MB md5:a45928a3bbe71265020e69122f239cea
+>> 1  d:/tcsoftV6/grsr60/psdwc90.dll
+>> 2  d:/tcsoftV6/gzgl60/psdwc90.dll
+Repeat file group #469 file size: 12.58 KB md5:d0ca24d27aaa9f0a4c998c889688ad79
+>> 1  d:/tcsoftV6/gxcw60/dygs/08bkd.src
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dygs/08bkd.src
+Repeat file group #470 file size: 22.63 KB md5:023eae05dab4b593f0312447e2e37f76
+>> 1  d:/tcsoftV6/pjgl60/image/lyrzdsz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/lyrzdsz.bmp
+Repeat file group #471 file size: 824 B md5:b78bcec3c1e5ba8dfaacf25c8d9d7bc7
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/open-folder.bmp
+>> 2  d:/tcsoftV6/pjgl60/open-folder.bmp
+Repeat file group #472 file size: 19.46 KB md5:06987aa3da98713180668d05cb53793b
+>> 1  d:/tcsoftV6/gxcw60/AForge.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/AForge.dll
+Repeat file group #473 file size: 69.63 KB md5:3ba208c905ce6d8b26718f2f2e450858
+>> 1  d:/tcsoftV6/grsr60/icrf32.dll
+>> 2  d:/tcsoftV6/gxcw60/icrf32.dll
+>> 3  d:/tcsoftV6/gzgl60/icrf32.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/icrf32.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/icrf32.dll
+Repeat file group #474 file size: 34.30 KB md5:6f1a6ee39a8665246e01432967d86246
+>> 1  d:/tcsoftV6/grsr60/pbtra90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbtra90.dll
+Repeat file group #475 file size: 1.26 KB md5:3e9e939d535682072e1219527d370fd2
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/myH.bmp
+>> 2  d:/tcsoftV6/pjgl60/myH.bmp
+Repeat file group #476 file size: 3.96 KB md5:fa006c83f7bc869da90c4161f9979a00
+>> 1  d:/tcsoftV6/gxcw60/dygs/01pz05.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/01pz05.srd
+>> 3  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz05.srd
+Repeat file group #477 file size: 1.61 MB md5:c97816ca6e28d93ac6f812153a1f0def
+>> 1  d:/tcsoftV6/grsr60/pbdwp90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdwp90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbdwp90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbdwp90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbdwp90.dll
+Repeat file group #478 file size: 246 B md5:657ce2406599af09669731d3345ba6a6
+>> 1  d:/tcsoftV6/yhpj60/printview.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/printview.bmp
+Repeat file group #479 file size: 374.27 KB md5:3fb3067b28eb539679dbc7dd2cb18399
+>> 1  d:/tcsoftV6/grsr60/pbodbc1.dll
+>> 2  d:/tcsoftV6/grsr60/pbodbc2.dll
+>> 3  d:/tcsoftV6/gxcw60/Pbdvm90.dll
+>> 4  d:/tcsoftV6/gxcw60/pbodbc2.dll
+>> 5  d:/tcsoftV6/gzgl60/Pbodbc1.dll
+>> 6  d:/tcsoftV6/gzgl60/pbodbc2.dll
+>> 7  d:/tcsoftV6/yhdz50/Pbodbc1.dll
+>> 8  d:/tcsoftV6/yhdz60/Pbodbc1.dll
+>> 9  d:/tcsoftV6/yhdz60(最新库)/Pbodbc1.dll
+>>10  d:/tcsoftV6/yhdz60lsm/Pbodbc1.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/pbodbc2.dll
+Repeat file group #480 file size: 299.01 KB md5:e7d32255c850b1f104fca441039f8be5
+>> 1  d:/tcsoftV6/gxcw60/pbsoapclient90.dll
+>> 2  d:/tcsoftV6/yhdz50/pbsoapclient90.dll
+>> 3  d:/tcsoftV6/yhdz60/pbsoapclient90.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/pbsoapclient90.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/pbsoapclient90.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/pbsoapclient90.dll
+Repeat file group #481 file size: 18.29 KB md5:01656fd43cc970750565fe880973ee5d
+>> 1  d:/tcsoftV6/grsr60/IC_LIB.DLL
+>> 2  d:/tcsoftV6/gxcw60/IC_LIB.DLL
+>> 3  d:/tcsoftV6/gzgl60/IC_LIB.DLL
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/IC_LIB.DLL
+>> 5  d:/tcsoftV6/档案管理系统最新版本/IC_LIB.DLL
+Repeat file group #482 file size: 2.47 MB md5:8203e3e7f08747538a45c5a815571ccc
+>> 1  d:/tcsoftV6/grsr60/pbdwe90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdwe90.dll
+Repeat file group #483 file size: 55.81 KB md5:3ecfe1baeab591769664567c4e653e6f
+>> 1  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/zlib1.dll
+>> 2  d:/tcsoftV6/gxcw60/zlib1.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/zlib1.dll
+Repeat file group #484 file size: 2.37 MB md5:2f10e3fe9d09910c56c2ce2c444d8e6a
+>> 1  d:/tcsoftV6/yhdz50/wy_cxgl.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_cxgl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_cxgl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_cxgl.pbd
+Repeat file group #485 file size: 1.60 MB md5:22c9fd7024d96392cbc86fcd5d94f5c4
+>> 1  d:/tcsoftV6/yhdz50/yhzd_dzcl.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhzd_dzcl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhzd_dzcl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhzd_dzcl.pbd
+Repeat file group #486 file size: 184 B md5:72ff398f9e4a22d1e93b508b5d0f1264
+>> 1  d:/tcsoftV6/yhdz50/Tc - 副本.ini
+>> 2  d:/tcsoftV6/yhdz50/Tc.ini
+>> 3  d:/tcsoftV6/yhdz60/Tc - 副本.ini
+>> 4  d:/tcsoftV6/yhdz60(最新库)/Tc - 副本.ini
+>> 5  d:/tcsoftV6/yhdz60lsm/Tc - 副本.ini
+Repeat file group #487 file size: 502.27 KB md5:b9cce2856dd379b374082cfa6464a881
+>> 1  d:/tcsoftV6/grsr60/pbcmp60.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcmp60.dll
+Repeat file group #488 file size: 22.63 KB md5:6cb3a585ae99beb02b68015d09fa0893
+>> 1  d:/tcsoftV6/pjgl60/image/sjkbfh - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/sjkbfh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/系统管理/sjkbfh.bmp
+Repeat file group #489 file size: 229.89 KB md5:ba71a9f07356eff4a9740dc14ffa5715
+>> 1  d:/tcsoftV6/grsr60/pbmss90.dll
+>> 2  d:/tcsoftV6/gxcw60/pbmss90.dll
+>> 3  d:/tcsoftV6/gzgl60/pbmss90.dll
+>> 4  d:/tcsoftV6/yhdz50/pbmss90.dll
+>> 5  d:/tcsoftV6/yhdz60/pbmss90.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/pbmss90.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/pbmss90.dll
+>> 8  d:/tcsoftV6/yhpj60/pbmss90.dll
+>> 9  d:/tcsoftV6/凭证联查SQL6.0/pbmss90.dll
+>>10  d:/tcsoftV6/档案管理系统最新版本/pbmss90.dll
+Repeat file group #490 file size: 427.52 KB md5:5245d43a8fbba4052130183faf854960
+>> 1  d:/tcsoftV6/grsr60/pbwsdlclient90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwsdlclient90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwsdlclient90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwsdlclient90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwsdlclient90.dll
+Repeat file group #491 file size: 344.06 KB md5:9972a6ed4f2388dbfa8e0a96f6f3fdf1
+>> 1  d:/tcsoftV6/grsr60/msvcr70.dll
+>> 2  d:/tcsoftV6/gxcw60/msvcr70.dll
+>> 3  d:/tcsoftV6/gzgl60/msvcr70.dll
+>> 4  d:/tcsoftV6/pjgl60/msvcr70.dll
+>> 5  d:/tcsoftV6/yhdz50/msvcr70.dll
+>> 6  d:/tcsoftV6/yhdz60/msvcr70.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/msvcr70.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/msvcr70.dll
+>> 9  d:/tcsoftV6/yxhl60/msvcr70.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/msvcr70.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/msvcr70.dll
+Repeat file group #492 file size: 5.02 KB md5:7533037fe6bae975db4c94e6cadc8230
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz06.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz06.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/01pz06.txt
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz06.txt
+Repeat file group #493 file size: 22.63 KB md5:7ca6af21ed2ffe3d373f7d1d19be7bbf
+>> 1  d:/tcsoftV6/pjgl60/image/scpjdyxtpjxx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/scpjdyxtpjxx.bmp
+Repeat file group #494 file size: 22.63 KB md5:d9914e2c7002ef1533ae19dfb24c3d89
+>> 1  d:/tcsoftV6/pjgl60/image/sjgl.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/系统管理/sjgl.bmp
+Repeat file group #495 file size: 22.63 KB md5:3eb16415e5258a649356f3be32a88d03
+>> 1  d:/tcsoftV6/pjgl60/image/bmkcxesdh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/bmkcxesdh.bmp
+Repeat file group #496 file size: 995.38 KB md5:2256af2b730d4960c4a676e4a9cf906f
+>> 1  d:/tcsoftV6/grsr60/mfc42.dll
+>> 2  d:/tcsoftV6/gzgl60/mfc42.dll
+>> 3  d:/tcsoftV6/yxhl60/mfc42.dll
+Repeat file group #497 file size: 39.05 KB md5:d6ba16e3dd3d03fa2c3b1de9a751a53f
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/Page5.bmp
+>> 2  d:/tcsoftV6/pjgl60/Page5.bmp
+>> 3  d:/tcsoftV6/yhpj60/Page5.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/Page5.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/Page5.bmp
+Repeat file group #498 file size: 246 B md5:6feff0eb4a3b343f132830c0774beabb
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/NEXT1.BMP
+>> 2  d:/tcsoftV6/pjgl60/NEXT1.BMP
+>> 3  d:/tcsoftV6/yhpj60/next1.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/next1.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/next1.bmp
+Repeat file group #499 file size: 444.95 KB md5:b2260c2a21a333ecf94f3b0704d30c20
+>> 1  d:/tcsoftV6/grsr60/Dbtl50t.dll
+>> 2  d:/tcsoftV6/gxcw60/Dbtl50t.dll
+>> 3  d:/tcsoftV6/gzgl60/Dbtl50t.dll
+>> 4  d:/tcsoftV6/yhdz50/Dbtl50t.dll
+>> 5  d:/tcsoftV6/yhdz60/Dbtl50t.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/Dbtl50t.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/Dbtl50t.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/Dbtl50t.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/Dbtl50t.dll
+Repeat file group #500 file size: 106.50 KB md5:535214a3308372164ab6134ce216c73b
+>> 1  d:/tcsoftV6/gxcw60/LinearBarDecode.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/DecodeDll/LinearBarDecode.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/LinearBarDecode.dll
+Repeat file group #501 file size: 14.61 KB md5:658a03764a91572cc7e688f2b48703cf
+>> 1  d:/tcsoftV6/grsr60/dygs/02fk01.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/02fk01.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/02fk01.txt
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/02fk01.txt
+Repeat file group #502 file size: 280.06 KB md5:e02bc0465588b0a2a594f3f4bde05274
+>> 1  d:/tcsoftV6/grsr60/pbjcg90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbjcg90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbjcg90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbjcg90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbjcg90.dll
+Repeat file group #503 file size: 9.76 KB md5:0e4fad6437ef86a8a63ef6e3050e5661
+>> 1  d:/tcsoftV6/pjgl60/image/userBG.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/userBG.bmp
+>> 3  d:/tcsoftV6/pjgl60/userBG.bmp
+Repeat file group #504 file size: 598.02 KB md5:dcd86e62eab4cd69e58e6e6bdfc9a565
+>> 1  d:/tcsoftV6/grsr60/pbdom90.dll
+>> 2  d:/tcsoftV6/gxcw60/PBDOM90.dll
+>> 3  d:/tcsoftV6/gzgl60/pbdom90.dll
+>> 4  d:/tcsoftV6/pjgl60/pbdom90.dll
+>> 5  d:/tcsoftV6/yhdz50/PBDOM90.dll
+>> 6  d:/tcsoftV6/yhdz60/PBDOM90.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/PBDOM90.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/PBDOM90.dll
+>> 9  d:/tcsoftV6/yhpj60/pbdom90.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/PBDOM90.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/PBDOM90.dll
+Repeat file group #505 file size: 398.85 KB md5:7bda544177eed9e8d5c6181e34b6c4fd
+>> 1  d:/tcsoftV6/grsr60/pbdwo90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdwo90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbdwo90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbdwo90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbdwo90.dll
+Repeat file group #506 file size: 374.27 KB md5:ffc76f61c8b5874c5c16770a6cb72c66
+>> 1  d:/tcsoftV6/gxcw60/Pbodbc1.dll
+>> 2  d:/tcsoftV6/pjgl60/Pbdvm90.dll
+>> 3  d:/tcsoftV6/pjgl60/Pbodbc1.dll
+>> 4  d:/tcsoftV6/yhpj60/Pbdvm90.dll
+>> 5  d:/tcsoftV6/yhpj60/Pbodbc1.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/Pbdvm90.dll
+>> 7  d:/tcsoftV6/凭证联查SQL6.0/Pbodbc1.dll
+>> 8  d:/tcsoftV6/档案管理系统最新版本/Pbdvm90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/Pbodbc1.dll
+Repeat file group #507 file size: 348.16 KB md5:3acf71c067133b60e949b1317d945bc1
+>> 1  d:/tcsoftV6/grsr60/HBarCode.dll
+>> 2  d:/tcsoftV6/gxcw60/HBarCode.dll
+>> 3  d:/tcsoftV6/gzgl60/HBarCode.dll
+>> 4  d:/tcsoftV6/yhdz50/HBarCode.dll
+>> 5  d:/tcsoftV6/yhdz60/HBarCode.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HBarCode.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HBarCode.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HBarCode.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HBarCode.dll
+Repeat file group #508 file size: 37.91 KB md5:7486ada44c77d121ae785d3d9d47b674
+>> 1  d:/tcsoftV6/pjgl60/image/topright.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/topright.jpg
+Repeat file group #509 file size: 22.63 KB md5:f9dfc6a0d0c4355b8c8f99d3433b9c16
+>> 1  d:/tcsoftV6/pjgl60/image/pjtl.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjtl.bmp
+Repeat file group #510 file size: 26.00 KB md5:280f0d7bdb64eb90ce24ed5efd6e5a1b
+>> 1  d:/tcsoftV6/pjgl60/image/yhdlH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/yhdlH.bmp
+Repeat file group #511 file size: 21.75 KB md5:73b44fb3cd4e34b2a6e9b956e79e6a31
+>> 1  d:/tcsoftV6/gxcw60/dygs/03zzd.srd
+>> 2  d:/tcsoftV6/gzgl60/dygs/03zzd.srd
+Repeat file group #512 file size: 12.45 KB md5:f08ffebcb4c38405b3fd337aa8aec24f
+>> 1  d:/tcsoftV6/pjgl60/image/bottomright - 副本.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/bottomright.jpg
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/bottomright.jpg
+Repeat file group #513 file size: 81.92 KB md5:81133b51e164c957d09c8dcf38eabe2a
+>> 1  d:/tcsoftV6/gxcw60/BarCodeLib.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/BarCodeLib.dll
+Repeat file group #514 file size: 22.63 KB md5:c3d2e35b1dbd0bbf7dbb525303cda2c3
+>> 1  d:/tcsoftV6/pjgl60/image/lyrzdszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/lyrzdszh.bmp
+Repeat file group #515 file size: 73.49 KB md5:e60a2c9dd30f944e465b5102d00445e4
+>> 1  d:/tcsoftV6/gxcw60/dygs/01A4.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/01A4.srd
+Repeat file group #516 file size: 111.62 KB md5:445230ef94986c411942ef94ef4a10b4
+>> 1  d:/tcsoftV6/grsr60/Ticaux32.dll
+>> 2  d:/tcsoftV6/gxcw60/Ticaux32.dll
+>> 3  d:/tcsoftV6/gzgl60/Ticaux32.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/Ticaux32.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/Ticaux32.dll
+Repeat file group #517 file size: 9.73 KB md5:080fae8ac90f4dd013ef8635f8998917
+>> 1  d:/tcsoftV6/pjgl60/image/ymjc.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/ymjc.bmp
+Repeat file group #518 file size: 22.63 KB md5:7408df6080e2848b96a84d8af5b64ae4
+>> 1  d:/tcsoftV6/pjgl60/image/zwjsfsh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/zwjsfsh.bmp
+Repeat file group #519 file size: 409.60 KB md5:2b7597e252ff57b26bbb23be914bd69e
+>> 1  d:/tcsoftV6/grsr60/pbjdb90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbjdb90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbjdb90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbjdb90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbjdb90.dll
+Repeat file group #520 file size: 1.26 KB md5:2517fa9d9bf4f301f8cbdf419085e12e
+>> 1  d:/tcsoftV6/pjgl60/helpH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/helpH.bmp
+Repeat file group #521 file size: 69.63 KB md5:f6c943d2207e63eb87d9b9f78a8c385a
+>> 1  d:/tcsoftV6/gxcw60/dcrf32.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/dcrf32.dll
+Repeat file group #522 file size: 22.44 KB md5:c264561ec6f5daabfaf06bceed56e0f9
+>> 1  d:/tcsoftV6/yhdz50/2222.XLS
+>> 2  d:/tcsoftV6/yhdz60/2222.XLS
+>> 3  d:/tcsoftV6/yhdz60(最新库)/2222.XLS
+>> 4  d:/tcsoftV6/yhdz60lsm/2222.XLS
+Repeat file group #523 file size: 1.27 MB md5:d17d26363ca3130a1692717080ee2d49
+>> 1  d:/tcsoftV6/gxcw60/pbfunc.dll
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/pbfunc.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/pbfunc.dll
+Repeat file group #524 file size: 728 B md5:5638be8cdee4b3d00dc2e486521e4108
+>> 1  d:/tcsoftV6/yhdz50/file/pgndm.txt
+>> 2  d:/tcsoftV6/yhdz60/file/pgndm.txt
+>> 3  d:/tcsoftV6/yhdz60(最新库)/file/pgndm.txt
+>> 4  d:/tcsoftV6/yhdz60lsm/file/pgndm.txt
+Repeat file group #525 file size: 623.62 KB md5:4cb0d7efc68a2b1efd6119ea00564822
+>> 1  d:/tcsoftV6/yhdz50/wy_dmgl.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_dmgl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_dmgl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_dmgl.pbd
+Repeat file group #526 file size: 33.28 KB md5:82f6e2604ae610d1c043e3699cde80ce
+>> 1  d:/tcsoftV6/gxcw60/pbnat90.dll
+>> 2  d:/tcsoftV6/yhdz50/pbnat90.dll
+>> 3  d:/tcsoftV6/yhdz60/pbnat90.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/pbnat90.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/pbnat90.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/pbnat90.dll
+Repeat file group #527 file size: 4.10 KB md5:5e010c86b182216d1b85d4a4d3fc7ae8
+>> 1  d:/tcsoftV6/grsr60/BusCom95.dll
+>> 2  d:/tcsoftV6/gxcw60/BusCom95.dll
+>> 3  d:/tcsoftV6/gzgl60/BusCom95.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/BusCom95.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/BusCom95.dll
+Repeat file group #528 file size: 96.06 KB md5:822495774d5e77339d2ff942fba05ece
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/LOGO_bs.bmp
+>> 2  d:/tcsoftV6/pjgl60/LOGO_bs.bmp
+Repeat file group #529 file size: 22.63 KB md5:448839811ddd571b2c8f1ea44a8b8b7b
+>> 1  d:/tcsoftV6/pjgl60/image/pjpch.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/pjpch.bmp
+Repeat file group #530 file size: 254.98 KB md5:209c573cfe183a43d8156ec4a5c9cd65
+>> 1  d:/tcsoftV6/yhdz50/wy_qxgl.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_qxgl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_qxgl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_qxgl.pbd
+Repeat file group #531 file size: 32.77 KB md5:75f66c043d2f45b54550764cc085abd1
+>> 1  d:/tcsoftV6/grsr60/Simple1.dll
+>> 2  d:/tcsoftV6/gxcw60/Simple1.dll
+>> 3  d:/tcsoftV6/gzgl60/Simple1.dll
+>> 4  d:/tcsoftV6/yhdz50/Simple1.dll
+>> 5  d:/tcsoftV6/yhdz60/Simple1.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/Simple1.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/Simple1.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/Simple1.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/Simple1.dll
+Repeat file group #532 file size: 352.77 KB md5:bf31c72ae43d4aabaa4f3a376655a536
+>> 1  d:/tcsoftV6/gxcw60/pbdwr90.dll
+>> 2  d:/tcsoftV6/pjgl60/pbdwr90.dll
+>> 3  d:/tcsoftV6/yhdz50/pbdwr90.dll
+>> 4  d:/tcsoftV6/yhdz60/pbdwr90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/pbdwr90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/pbdwr90.dll
+>> 7  d:/tcsoftV6/yhpj60/pbdwr90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/pbdwr90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/pbdwr90.dll
+Repeat file group #533 file size: 11.32 KB md5:7065d771bf021fa6e2c220d7bcc689c1
+>> 1  d:/tcsoftV6/pjgl60/image/leftcentre - 副本.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/leftcentre.jpg
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/leftcentre.jpg
+>> 4  d:/tcsoftV6/pjgl60/leftcentre.jpg
+Repeat file group #534 file size: 9.73 KB md5:1069b5fa5ae4e99505596ff2a335dd8a
+>> 1  d:/tcsoftV6/pjgl60/image/glxtclH.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/glxtclH.bmp
+Repeat file group #535 file size: 140.29 KB md5:2550da4b3d74a8614a463f90260c61f5
+>> 1  d:/tcsoftV6/档案管理系统最新版本/Common.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/Common.dll
+Repeat file group #536 file size: 22.63 KB md5:81502f0b517598935246e71a966adbb3
+>> 1  d:/tcsoftV6/pjgl60/image/pjtk.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjtk.bmp
+Repeat file group #537 file size: 2.12 MB md5:913f9e62ced1aa25a9233a6c654c476b
+>> 1  d:/tcsoftV6/gxcw60/DirRecg2.00.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/OcrDll/DirRecg2.00.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/DirRecg2.00.dll
+Repeat file group #538 file size: 1.26 KB md5:b5357d7fc763569035e3ba6c290ede94
+>> 1  d:/tcsoftV6/pjgl60/add.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/add.bmp
+Repeat file group #539 file size: 4.72 MB md5:351012fc309d0ef5a233ef369007808c
+>> 1  d:/tcsoftV6/grsr60/pbvm90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbvm90.dll
+>> 3  d:/tcsoftV6/yxhl60/pbvm90.dll
+Repeat file group #540 file size: 349.18 KB md5:25d7e73f15f5cf4b314fb9c0d3ec0ffe
+>> 1  d:/tcsoftV6/grsr60/pbdwr90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbdwr90.dll
+Repeat file group #541 file size: 33.04 KB md5:525c08afcc6c53f81682a21ed0b33a98
+>> 1  d:/tcsoftV6/pjgl60/DBMSSPXN.DLL
+>> 2  d:/tcsoftV6/yhpj60/DBmsSPXn.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/DBmsSPXn.dll
+Repeat file group #542 file size: 90.11 KB md5:aa83c52f4a5ae3cfb098cd1a018a1027
+>> 1  d:/tcsoftV6/grsr60/HImage.dll
+>> 2  d:/tcsoftV6/gxcw60/HImage.dll
+>> 3  d:/tcsoftV6/gzgl60/HImage.dll
+>> 4  d:/tcsoftV6/yhdz50/HImage.dll
+>> 5  d:/tcsoftV6/yhdz60/HImage.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HImage.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HImage.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HImage.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HImage.dll
+Repeat file group #543 file size: 1.81 MB md5:f23aa003fe5a49748d39ad0c257bf51d
+>> 1  d:/tcsoftV6/凭证联查SQL6.0/CheckDevice.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/CheckDevice.dll
+Repeat file group #544 file size: 2.73 KB md5:2c2ee9a1945320acf52e5790e60d21b2
+>> 1  d:/tcsoftV6/grsr60/dygs/03zz.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/03zz.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/03zz.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/03zz.src
+Repeat file group #545 file size: 22.63 KB md5:e14e563afb1bbc9bef22120d5c12cf41
+>> 1  d:/tcsoftV6/pjgl60/image/pmsdh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/pmsdh.bmp
+Repeat file group #546 file size: 22.63 KB md5:295d64402192a8bcc9e8e0b76d70041e
+>> 1  d:/tcsoftV6/pjgl60/image/pjbscxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjbscxh.bmp
+Repeat file group #547 file size: 1.26 KB md5:5dcca11dc5df959b52958dc31474c854
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/selectH.bmp
+>> 2  d:/tcsoftV6/pjgl60/selectH.bmp
+Repeat file group #548 file size: 290.82 KB md5:e7b0914496254780d968e5dd8990a4ca
+>> 1  d:/tcsoftV6/gxcw60/PBXerces90.dll
+>> 2  d:/tcsoftV6/pjgl60/PBXerces90.dll
+>> 3  d:/tcsoftV6/yhdz50/PBXerces90.dll
+>> 4  d:/tcsoftV6/yhdz60/PBXerces90.dll
+>> 5  d:/tcsoftV6/yhdz60(最新库)/PBXerces90.dll
+>> 6  d:/tcsoftV6/yhdz60lsm/PBXerces90.dll
+>> 7  d:/tcsoftV6/yhpj60/PBXerces90.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/PBXerces90.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/PBXerces90.dll
+Repeat file group #549 file size: 28.38 KB md5:dfa56e30a18f5ddff81b27cf6aebcec0
+>> 1  d:/tcsoftV6/pjgl60/image/bottomleft - 副本.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/bottomleft.jpg
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/bottomleft.jpg
+Repeat file group #550 file size: 126.39 KB md5:a38e01a8eeb540639d73c471c03dd47e
+>> 1  d:/tcsoftV6/grsr60/XLSWriter.dll
+>> 2  d:/tcsoftV6/gxcw60/XLSWriter.dll
+>> 3  d:/tcsoftV6/gzgl60/XLSWriter.dll
+>> 4  d:/tcsoftV6/pjgl60/XLSWriter.dll
+>> 5  d:/tcsoftV6/yhdz50/XLSWriter.dll
+>> 6  d:/tcsoftV6/yhdz60/XLSWriter.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/XLSWriter.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/XLSWriter.dll
+>> 9  d:/tcsoftV6/yhpj60/XLSWriter.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/XLSWriter.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/XLSWriter.dll
+Repeat file group #551 file size: 35.22 KB md5:e2bcde82ba78dca4113eb72a296e49f9
+>> 1  d:/tcsoftV6/grsr60/dygs/01pz01.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/01pz01 - 副本.src
+>> 3  d:/tcsoftV6/gxcw60/dygs/01pz01.src
+>> 4  d:/tcsoftV6/gzgl60/dygs/01pz01.src
+>> 5  d:/tcsoftV6/档案管理系统最新版本/dygs/01pz01.src
+Repeat file group #552 file size: 1.03 MB md5:d3a5b4dab6121f58595333f88ce290db
+>> 1  d:/tcsoftV6/yhdz50/wy_xtgl.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_xtgl.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_xtgl.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_xtgl.pbd
+Repeat file group #553 file size: 3.13 KB md5:e30ddf5225d9757daee83677cbaac2bd
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/toolbar1.BMP
+>> 2  d:/tcsoftV6/pjgl60/toolbar1.BMP
+>> 3  d:/tcsoftV6/yhpj60/toolbar1.BMP
+Repeat file group #554 file size: 114.69 KB md5:9a08b21d56b2d0d28deebbe2dd6c3501
+>> 1  d:/tcsoftV6/grsr60/Mifare.dll
+>> 2  d:/tcsoftV6/grsr60/rfcom.dll
+>> 3  d:/tcsoftV6/gxcw60/Mifare.dll
+>> 4  d:/tcsoftV6/gxcw60/rfcom.dll
+>> 5  d:/tcsoftV6/gzgl60/Mifare.dll
+>> 6  d:/tcsoftV6/gzgl60/rfcom.dll
+>> 7  d:/tcsoftV6/yhdz50/Mifare.dll
+>> 8  d:/tcsoftV6/yhdz60/Mifare.dll
+>> 9  d:/tcsoftV6/yhdz60(最新库)/Mifare.dll
+>>10  d:/tcsoftV6/yhdz60lsm/Mifare.dll
+>>11  d:/tcsoftV6/凭证联查SQL6.0/Mifare.dll
+>>12  d:/tcsoftV6/档案管理系统最新版本/Mifare.dll
+>>13  d:/tcsoftV6/档案管理系统最新版本/rfcom.dll
+Repeat file group #555 file size: 184 B md5:2ead6d09a9e8c6c292823918fa6ccfb6
+>> 1  d:/tcsoftV6/yhdz60/Tc.ini
+>> 2  d:/tcsoftV6/yhdz60(最新库)/Tc - 副本 (2).ini
+Repeat file group #556 file size: 699.90 KB md5:5ace66a1578460143e4b32f0343d8270
+>> 1  d:/tcsoftV6/yhdz50/17、银行对账5.0.doc
+>> 2  d:/tcsoftV6/yhdz60/17、银行对账5.0.doc
+>> 3  d:/tcsoftV6/yhdz60(最新库)/17、银行对账5.0.doc
+>> 4  d:/tcsoftV6/yhdz60lsm/17、银行对账5.0.doc
+Repeat file group #557 file size: 10.24 KB md5:bf37267a80bbfd9aab9034e25d83447f
+>> 1  d:/tcsoftV6/gxcw60/pbx_kernel.pbd
+>> 2  d:/tcsoftV6/gzgl60/pbx_kernel.pbd
+>> 3  d:/tcsoftV6/pjgl60/pbx_kernel.pbd
+>> 4  d:/tcsoftV6/yxhl60/pbx_kernel.pbd
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbx_kernel.pbd
+Repeat file group #558 file size: 524.89 KB md5:992f6e1753adb882f542cf547431220d
+>> 1  d:/tcsoftV6/pjgl60/image/LoginBG.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/LoginBG.bmp
+>> 3  d:/tcsoftV6/pjgl60/LoginBG.bmp
+Repeat file group #559 file size: 17.82 KB md5:11b1a90ff491d70c0fa5b5aa41642219
+>> 1  d:/tcsoftV6/yhdz50/KEYBTON.DLL
+>> 2  d:/tcsoftV6/yhdz60/KEYBTON.DLL
+>> 3  d:/tcsoftV6/yhdz60(最新库)/KEYBTON.DLL
+>> 4  d:/tcsoftV6/yhdz60lsm/KEYBTON.DLL
+Repeat file group #560 file size: 3.29 MB md5:1761c10cd8d701123eeef6a5b2a9457e
+>> 1  d:/tcsoftV6/yhdz50/wy_cnlr.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_cnlr.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_cnlr.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_cnlr.pbd
+Repeat file group #561 file size: 396.80 KB md5:27a499ff8ac1796c13f30fae65355c06
+>> 1  d:/tcsoftV6/grsr60/pbole90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbole90.dll
+>> 3  d:/tcsoftV6/yxhl60/pbole90.dll
+Repeat file group #562 file size: 22.63 KB md5:1b0b454f90526fc0d75fdb42fd07f4df
+>> 1  d:/tcsoftV6/pjgl60/image/kcyjh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据计划/kcyjh.bmp
+Repeat file group #563 file size: 7.42 KB md5:9c11e57de948d7d8917508cfdc77cfcc
+>> 1  d:/tcsoftV6/grsr60/pfccomm.dll
+>> 2  d:/tcsoftV6/gzgl60/pfccomm.dll
+>> 3  d:/tcsoftV6/yxhl60/pfccomm.dll
+Repeat file group #564 file size: 573.95 KB md5:fed05be1387e1c7b8120bf2df820762d
+>> 1  d:/tcsoftV6/gxcw60/USER32.DLL
+>> 2  d:/tcsoftV6/yhdz50/USER32.DLL
+>> 3  d:/tcsoftV6/yhdz60/USER32.DLL
+>> 4  d:/tcsoftV6/yhdz60(最新库)/USER32.DLL
+>> 5  d:/tcsoftV6/yhdz60lsm/USER32.DLL
+Repeat file group #565 file size: 49.15 KB md5:24df7667018212561ab15d2a64ba6b3c
+>> 1  d:/tcsoftV6/gxcw60/demoapp.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/demoapp.dll
+Repeat file group #566 file size: 5.54 KB md5:1d021d3d7d834bb49219bc31d1a77a97
+>> 1  d:/tcsoftV6/pjgl60/WebDatabase.Web/bin/WebDatabase.Web.dll.config
+>> 2  d:/tcsoftV6/pjgl60/WebDatabase.Web/web.config
+Repeat file group #567 file size: 22.63 KB md5:6d2aeee5e6cbce25bf781faced862561
+>> 1  d:/tcsoftV6/pjgl60/image/pjjc.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/月末结存/pjjc.bmp
+Repeat file group #568 file size: 22.63 KB md5:a54fe384af6c34d18e8c951ae9d7152e
+>> 1  d:/tcsoftV6/pjgl60/image/sjbbfh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/系统管理/sjbbfh.bmp
+Repeat file group #569 file size: 246 B md5:a24f851c35a32c712e2dad107b4a90a9
+>> 1  d:/tcsoftV6/yhpj60/mod.bmp
+>> 2  d:/tcsoftV6/凭证联查SQL6.0/mod.bmp
+Repeat file group #570 file size: 204.84 KB md5:9f9a111c06de7ff940689186d8797275
+>> 1  d:/tcsoftV6/grsr60/prtset32.dll
+>> 2  d:/tcsoftV6/gzgl60/prtset32.dll
+>> 3  d:/tcsoftV6/pjgl60/prtset32.dll
+>> 4  d:/tcsoftV6/yhpj60/prtset32.dll
+>> 5  d:/tcsoftV6/yxhl60/prtset32.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/PRTSET32.DLL
+>> 7  d:/tcsoftV6/档案管理系统最新版本/PRTSET32.DLL
+Repeat file group #571 file size: 11.51 KB md5:ca1a25248f914dbb59d750fbe285f264
+>> 1  d:/tcsoftV6/pjgl60/image/rightcentre.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/rightcentre.jpg
+Repeat file group #572 file size: 626.96 KB md5:1e2dc9de15b813fdcd565167e58076fc
+>> 1  d:/tcsoftV6/grsr60/oleaut32.dll
+>> 2  d:/tcsoftV6/gxcw60/oleaut32.dll
+>> 3  d:/tcsoftV6/gzgl60/oleaut32.dll
+>> 4  d:/tcsoftV6/yhdz50/oleaut32.dll
+>> 5  d:/tcsoftV6/yhdz60/oleaut32.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/oleaut32.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/oleaut32.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/oleaut32.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/oleaut32.dll
+Repeat file group #573 file size: 175.10 KB md5:d9a1968e2ae21181143d5b87653a7e18
+>> 1  d:/tcsoftV6/grsr60/pbeas90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbeas90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbeas90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbeas90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbeas90.dll
+Repeat file group #574 file size: 204.88 KB md5:16690922b3c9ad58d5a0386099dfc196
+>> 1  d:/tcsoftV6/gxcw60/acmeusbreader.dll
+>> 2  d:/tcsoftV6/yxhl60/顶点刷卡器dll/acmeusbreader.dll
+>> 3  d:/tcsoftV6/凭证联查SQL6.0/acmeusbreader.dll
+>> 4  d:/tcsoftV6/档案管理系统最新版本/acmeusbreader.dll
+Repeat file group #575 file size: 974.85 KB md5:09aef167eb1531e965053d0dcf6cc573
+>> 1  d:/tcsoftV6/grsr60/mfc70.dll
+>> 2  d:/tcsoftV6/gxcw60/mfc70.dll
+>> 3  d:/tcsoftV6/gzgl60/mfc70.dll
+>> 4  d:/tcsoftV6/yhdz50/mfc70.dll
+>> 5  d:/tcsoftV6/yhdz60/mfc70.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/mfc70.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/mfc70.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/mfc70.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/mfc70.dll
+Repeat file group #576 file size: 1.52 MB md5:5d41fab4ea16580bfec68bc91d3e9c1e
+>> 1  d:/tcsoftV6/grsr60/pbadd90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbadd90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbadd90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbadd90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbadd90.dll
+Repeat file group #577 file size: 22.63 KB md5:23154073b5a102de62ab37eca90aa815
+>> 1  d:/tcsoftV6/pjgl60/image/guanyh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/帮助/guanyh.bmp
+Repeat file group #578 file size: 11.20 KB md5:4476d1ab71ff18995f2f17de5886f1a9
+>> 1  d:/tcsoftV6/pjgl60/image/topcentre.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/topcentre.jpg
+Repeat file group #579 file size: 22.63 KB md5:3de8d83f1032fc2d3081b85ac52e144b
+>> 1  d:/tcsoftV6/pjgl60/image/pjlycxh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjlycxh.bmp
+Repeat file group #580 file size: 57.34 KB md5:35b86f11236011f980c361eae99a439d
+>> 1  d:/tcsoftV6/grsr60/HAdo.dll
+>> 2  d:/tcsoftV6/gxcw60/HAdo.dll
+>> 3  d:/tcsoftV6/gzgl60/HAdo.dll
+>> 4  d:/tcsoftV6/yhdz50/HAdo.dll
+>> 5  d:/tcsoftV6/yhdz60/HAdo.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/HAdo.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/HAdo.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/HAdo.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/HAdo.dll
+Repeat file group #581 file size: 22.63 KB md5:569e78e28bb2fbb3064a486d25da34c7
+>> 1  d:/tcsoftV6/pjgl60/image/pmsd.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/pmsd.bmp
+Repeat file group #582 file size: 72.21 KB md5:f77a0e3e807e9824bfab98aac7416cc7
+>> 1  d:/tcsoftV6/gxcw60/PZSM/AForge.xml
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/AForge.xml
+Repeat file group #583 file size: 824 B md5:501e842f4d596ef7511dbbd85d688e9f
+>> 1  d:/tcsoftV6/pjgl60/bumen.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/bumen.bmp
+Repeat file group #584 file size: 271.36 KB md5:0587cc81e44fd5ba7f1c58e84708679a
+>> 1  d:/tcsoftV6/gxcw60/AForge.Imaging.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/AForge.Imaging.dll
+Repeat file group #585 file size: 7.69 KB md5:3274fdea35645552aa09d6c311633abf
+>> 1  d:/tcsoftV6/grsr60/dygs/02sk01.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/02sk01.src
+>> 3  d:/tcsoftV6/gzgl60/dygs/02sk01.src
+>> 4  d:/tcsoftV6/档案管理系统最新版本/dygs/02sk01.src
+Repeat file group #586 file size: 22.63 KB md5:427f6a60cb85324b6219d964f5a923ce
+>> 1  d:/tcsoftV6/pjgl60/image/ytzdszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/ytzdszh.bmp
+Repeat file group #587 file size: 62.18 KB md5:fe5f7d5b6541ee0da74a9cf8c9eb065b
+>> 1  d:/tcsoftV6/gxcw60/dygs/A4-1/01A4.src
+>> 2  d:/tcsoftV6/gxcw60/dygs/A4-1/01A4.srd
+Repeat file group #588 file size: 71 B md5:c50af12ce3fdc52872171a735129ecbd
+>> 1  d:/tcsoftV6/yhdz50/file/pmkdm.txt
+>> 2  d:/tcsoftV6/yhdz60/file/pmkdm.txt
+>> 3  d:/tcsoftV6/yhdz60(最新库)/file/pmkdm.txt
+>> 4  d:/tcsoftV6/yhdz60lsm/file/pmkdm.txt
+Repeat file group #589 file size: 50.69 KB md5:556ae706d62e9ee2509319ffa660df31
+>> 1  d:/tcsoftV6/grsr60/pbjvm90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbjvm90.dll
+Repeat file group #590 file size: 337.92 KB md5:951eb0ea4060beb116e69c5dddbf1f03
+>> 1  d:/tcsoftV6/grsr60/getfontcolor.dll
+>> 2  d:/tcsoftV6/gzgl60/getfontcolor.dll
+>> 3  d:/tcsoftV6/pjgl60/getfontcolor.dll
+>> 4  d:/tcsoftV6/yhpj60/getfontcolor.dll
+>> 5  d:/tcsoftV6/yxhl60/getfontcolor.dll
+>> 6  d:/tcsoftV6/档案管理系统最新版本/getfontcolor.dll
+Repeat file group #591 file size: 1.26 KB md5:fe82d1f9d1f9e805876b761219ee6754
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/printerH.bmp
+>> 2  d:/tcsoftV6/pjgl60/printerH.bmp
+Repeat file group #592 file size: 164.11 KB md5:a19e02fa0a7769d6cc0148aa44f1e189
+>> 1  d:/tcsoftV6/pjgl60/OLEPRO32.DLL
+>> 2  d:/tcsoftV6/yhpj60/OLEPRO32.DLL
+>> 3  d:/tcsoftV6/档案管理系统最新版本/olepro32.dll
+Repeat file group #593 file size: 348.16 KB md5:86f1895ae8c5e8b17d99ece768a70732
+>> 1  d:/tcsoftV6/grsr60/msvcr71.dll
+>> 2  d:/tcsoftV6/gzgl60/msvcr71.dll
+>> 3  d:/tcsoftV6/pjgl60/msvcr71.dll
+>> 4  d:/tcsoftV6/高校综合查询6.0客户端/msvcr71.dll
+Repeat file group #594 file size: 417 B md5:7b9c8ef43cd1fe70d5e53976ea845639
+>> 1  d:/tcsoftV6/pjgl60/tc.ini
+>> 2  d:/tcsoftV6/yhpj60/Tc.ini.bak
+Repeat file group #595 file size: 65.02 KB md5:f1dffd70f5e0d549793ce84ed84b10f4
+>> 1  d:/tcsoftV6/yhdz50/wy_dog.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_dog.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_dog.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_dog.pbd
+Repeat file group #596 file size: 122.88 KB md5:a616071fcb0603de31fae4edbed8202f
+>> 1  d:/tcsoftV6/grsr60/ExPat.dll
+>> 2  d:/tcsoftV6/gzgl60/ExPat.dll
+>> 3  d:/tcsoftV6/pjgl60/ExPat.dll
+>> 4  d:/tcsoftV6/yhpj60/ExPat.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/ExPat.dll
+Repeat file group #597 file size: 3.36 MB md5:0a73ef365b152536b6ce147810c2d03b
+>> 1  d:/tcsoftV6/grsr60/TC_xlstool.dll
+>> 2  d:/tcsoftV6/gxcw60/TC_xlstool.dll
+>> 3  d:/tcsoftV6/gzgl60/TC_xlstool.dll
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/TC_xlstool.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/TC_xlstool.dll
+Repeat file group #598 file size: 22.63 KB md5:7b442010d7eed312533baa1bb3d3594a
+>> 1  d:/tcsoftV6/pjgl60/image/tuic.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/tc.bmp
+Repeat file group #599 file size: 192.51 KB md5:05f3f8bcce9d7dbf78ab00b414d88f62
+>> 1  d:/tcsoftV6/yhdz50/yhdz_dba.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhdz_dba.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhdz_dba.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhdz_dba.pbd
+Repeat file group #600 file size: 22.63 KB md5:ec02fc7e7b1f96c906ab31aaf6549ad8
+>> 1  d:/tcsoftV6/pjgl60/image/glzwpzxx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/glzwpzxx.bmp
+Repeat file group #601 file size: 114.18 KB md5:6e6bbd3e755971771eb56954a389e84f
+>> 1  d:/tcsoftV6/gxcw60/PZSM/DirectShow.NET.pdb
+>> 2  d:/tcsoftV6/档案管理系统最新版本/PZSM/DirectShow.NET.pdb
+Repeat file group #602 file size: 50.69 KB md5:69c1f14897842ea3ac035e66f034e216
+>> 1  d:/tcsoftV6/grsr60/pbweb90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbweb90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbweb90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbweb90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbweb90.dll
+Repeat file group #603 file size: 571.90 KB md5:d1c33eee63dcb901003da5bae2e47502
+>> 1  d:/tcsoftV6/yhdz50/yhzh_main.pbd
+>> 2  d:/tcsoftV6/yhdz60/yhzh_main.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/yhzh_main.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/yhzh_main.pbd
+Repeat file group #604 file size: 615 B md5:e4c0dbd88865c8d4d47fd92bf011c6b8
+>> 1  d:/tcsoftV6/高校综合查询6.0客户端/tc - 副本 (2).ini
+>> 2  d:/tcsoftV6/高校综合查询6.0客户端/tc.ini
+Repeat file group #605 file size: 22.63 KB md5:8444ca6dacc6b054b8353d04d74b6b7d
+>> 1  d:/tcsoftV6/pjgl60/image/pjlycx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/票据查询/pjlycx.bmp
+Repeat file group #606 file size: 1.93 MB md5:b848fae7311b8aeab0ef780e3dbe6fb6
+>> 1  d:/tcsoftV6/档案管理系统最新版本/Base64Encode.dll
+>> 2  d:/tcsoftV6/档案管理系统最新版本/test/Base64Encode.dll
+Repeat file group #607 file size: 63.91 KB md5:3a3aaefa5fae6c8ebea350e81347c09d
+>> 1  d:/tcsoftV6/pjgl60/bg.jpg
+>> 2  d:/tcsoftV6/pjgl60/image/bg.jpg
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/bg.jpg
+Repeat file group #608 file size: 22.63 KB md5:3051a7cda4bf380d7d6e058b9603a34c
+>> 1  d:/tcsoftV6/pjgl60/image/qxglh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/系统管理/qxglh.bmp
+Repeat file group #609 file size: 322.65 KB md5:d513639df46cd7bcfcc411a54c363b8e
+>> 1  d:/tcsoftV6/grsr60/pbcgl90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbcgl90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbcgl90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbcgl90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbcgl90.dll
+Repeat file group #610 file size: 149.50 KB md5:1769f74ba1c40fcebf559e4da03b7f7a
+>> 1  d:/tcsoftV6/grsr60/pbepg90.DLL
+>> 2  d:/tcsoftV6/gzgl60/pbepg90.DLL
+>> 3  d:/tcsoftV6/pjgl60/pbepg90.DLL
+>> 4  d:/tcsoftV6/yhpj60/pbepg90.DLL
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbepg90.DLL
+Repeat file group #611 file size: 249.86 KB md5:b26cf08f15a0335fe59873572b5a9917
+>> 1  d:/tcsoftV6/gxcw60/EasySoap.dll
+>> 2  d:/tcsoftV6/yhdz50/EasySoap.dll
+>> 3  d:/tcsoftV6/yhdz60/EasySoap.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/EasySoap.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/EasySoap.dll
+>> 6  d:/tcsoftV6/凭证联查SQL6.0/EasySoap.dll
+Repeat file group #612 file size: 118.27 KB md5:21c67035ed87f775f1d6874ddf489e60
+>> 1  d:/tcsoftV6/grsr60/PbSpPrxy90.dll
+>> 2  d:/tcsoftV6/gzgl60/PbSpPrxy90.dll
+>> 3  d:/tcsoftV6/pjgl60/PbSpPrxy90.dll
+>> 4  d:/tcsoftV6/yhpj60/PbSpPrxy90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/PbSpPrxy90.dll
+Repeat file group #613 file size: 225.28 KB md5:ea316c2d6aa8bbf25ecb5b3b76f815bb
+>> 1  d:/tcsoftV6/yhdz50/wy_tools1.pbd
+>> 2  d:/tcsoftV6/yhdz60/wy_tools1.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/wy_tools1.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/wy_tools1.pbd
+Repeat file group #614 file size: 45.06 KB md5:9bdbbde72e372bd88476ac00147651b5
+>> 1  d:/tcsoftV6/grsr60/pbwes90.dll
+>> 2  d:/tcsoftV6/gzgl60/pbwes90.dll
+>> 3  d:/tcsoftV6/pjgl60/pbwes90.dll
+>> 4  d:/tcsoftV6/yhpj60/pbwes90.dll
+>> 5  d:/tcsoftV6/档案管理系统最新版本/pbwes90.dll
+Repeat file group #615 file size: 1.26 KB md5:e37063bcd35b4ffe43361cea59bcfb0d
+>> 1  d:/tcsoftV6/pjgl60/image/新建文件夹/xyH.bmp
+>> 2  d:/tcsoftV6/pjgl60/xyH.bmp
+Repeat file group #616 file size: 14.82 KB md5:6c5b1c4a06c108efac0dece96d0fe7b6
+>> 1  d:/tcsoftV6/grsr60/dygs/03zzd.txt
+>> 2  d:/tcsoftV6/gxcw60/dygs/03zzd.txt
+>> 3  d:/tcsoftV6/gzgl60/dygs/03zzd.txt
+Repeat file group #617 file size: 28.94 KB md5:e13d20dd943f0ae138887cd7bbd58ad6
+>> 1  d:/tcsoftV6/grsr60/DBmsSOCn.dll
+>> 2  d:/tcsoftV6/gzgl60/DBmsSOCn.dll
+Repeat file group #618 file size: 122.88 KB md5:68035b6e4d261907f9cdd585201a3960
+>> 1  d:/tcsoftV6/grsr60/USB_DEV.dll
+>> 2  d:/tcsoftV6/gxcw60/USB_DEV.dll
+>> 3  d:/tcsoftV6/gzgl60/USB_DEV.dll
+>> 4  d:/tcsoftV6/yhdz50/USB_DEV.dll
+>> 5  d:/tcsoftV6/yhdz60/USB_DEV.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/USB_DEV.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/USB_DEV.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/USB_DEV.dll
+>> 9  d:/tcsoftV6/档案管理系统最新版本/USB_DEV.dll
+Repeat file group #619 file size: 246 B md5:71b1358d8995c57f7e05f70b2327a07f
+>> 1  d:/tcsoftV6/pjgl60/END1.BMP
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/END1.BMP
+>> 3  d:/tcsoftV6/yhpj60/end1.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/end1.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/end1.bmp
+Repeat file group #620 file size: 18.46 KB md5:1088d9ce4ecb9ffc8ea304570c8b8936
+>> 1  d:/tcsoftV6/grsr60/WTR50T.DLL
+>> 2  d:/tcsoftV6/gxcw60/WTR50T.DLL
+>> 3  d:/tcsoftV6/gzgl60/Wtr50t.dll
+>> 4  d:/tcsoftV6/yhdz50/Wtr50t.dll
+>> 5  d:/tcsoftV6/yhdz60/Wtr50t.dll
+>> 6  d:/tcsoftV6/yhdz60(最新库)/Wtr50t.dll
+>> 7  d:/tcsoftV6/yhdz60lsm/Wtr50t.dll
+>> 8  d:/tcsoftV6/凭证联查SQL6.0/WTR50T.DLL
+>> 9  d:/tcsoftV6/档案管理系统最新版本/WTR50T.DLL
+Repeat file group #621 file size: 507.39 KB md5:839b4f9a6ecfe8e828b3ef04b896da1d
+>> 1  d:/tcsoftV6/yhdz50/tc_xlstool.pbd
+>> 2  d:/tcsoftV6/yhdz60/tc_xlstool.pbd
+>> 3  d:/tcsoftV6/yhdz60(最新库)/tc_xlstool.pbd
+>> 4  d:/tcsoftV6/yhdz60lsm/tc_xlstool.pbd
+Repeat file group #622 file size: 22.63 KB md5:0423e5e1d5a17bf9baf24f38e29240da
+>> 1  d:/tcsoftV6/pjgl60/image/kceszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/kceszh.bmp
+Repeat file group #623 file size: 35.33 KB md5:1f003b462ddcf9937c698010b3144687
+>> 1  d:/tcsoftV6/grsr60/libjsybheap.dll
+>> 2  d:/tcsoftV6/gxcw60/libjsybheap.dll
+>> 3  d:/tcsoftV6/gzgl60/libjsybheap.dll
+>> 4  d:/tcsoftV6/pjgl60/libjsybheap.dll
+>> 5  d:/tcsoftV6/yhdz50/libjsybheap.dll
+>> 6  d:/tcsoftV6/yhdz60/libjsybheap.dll
+>> 7  d:/tcsoftV6/yhdz60(最新库)/libjsybheap.dll
+>> 8  d:/tcsoftV6/yhdz60lsm/libjsybheap.dll
+>> 9  d:/tcsoftV6/yhpj60/libjsybheap.dll
+>>10  d:/tcsoftV6/凭证联查SQL6.0/libjsybheap.dll
+>>11  d:/tcsoftV6/档案管理系统最新版本/libjsybheap.dll
+Repeat file group #624 file size: 28.94 KB md5:7bcea3d6eab6bb77818fe3fe8d862100
+>> 1  d:/tcsoftV6/pjgl60/DBMSSOCN.DLL
+>> 2  d:/tcsoftV6/yhpj60/DBmsSOCn.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/DBmsSOCn.dll
+Repeat file group #625 file size: 11.78 KB md5:324347e45e96849d2a3342d76f2e6b34
+>> 1  d:/tcsoftV6/gxcw60/JPEGToCEBX.dll
+>> 2  d:/tcsoftV6/gxcw60/PZSM/ImageProcessDLL/JPEGToCEBX.dll
+>> 3  d:/tcsoftV6/档案管理系统最新版本/JPEGToCEBX.dll
+Repeat file group #626 file size: 354.93 KB md5:b7ff8383cf29218487712ba388ab28d8
+>> 1  d:/tcsoftV6/gxcw60/msvcr71.dll
+>> 2  d:/tcsoftV6/yhdz50/msvcr71.dll
+>> 3  d:/tcsoftV6/yhdz60/msvcr71.dll
+>> 4  d:/tcsoftV6/yhdz60(最新库)/msvcr71.dll
+>> 5  d:/tcsoftV6/yhdz60lsm/msvcr71.dll
+>> 6  d:/tcsoftV6/yhpj60/msvcr71.dll
+>> 7  d:/tcsoftV6/档案管理系统最新版本/msvcr71.dll
+Repeat file group #627 file size: 22.63 KB md5:4ed1808123850a6fcce5858b72779502
+>> 1  d:/tcsoftV6/pjgl60/image/ggkl.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/ggkl.bmp
+Repeat file group #628 file size: 9.73 KB md5:a6d8087081ef992ce242b94de3847df7
+>> 1  d:/tcsoftV6/pjgl60/image/pjcx - 副本.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/pjcx.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/新建文件夹/pjcx.bmp
+Repeat file group #629 file size: 22.63 KB md5:0dfba747bb83bb5927659f87add8d27d
+>> 1  d:/tcsoftV6/pjgl60/image/ytzdsz.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/基础信息设置/ytzdsz.bmp
+Repeat file group #630 file size: 72.74 KB md5:567963ef1c98c037439036a1e1e0847d
+>> 1  d:/tcsoftV6/gxcw60/dygs/01A4.src.带孔
+>> 2  d:/tcsoftV6/gxcw60/dygs/01A4.srd.带孔
+Repeat file group #631 file size: 22.63 KB md5:c12c2f2bf9b3851094412d6aa0a47765
+>> 1  d:/tcsoftV6/pjgl60/image/glxtszh.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/关联系统处理/glxtszh.bmp
+>> 3  d:/tcsoftV6/pjgl60/image/票据查询/glxtszh.bmp
+Repeat file group #632 file size: 22.63 KB md5:44f67d3b317720c51763d4964e14bf96
+>> 1  d:/tcsoftV6/pjgl60/image/tuich.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/用户登录/tuich.bmp
+Repeat file group #633 file size: 246 B md5:af65f58b9fa4e7c21d8f2185c46a478e
+>> 1  d:/tcsoftV6/pjgl60/END.BMP
+>> 2  d:/tcsoftV6/pjgl60/image/新建文件夹/END.BMP
+>> 3  d:/tcsoftV6/yhpj60/end.bmp
+>> 4  d:/tcsoftV6/凭证联查SQL6.0/end.bmp
+>> 5  d:/tcsoftV6/档案管理系统最新版本/end.bmp
+Repeat file group #634 file size: 22.63 KB md5:d91a9661a86a4f28261fc981aa4fe601
+>> 1  d:/tcsoftV6/pjgl60/image/pjhx.bmp
+>> 2  d:/tcsoftV6/pjgl60/image/日常业务/pjhx.bmp
+
+Total 4003 files with size 1.92 GB, include 1805 repeat files with size 699.45 MB, md5 checksum write to d:/tcsoftv6/filelist.txt
+Time taken: 1.4737836s
