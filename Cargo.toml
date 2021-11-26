@@ -1,6 +1,6 @@
 [package]
 name = "filer"
-version = "1.0.4"
+version = "1.0.5"
 authors = ["Xander Xiao <xander.xiao@gmail.com>"]
 edition = "2018"
 #resolver = "2"
@@ -13,24 +13,40 @@ tokio = { version = "1.14.0", features = [
     "rt-multi-thread",
     "macros",
     "fs",
+    "sync",
+    "net",
     "io-util",
     "time",
     "process",
 ] }
+#tokio-util = { version = "0.6.9",  default_features = false, features = ["io"] }
+#futures-util= "0.3.18"
+#futures= "0.3.18"
 anyhow = { version = "1.0.48" }
 serde = { version = "1.0.130", features = ["derive"] }
-serde_json = "1.0.71"
+serde_json = "1.0.72"
 clap = { version = "2.33.3" }
 byte-unit = "4.0.13"
 num_cpus = "1.13.0"
 
 chrono = { version = "0.4.19", features = ["serde"], optional = true }
 tracing = { version = "0.1.29", optional = true }
-tracing-subscriber = { version = "0.3.2", optional = true }
-blake3 = { version = "1.2.0", optional = true } 
+tracing-subscriber = { version = "0.3.2", features = [
+    "env-filter",
+], optional = true }
+blake3 = { version = "1.2.0", optional = true }
 #md5={version="0.7.0", optional = true}
 reqwest = { version = "0.11.6", optional = true }
-warp = { version = "0.3.1", features = ["tls", "compression"], optional = true }
+#warp = { version = "0.3.1", features = ["tls", "compression"], optional = true }
+axum = { version = "0.3.4", optional = true }
+axum-server = { version = "0.3.2", features = ["tls-rustls"], optional = true }
+tower = { version = "0.4.11", optional = true }
+tower-http = { path = "../tower-http/tower-http", version = "0.1.2", features = [
+    "fs",
+    "trace",
+    "set-header",
+], optional = true }
+
 
 #thiserror = "1.0.23"
 #uuid = { version = "0.8.2", features = ["serde", "v4"] }
@@ -38,8 +54,17 @@ warp = { version = "0.3.1", features = ["tls", "compression"], optional = true }
 #regex = "1.4.3"
 
 [features]
-default = ["xcopy","digest","download","server"]
+default = ["xcopy", "digest", "download", "server"]
 digest = ["blake3"]
 download = ["reqwest", "blake3"]
-server = ["warp", "blake3", "tracing-subscriber", "tracing", "chrono"]
+server = [
+    "axum",
+    "axum-server",
+    "tower",
+    "tower-http",
+    "blake3",
+    "tracing-subscriber",
+    "tracing",
+    "chrono",
+]
 xcopy = []

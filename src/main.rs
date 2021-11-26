@@ -8,27 +8,38 @@ mod base16;
 #[cfg(feature = "download")]
 mod download;
 #[cfg(feature = "server")]
-mod service;
+mod api;
+
+#[cfg(feature = "server")]
+mod static_files;
+
 #[cfg(any(feature = "server", feature = "download"))]
-mod util;
+mod addr;
 #[cfg(feature = "xcopy")]
 mod xcopy;
 #[cfg(any(feature = "server", feature = "download"))]
 use std::sync::Arc;
+#[cfg(any(feature = "server", feature = "download"))]
+use axum::{Router};
+
+
 
 use anyhow::Result;
 use clap::{App, Arg, ArgMatches};
 use context::AppContext;
 use json_helper::JsonHelper;
 use tokio::time::Instant;
+use serde_json::Value;
 
 #[cfg(feature = "digest")]
 use fileutil::refresh_dir_files_digest;
 
-const VERSION: &str = "1.0.4";
+const VERSION: &str = "1.0.5";
 
 #[tokio::main]
 async fn main() -> Result<()> {
+    tracing_subscriber::fmt::init();
+
     let args = args();
     let context = if let Some(config_file) = args.value_of("config") {
         AppContext::from(config_file.into())
@@ -62,7 +73,7 @@ async fn main() -> Result<()> {
     if args.is_present("server") {
         println!("");
         #[cfg(feature = "server")]
-        start_server(&context).await;
+        server(&context).await;
     } else if args.is_present("download") || args.is_present("update") {
         let catalog = args.value_of("catalog").unwrap_or("tcsoftV6");
         #[cfg(feature = "download")]
@@ -86,63 +97,54 @@ async fn main() -> Result<()> {
 }
 
 #[cfg(feature = "server")]
-async fn start_server(context: &Arc<AppContext>) {
-    tracing_subscriber::fmt::init();
+async fn server(context: &Arc<AppContext>) {
+    let server_config = context.config["server"].clone();
+
+    let static_path = server_config["static_path"].string("public");
+    let cache_age_in_minute: i32 = server_config["static_cache_age_in_minute"].i64(30) as i32;
+
     let ctx = context.clone();
-    let http = tokio::spawn(async { server(ctx, false).await });
-    let ctx = context.clone();
-    let https = tokio::spawn(async { server(ctx, true).await });
-    https.await.unwrap();
-    http.await.unwrap();
+    let app = Router::new()
+        .nest("/api", api::api(ctx))
+        .fallback(static_files::make_service(static_path, cache_age_in_minute));
+
+    let http_server = tokio::spawn(start_server(server_config.clone(), false, app.clone()));
+    let https_server = tokio::spawn(start_server(server_config, true, app));
+    let (_, _) = tokio::join!(http_server, https_server);
+
 }
+
 #[cfg(feature = "server")]
-async fn server(context: Arc<AppContext>, is_https: bool) {
-    use chrono::prelude::*;
-    use warp::Filter;
-    let config = &context.config;
+async fn start_server(config: Value, is_https: bool, app: Router) {
+    use axum_server::tls_rustls::RustlsConfig;
+    use chrono::Local;
+    use std::net::SocketAddr;
 
-    let server_config = &config["server"];
-    let server_active = server_config[if is_https {
-        "https_active"
-    } else {
-        "http_active"
-    }]
-    .bool(false);
-    let now = Local::now().to_string();
-    let now = &now[0..19];
-    if server_active {
-        let ctx = context.clone();
-        let api = warp::path("api").and(service::api(ctx));
-        let api = api.or(warp::fs::dir(
-            server_config["static_path"].string("wwwroot"),
-        ));
-
-        let addr = util::Addr::new(server_config, is_https);
+    let server_name = config["server_name"].string("W3");
+    let protocol = if is_https { "HTTPS" } else { "HTTP" };
+    let config_addr = addr::Addr::new(&config, is_https);
+    let (is_active, addr) = config_addr.get();
+    if is_active {
+        let now = &Local::now().to_string()[0..19];
         println!(
-            "{} HTTP{} Server V{} is starting at {}, {}",
-            server_config["server_name"].string("W3"),
-            if is_https { "S" } else { "" },
-            VERSION,
-            now,
-            addr
+            "{} {} server version {} started at {} listening on {}",
+            server_name, protocol, VERSION, now, &config_addr
         );
-        let (https_active, addr) = addr.parse();
-        let server = warp::serve(api);
-        if https_active {
-            let server = server
-                .tls()
-                .cert_path(server_config["https_cert"].str("cert.pem"))
-                .key_path(server_config["https_key"].str("key.pem"));
-            server.run(addr).await;
+        let app = app.into_make_service_with_connect_info::<SocketAddr, _>();
+        let server = if is_https {
+            let tls_config = RustlsConfig::from_pem_file("server.cer", "server.key")
+                .await
+                .unwrap();
+            axum_server::bind_rustls(addr, tls_config).serve(app).await
         } else {
-            server.run(addr).await;
+            axum_server::bind(addr).serve(app).await
         };
+        server.unwrap();
+    } else {
         println!(
-            "{} HTTP{} Server is closed at {}",
-            server_config["server_name"].string("W3"),
-            if is_https { "S" } else { "" },
-            now
-        )
+            "{} {} server version {} is not active !",
+            server_name, protocol, VERSION
+        );
     }
 }
 

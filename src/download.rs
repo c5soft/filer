@@ -25,9 +25,10 @@ pub fn base_url(config: &Value) -> String {
     )
 }
 pub async fn request(base_url: &str, params: &Value) -> Result<Response> {
+    //use tracing::debug;
     let params = base16_encode(&format!("{}", params))?;
     let url = String::from(base_url) + &params;
-    //println!("{}", url);
+    //debug!("get {}", url);
     reqwest::get(url)
         .await
         .map_err(|e| anyhow!("download::request error {:?}", e))
@@ -73,7 +74,7 @@ pub async fn get_part_of_file(
         let msg: String = String::from_utf8(msg.to_vec())?;
         Err(anyhow!("download files fail: {}", msg))
     } else {
-        Err(anyhow!("download files fail: unkown reason"))
+        Err(anyhow!("download files fail: unkown reason {:?}",response.status()))
     }
 }
 //return (digest_calc,file_size_calc,parts,part_size,from_local)

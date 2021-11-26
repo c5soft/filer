@@ -4,7 +4,7 @@
         "server_name": "Filer",
         "http_active": true,
         "http_port": 9191,
-        "https_active": true,
+        "https_active": false,
         "https_port": 443,
         "https_cert": "server.cer",
         "https_key": "server.key"
