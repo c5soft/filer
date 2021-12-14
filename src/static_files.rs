@@ -1,32 +1,26 @@
 use axum::{
-    body::{Body, BoxBody},
-    error_handling::HandleErrorExt,
+    body::Body,
     http::{
         header::{self, HeaderValue},
-        Request, Response, StatusCode,
+        Request, StatusCode,
     },
-    routing::service_method_routing,
+    response::Response,
+    routing::get_service,
 };
-use std::convert::Infallible;
-use tower::{util::BoxCloneService,  ServiceExt};
+use std::{convert::Infallible, path::Path};
+use tower::{util::BoxCloneService, ServiceExt};
 use tower_http::{
     services::ServeDir,
     set_header::{SetRequestHeader, SetResponseHeader},
 };
 
-pub(crate) fn make_service(
-    static_path: String,
+pub(crate) fn make_service<P: AsRef<Path>>(
+    static_path: P,
     cache_age_in_minute: i32,
-) -> BoxCloneService<Request<Body>, Response<BoxBody>, Infallible> {
+) -> BoxCloneService<Request<Body>, Response, Infallible> {
     let inner = ServeDir::new(static_path)
         .precompressed_br()
-        .precompressed_gzip()
-        .handle_error(|e: std::io::Error| {
-            Ok::<_, std::convert::Infallible>((
-                StatusCode::INTERNAL_SERVER_ERROR,
-                format!("Unhandled internal error: {}", e),
-            ))
-        });
+        .precompressed_gzip();
     //Feed br first for Chrome
     let inner =
         SetRequestHeader::overriding(inner, header::ACCEPT_ENCODING, |req: &Request<Body>| {
@@ -44,5 +38,12 @@ pub(crate) fn make_service(
         header::CACHE_CONTROL,
         HeaderValue::from_str(&format!("max-age={}", cache_age_in_minute * 60)).unwrap(),
     );
-    service_method_routing::get(inner).boxed_clone()
+    get_service(inner)
+        .handle_error(|e: std::io::Error| async move {
+            (
+                StatusCode::INTERNAL_SERVER_ERROR,
+                format!("Unhandled internal error: {}", e),
+            )
+        })
+        .boxed_clone()
 }

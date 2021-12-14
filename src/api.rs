@@ -29,6 +29,18 @@ async fn download_file(
 ) -> (StatusCode, HeaderMap, Vec<u8>) {
     use std::path::Path;
     use tracing::info;
+    fn response_error(msg: &str) -> (StatusCode, HeaderMap, Vec<u8>) {
+        let mut headers = HeaderMap::new();
+        headers.insert(
+            HeaderName::from_static("x-body-is-error"),
+            HeaderValue::from_static("yes"),
+        ); //.header("x-body-is-error", "yes")
+        headers.insert(
+            HeaderName::from_static("content-type"),
+            HeaderValue::from_static("text/plain;charset=utf-8"),
+        ); //.header("content-type", "text/plain;charset=utf-8")
+        (StatusCode::NOT_ACCEPTABLE, headers, Vec::<u8>::from(msg))
+    }
     //debug!("params={} from {}", params, addr);
     if let Ok(params) = base16_decode(&params) {
         let config = &context.config.clone();
@@ -68,25 +80,13 @@ async fn download_file(
                 ); //.header("content-type", "application/octet-stream")
                 (StatusCode::OK, headers, bytes)
             }
-            Err(e) => bad_response(&format!("Error：{:?}", e)),
+            Err(e) => response_error(&format!("Error：{:?}", e)),
         }
     } else {
-        bad_response(&format!(
+        response_error(&format!(
             "Error：download file fail, expect base16 encoded string as param,for example: {}, but get param: {} ",
             base16_encode(r#"{"catalog":"tcsoftV6","file":"filelist.txt"}"#).unwrap(),
             params
         ))
     }
-}
-fn bad_response(msg: &str) -> (StatusCode, HeaderMap, Vec<u8>) {
-    let mut headers = HeaderMap::new();
-    headers.insert(
-        HeaderName::from_static("x-body-is-error"),
-        HeaderValue::from_static("yes"),
-    ); //.header("x-body-is-error", "yes")
-    headers.insert(
-        HeaderName::from_static("content-type"),
-        HeaderValue::from_static("text/plain;charset=utf-8"),
-    ); //.header("content-type", "text/plain;charset=utf-8")
-    (StatusCode::NOT_ACCEPTABLE, headers, Vec::<u8>::from(msg))
 }
