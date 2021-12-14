@@ -2,7 +2,7 @@
 name = "filer"
 version = "1.0.5"
 authors = ["Xander Xiao <xander.xiao@gmail.com>"]
-edition = "2018"
+edition = "2021"
 #resolver = "2"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
