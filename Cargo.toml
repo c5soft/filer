@@ -1,6 +1,6 @@
 [package]
 name = "filer"
-version = "1.0.5"
+version = "1.0.6"
 authors = ["Xander Xiao <xander.xiao@gmail.com>"]
 edition = "2021"
 #resolver = "2"
@@ -8,7 +8,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-tokio = { version = "1.14.0", features = [
+tokio = { version = "1.17.0", features = [
     "rt",
     "rt-multi-thread",
     "macros",
@@ -22,26 +22,27 @@ tokio = { version = "1.14.0", features = [
 #tokio-util = { version = "0.6.9",  default_features = false, features = ["io"] }
 #futures-util= "0.3.18"
 #futures= "0.3.18"
-anyhow = { version = "1.0.51" }
-serde = { version = "1.0.131", features = ["derive"] }
-serde_json = "1.0.73"
-clap = { version = "2.34.0" }
-byte-unit = "4.0.13"
-num_cpus = "1.13.0"
+anyhow = { version = "1.0.56" }
+serde = { version = "1.0.136", features = ["derive"] }
+serde_json = "1.0.79"
+clap = { version = "3.1.8" }
+byte-unit = "4.0.14"
+num_cpus = "1.13.1"
+futures-util = "0.3.21"
 
 chrono = { version = "0.4.19", features = ["serde"], optional = true }
-tracing = { version = "0.1.29", optional = true }
-tracing-subscriber = { version = "0.3.3", features = [
+tracing = { version = "0.1.33", optional = true }
+tracing-subscriber = { version = "0.3.11", features = [
     "env-filter",
 ], optional = true }
-blake3 = { version = "1.2.0", optional = true }
+blake3 = { version = "1.3.1", optional = true }
 #md5={version="0.7.0", optional = true}
-reqwest = { version = "0.11.7", optional = true }
+reqwest = { version = "0.11.10", optional = true }
 #warp = { version = "0.3.1", features = ["tls", "compression"], optional = true }
-axum = { version = "0.4.2", optional = true }
+axum = { version = "0.5.1", optional = true }
 axum-server = { version = "0.3.3", features = ["tls-rustls"], optional = true }
-tower = { version = "0.4.11", optional = true }
-tower-http = { version = "0.2", features = [
+tower = { version = "0.4.12", optional = true }
+tower-http = { version = "0.2.5", features = [
     "fs",
     "trace",
     "set-header",

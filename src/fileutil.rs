@@ -6,6 +6,7 @@ use std::io::SeekFrom;
 use tokio::fs::{self, File};
 use tokio::io::{AsyncReadExt, AsyncSeekExt, AsyncWriteExt};
 use tokio::task;
+use futures_util::{future::BoxFuture, FutureExt};
 
 pub type PartData = (u64, u64, Vec<u8>);
 pub const EOL: &str = "\r\n";
@@ -45,6 +46,27 @@ pub async fn get_part_of_file(file_name: &str, skip: u64, take: u64) -> Result<P
     }
 }
 
+//Async recursive version  
+pub fn get_dir_file_names(path: &str) -> BoxFuture<Result<Vec<String>>> {
+    async move {
+        let mut results: Vec<String> = Vec::new();
+        let mut entries = tokio::fs::read_dir(&path).await?;
+        while let Some(entry) = entries.next_entry().await? {
+            let meta = entry.metadata().await?;
+            let file_name = entry.file_name();
+            let file_name: String = file_name.to_str().unwrap().into();
+            let full_name = String::from(path) + "/" + &file_name;
+            if meta.is_dir() {
+                let mut files = get_dir_file_names(&full_name).await?;
+                results.append(&mut files);
+            } else {
+                results.push(full_name);
+            }
+        }
+        Ok(results)
+    }.boxed()
+}
+/*
 pub fn get_dir_file_names(path: &str) -> Result<Vec<String>> {
     let mut results: Vec<String> = Vec::new();
     let entries = std::fs::read_dir(&path)?;
@@ -63,6 +85,7 @@ pub fn get_dir_file_names(path: &str) -> Result<Vec<String>> {
     }
     Ok(results)
 }
+*/
 
 #[cfg(feature = "digest")]
 //return [(file_name,size,digest)...]
@@ -73,7 +96,7 @@ pub async fn get_dir_file_size_and_digest(
     show_progress: bool,
 ) -> Result<Vec<(String, u64, String)>> {
     let path = String::from(path);
-    let files = task::spawn_blocking(move || get_dir_file_names(&path)).await??;
+    let files = get_dir_file_names(&path).await?;
     let file_count = files.len();
     let mut results: Vec<(String, u64, String)> = Vec::with_capacity(file_count);
     let mut calc_error_count: usize = 0;
@@ -85,7 +108,7 @@ pub async fn get_dir_file_size_and_digest(
         let mut tasks: Vec<task::JoinHandle<Result<(String, u64, String)>>> =
             Vec::with_capacity(file_count);
         while task_count < max_tasks && i < file_count {
-            let file = files.get(i).ok_or(anyhow!("digest files.get() error"))?;
+            let file = files.get(i).ok_or_else(||anyhow!("digest files.get() error"))?;
             let file_name = file.clone();
             let task = task::spawn(async move {
                 get_file_size_and_digest(&file_name, part_size, max_tasks)
@@ -138,7 +161,7 @@ pub fn calc_parts(file_size: u64, part_size: u64, max_split_parts: u64) -> (u64,
 //return [(file_name,size)...]
 pub async fn get_dir_file_size(path: &str) -> Result<Vec<(String, u64)>> {
     let path = String::from(path);
-    let files = task::spawn_blocking(move || get_dir_file_names(&path)).await??;
+    let files = get_dir_file_names(&path).await?;
     let file_count = files.len();
     let mut results: Vec<(String, u64)> = Vec::with_capacity(file_count);
     let mut tasks: Vec<task::JoinHandle<Result<(String, u64)>>> = Vec::with_capacity(file_count);
@@ -289,7 +312,7 @@ pub async fn get_file(
         }
     }
 
-    let target_file_size = get_file_size(&target_file_name).await?;
+    let target_file_size = get_file_size(target_file_name).await?;
 
     assert_eq!(target_file_size, source_file_size);
 
@@ -346,7 +369,7 @@ pub async fn get_file_and_digest(
     let digest = digest.finalize();
     let digest = format!("{}", digest.to_hex());
 
-    let target_file_size = get_file_size(&target_file_name).await?;
+    let target_file_size = get_file_size(target_file_name).await?;
 
     assert_eq!(target_file_size, source_file_size);
 
@@ -366,7 +389,7 @@ pub async fn refresh_dir_files_digest(
     println!("Calc digest for files in {}...", path);
     //(file_name,file_size,digest)
     let results = get_dir_file_size_and_digest(path, part_size, max_tasks, true).await?;
-    let list_file_name = String::from(path.to_lowercase()) + "/" + list_file_name;
+    let list_file_name = path.to_lowercase() + "/" + list_file_name;
     let file_list_iter = results
         .iter()
         .filter(|x| x.0.to_lowercase() != list_file_name);
@@ -476,6 +499,6 @@ pub async fn kill_running_exe(image_name: &str) -> Result<(i32, String)> {
     let status = child.wait().await?;
     let exit_code = status
         .code()
-        .ok_or(anyhow!("kill_running_exe get exit_code fail"))?;
+        .ok_or_else(||anyhow!("kill_running_exe get exit_code fail"))?;
     Ok((exit_code, String::from(image_name)))
 }

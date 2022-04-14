@@ -11,7 +11,7 @@ use axum::{
         StatusCode,
     },
     routing::get,
-    AddExtensionLayer, Router,
+    Router,
 };
 use serde_json::Value;
 use std::net::SocketAddr;
@@ -20,7 +20,7 @@ use std::sync::Arc;
 pub(crate) fn api(context: Arc<AppContext>) -> Router {
     Router::new()
         .route("/download/:download", get(download_file))
-        .layer(AddExtensionLayer::new(context))
+        .layer(Extension(context))
 }
 async fn download_file(
     Extension(context): Extension<Arc<AppContext>>,

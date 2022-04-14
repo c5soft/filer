@@ -21,7 +21,7 @@ pub fn base16_decode(base16: &str) -> Result<String> {
     let mut bytes: Vec<u8> = Vec::with_capacity(bytes_count);
     for i in 0usize..bytes_count {
         let i = i * 2;
-        let hex = base16.get(i..i + 2).ok_or(anyhow!("base16_decode error:get hex fail"))?;
+        let hex = base16.get(i..i + 2).ok_or_else(||anyhow!("base16_decode error:get hex fail"))?;
         let byte = u8::from_str_radix(hex, 16)?;
         bytes.push(!byte);
     }

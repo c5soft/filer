@@ -12,13 +12,15 @@ use tokio::fs::{self, DirBuilder, File};
 use tokio::io::{AsyncSeekExt, AsyncWriteExt};
 use tokio::task;
 
+type XCopyReturn=(String, u64, u64, u64);
+
 async fn xcopy_file(
     source_path: &str,
     target_path: &str,
     file_name: &str,
     file_size: u64,
     part_size: u64,
-) -> Result<(String, u64, u64, u64)> {
+) -> Result<XCopyReturn> {
     let source_file_name = source_path.to_string() + "/" + file_name;
     let target_file_name = if file_name.to_lowercase().ends_with("filer.exe") {
         String::from(target_path) + "/" + file_name + ".new"
@@ -29,7 +31,7 @@ async fn xcopy_file(
     let (parts, part_size) = calc_parts(file_size, part_size, MAX_SPLIT_PARTS);
     let target_file_folder = Path::new(&target_file_name)
         .parent()
-        .ok_or(anyhow!("get target file folder fail"))?;
+        .ok_or_else(||anyhow!("get target file folder fail"))?;
     DirBuilder::new()
         .recursive(true)
         .create(target_file_folder)
@@ -81,10 +83,10 @@ async fn xcopy_file(
 
 pub async fn xcopy_files(config: &Value, source_path: &str, target_path: &str,max_tasks:u64) -> Result<()> {
     fn fine_path(path: &str) -> Result<String> {
-        let path = path.to_string().replace("\\", "/");
-        let path: String = if path.ends_with("/") {
+        let path = path.to_string().replace('\\', "/");
+        let path: String = if path.ends_with('/') {
             path.get(0..path.len() - 1)
-                .ok_or(anyhow!("fine_path:strip / of path fail"))?
+                .ok_or_else(||anyhow!("fine_path:strip / of path fail"))?
                 .to_string()
         } else {
             path
@@ -113,10 +115,10 @@ pub async fn xcopy_files(config: &Value, source_path: &str, target_path: &str,ma
         let file_size = get_file_size(source_path).await?;
         let source_path = Path::new(source_path)
             .parent()
-            .ok_or(anyhow!("get parent of source_path fail"))?;
+            .ok_or_else(||anyhow!("get parent of source_path fail"))?;
         let source_path = source_path
             .to_str()
-            .ok_or(anyhow!("parent of source_path to_str fail"))?;
+            .ok_or_else(||anyhow!("parent of source_path to_str fail"))?;
         let source_path = fine_path(source_path)?;
         (vec![(file_name, file_size)], source_path, true)
     };
@@ -135,7 +137,7 @@ pub async fn xcopy_files(config: &Value, source_path: &str, target_path: &str,ma
         let exe_list = source_file_list
             .iter()
             .map(|x| Path::new(&x.0))
-            .filter(|x| x.extension().unwrap_or(OsStr::new("")) == "exe")
+            .filter(|x| x.extension().unwrap_or_else(||OsStr::new("")) == "exe")
             .map(|x| x.file_name().unwrap().to_str().unwrap())
             .filter(|x| x.to_lowercase() != "filer.exe")
             .collect::<HashSet<&str>>();
@@ -163,12 +165,12 @@ pub async fn xcopy_files(config: &Value, source_path: &str, target_path: &str,ma
     }
     while i < file_count {
         let mut task_count = 0u64;
-        let mut results: Vec<task::JoinHandle<Result<(String, u64, u64, u64)>>> =
+        let mut results: Vec<task::JoinHandle<Result<XCopyReturn>>> =
             Vec::with_capacity(max_tasks as usize);
         while task_count < max_tasks && i < file_count {
             let (file_name, file_size) = source_file_list
                 .get(i)
-                .ok_or(anyhow!("xcopy source_file_list.get() error"))?;
+                .ok_or_else(||anyhow!("xcopy source_file_list.get() error"))?;
             let file_size = *file_size;
             let (task_add, part_size) = calc_parts(file_size, part_size, MAX_SPLIT_PARTS);
             let file_name: String = file_name.into();

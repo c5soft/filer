@@ -25,7 +25,7 @@ use axum::{Router};
 
 
 use anyhow::Result;
-use clap::{App, Arg, ArgMatches};
+use clap::{Command, Arg, ArgMatches};
 use context::AppContext;
 use json_helper::JsonHelper;
 use tokio::time::Instant;
@@ -34,7 +34,7 @@ use serde_json::Value;
 #[cfg(feature = "digest")]
 use fileutil::refresh_dir_files_digest;
 
-const VERSION: &str = "1.0.5";
+const VERSION: &str =env!("CARGO_PKG_VERSION");
 
 #[tokio::main]
 async fn main() -> Result<()> {
@@ -71,7 +71,7 @@ async fn main() -> Result<()> {
         }
     }
     if args.is_present("server") {
-        println!("");
+        println!();
         #[cfg(feature = "server")]
         server(&context).await;
     } else if args.is_present("download") || args.is_present("update") {
@@ -84,7 +84,7 @@ async fn main() -> Result<()> {
             catalog,
         )
         .await?;
-        println!("");
+        println!();
     }
     let pcpus = num_cpus::get_physical() as u64;
     println!(
@@ -130,7 +130,7 @@ async fn start_server(config: Value, is_https: bool, app: Router) {
             "{} {} server version {} started at {} listening on {}",
             server_name, protocol, VERSION, now, &config_addr
         );
-        let app = app.into_make_service_with_connect_info::<SocketAddr, _>();
+        let app = app.into_make_service_with_connect_info::<SocketAddr>();
         let server = if is_https {
             let tls_config = RustlsConfig::from_pem_file("server.cer", "server.key")
                 .await
@@ -148,17 +148,17 @@ async fn start_server(config: Value, is_https: bool, app: Router) {
     }
 }
 
-fn args<'a>() -> ArgMatches<'a> {
-    let app = App::new("Filer 文件传输系统")
+fn args() -> ArgMatches {
+    let app = Command::new("Filer 文件传输系统")
         .version(VERSION)
         .author("xander.xiao@gmail.com")
         .about("极速文件分发、拷贝工具")
-        .version_message("显示版本号")
-        .help_message("显示帮助信息")
+        .mut_arg("version", |a| a.help(Some("显示版本号")))
+        .mut_arg("help", |a| a.help(Some("显示帮助信息")))
         .arg(
-            Arg::with_name("config")
+            Arg::new("config")
                 .help("指定配置文件")
-                .short("C")
+                .short('C')
                 .long("config")
                 .value_name("config")
                 .takes_value(true)
@@ -167,9 +167,9 @@ fn args<'a>() -> ArgMatches<'a> {
 
     #[cfg(any(feature = "server", feature = "calc_digest", feature = "download"))]
     let app = app.arg(
-        Arg::with_name("catalog")
+        Arg::new("catalog")
             .help("指定分发目录")
-            .short("c")
+            .short('c')
             .long("catalog")
             .value_name("catalog")
             .takes_value(true)
@@ -178,44 +178,44 @@ fn args<'a>() -> ArgMatches<'a> {
 
     #[cfg(feature = "digest")]
     let app = app.arg(
-        Arg::with_name("digest")
+        Arg::new("digest")
             .help("刷新文件列表，计算文件的哈希值")
-            .short("i")
+            .short('i')
             .long("index"),
     );
 
     #[cfg(feature = "digest")]
     let app = app.arg(
-        Arg::with_name("repeat")
+        Arg::new("repeat")
             .help("刷新文件哈希值列表时，列出重复文件")
-            .short("r")
+            .short('r')
             .long("repeat"),
     );
 
     #[cfg(feature = "xcopy")]
     let app = app
         .arg(
-            Arg::with_name("xcopy")
+            Arg::new("xcopy")
                 .help("复制文件夹或文件")
-                .short("x")
+                .short('x')
                 .long("xcopy"),
         )
         .arg(
-            Arg::with_name("source_path")
+            Arg::new("source_path")
                 .help("Sets the XCopy source path or file")
                 .index(1),
         )
         .arg(
-            Arg::with_name("target_path")
+            Arg::new("target_path")
                 .help("Sets the XCopy target path")
                 .index(2),
         );
 
     #[cfg(feature = "server")]
     let app = app.arg(
-        Arg::with_name("server")
+        Arg::new("server")
             .help("作为服务器启动文件服务")
-            .short("s")
+            .short('s')
             .long("server")
             .conflicts_with("download")
             .conflicts_with("update"),
@@ -224,17 +224,17 @@ fn args<'a>() -> ArgMatches<'a> {
     #[cfg(feature = "download")]
     let app = app
         .arg(
-            Arg::with_name("download")
+            Arg::new("download")
                 .help("作为客户端下载所有文件")
-                .short("d")
+                .short('d')
                 .long("download")
                 .conflicts_with("server")
                 .conflicts_with("update"),
         )
         .arg(
-            Arg::with_name("update")
+            Arg::new("update")
                 .help("作为客户端下载更新文件")
-                .short("u")
+                .short('u')
                 .long("update")
                 .conflicts_with("server")
                 .conflicts_with("download"),

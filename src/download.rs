@@ -57,13 +57,15 @@ pub async fn get_part_of_file(
         let skip = if skip_val.is_none() {
             skip
         } else {
-            u64::from_str_radix(skip_val.unwrap().to_str()?, 10)?
+            //u64::from_str_radix(skip_val.unwrap().to_str()?, 10)?
+            (skip_val.unwrap().to_str()?).parse::<u64>()?
         };
         let take_val = headers.get("x-take");
         let take = if take_val.is_none() {
             take
         } else {
-            u64::from_str_radix(take_val.unwrap().to_str()?, 10)?
+            //u64::from_str_radix(take_val.unwrap().to_str()?, 10)?
+            (take_val.unwrap().to_str()?).parse::<u64>()?
         };
         let bytes = response.bytes().await?.to_vec();
         Ok((skip, take, bytes))
@@ -74,10 +76,16 @@ pub async fn get_part_of_file(
         let msg: String = String::from_utf8(msg.to_vec())?;
         Err(anyhow!("download files fail: {}", msg))
     } else {
-        Err(anyhow!("download files fail: unkown reason {:?}",response.status()))
+        Err(anyhow!(
+            "download files fail: unkown reason {:?}",
+            response.status()
+        ))
     }
 }
 //return (digest_calc,file_size_calc,parts,part_size,from_local)
+type DowloadFileReturn = (String, u64, u64, u64, bool);
+
+#[allow(clippy::too_many_arguments)]
 async fn download_file(
     base_url: &str,
     catalog: &str,
@@ -88,7 +96,7 @@ async fn download_file(
     digest: &str,
     source_file_name: &str,
     from_local: bool,
-) -> Result<(String, u64, u64, u64, bool)> {
+) -> Result<DowloadFileReturn> {
     let local_source_file_name = path.to_string() + "/" + source_file_name;
     let source_file_name = String::from(source_file_name);
     let target_file_name = if file_name.to_lowercase().ends_with("filer.exe") {
@@ -103,7 +111,7 @@ async fn download_file(
     // );
     let target_file_folder = Path::new(&target_file_name)
         .parent()
-        .ok_or(anyhow!("get target file folder fail"))?;
+        .ok_or_else(|| anyhow!("get target file folder fail"))?;
     DirBuilder::new()
         .recursive(true)
         .create(target_file_folder)
@@ -184,7 +192,7 @@ fn parse_file_list(str: &str) -> Vec<(&str, u64, &str)> {
             let mut parts: Vec<&str> = x.split(',').collect();
             let file_name = parts.pop().unwrap();
             let size = parts.pop().unwrap();
-            let size = u64::from_str_radix(&size, 10).unwrap();
+            let size = size.parse::<u64>().unwrap(); // u64::from_str_radix(&size, 10).unwrap();
             let digest = parts.pop().unwrap();
             (digest, size, file_name)
         })
@@ -215,7 +223,7 @@ pub async fn download_files(
     let max_tasks = client_config["max_tasks"].u64(max_tasks);
     let local_file_list = fs::read_to_string(String::from(path) + "/filelist.txt")
         .await
-        .unwrap_or("".to_string());
+        .unwrap_or_else(|_| "".to_owned());
     let local_file_list: Vec<(&str, u64, &str)> = parse_file_list(&local_file_list);
 
     //(file_name,(digest,file_size))
@@ -233,17 +241,15 @@ pub async fn download_files(
                 || file_name.to_lowercase().ends_with("filer.exe.new")
             {
                 false
+            } else if download_all {
+                true
             } else {
-                if download_all {
-                    true
-                } else {
-                    local_file_list
-                        .get(file_name)
-                        .map(|(local_digest, local_size)| {
-                            !(local_digest == digest && local_size == file_size)
-                        })
-                        .unwrap_or(true)
-                }
+                local_file_list
+                    .get(file_name)
+                    .map(|(local_digest, local_size)| {
+                        !(local_digest == digest && local_size == file_size)
+                    })
+                    .unwrap_or(true)
             }
         })
         .collect();
@@ -254,7 +260,7 @@ pub async fn download_files(
         let exe_list = remote_file_list
             .iter()
             .map(|x| Path::new(x.2))
-            .filter(|x| x.extension().unwrap_or(OsStr::new("")) == "exe")
+            .filter(|x| x.extension().unwrap_or_else(|| OsStr::new("")) == "exe")
             .map(|x| x.file_name().unwrap().to_str().unwrap())
             .filter(|x| x.to_lowercase() != "filer.exe")
             .collect::<HashSet<&str>>();
@@ -323,14 +329,12 @@ pub async fn download_files(
     println!("Download {} ...", catalog);
     while i < download_count {
         let mut task_count = 0u64;
-        let mut results: Vec<(
-            String,
-            task::JoinHandle<Result<(String, u64, u64, u64, bool)>>,
-        )> = Vec::with_capacity(max_tasks as usize);
+        let mut results: Vec<(String, task::JoinHandle<Result<DowloadFileReturn>>)> =
+            Vec::with_capacity(max_tasks as usize);
         while task_count < max_tasks && i < download_count {
             let (digest, file_size, file_name) = *(remote_file_list
                 .get(i)
-                .ok_or(anyhow!("remote_file_list.get() error"))?);
+                .ok_or_else(|| anyhow!("remote_file_list.get() error"))?);
             let (source_file_name, from_local) = get_source_file(file_name, digest);
             let base_url: String = base_url.clone();
             let catalog: String = catalog.into();
