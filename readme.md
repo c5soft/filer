@@ -11,7 +11,7 @@
 filer客户端与服务器端集成在一个可执行文件中。通过命令行参数与系统配置文件filer.json来工作。
 下面以如何将服务器端.\demo_sent文件夹下所有文件传送到客户端.\demo_recv为例来说明用法：
 将filer.exe放在当前文件夹下，在当前文件夹下建立public子文件夹，将index.html放在public下。
-在当前文件夹下建立两个子文件夹，demo_sent用于发送文件，demo_recv用于接收文件。
+在当前文件夹下建立两个子文件夹，demo_sent用于发送文件，demo_recv用于接收文件。在demo_sent中放上几个大文件。
 
 ### 启动服务端
 1. 修改filer.json，配置http与https有关参数，以及demo这个分支（catalog）中的内容:
