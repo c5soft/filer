@@ -119,7 +119,6 @@ async fn start_server(config: Value, is_https: bool, app: Router) {
     use axum_server::tls_rustls::RustlsConfig;
     use chrono::Local;
     use std::net::SocketAddr;
-
     let server_name = config["server_name"].string("W3");
     let protocol = if is_https { "HTTPS" } else { "HTTP" };
     let config_addr = addr::Addr::new(&config, is_https);

@@ -210,10 +210,12 @@ pub async fn download_files(
     use std::ffi::OsStr;
     let client_config = &config["client"];
     let kill_running = client_config["kill_running_exe"].bool(true);
+    let catalog = client_config["catalog"].string(catalog);
+    println!(">>catalog={catalog}");
     let base_url = base_url(client_config);
-    let catalog_config = &config[catalog];
+    let catalog_config = &config[&catalog];
     let part_size = catalog_config["part_size"].u64(1024 * 1024);
-    let (_, _, bytes) = get_full_of_file(&base_url, catalog, "filelist.txt").await?;
+    let (_, _, bytes) = get_full_of_file(&base_url, &catalog, "filelist.txt").await?;
     let remote_file_list_bytes = bytes.clone();
     let remote_file_list: String = String::from_utf8(bytes)?;
     let remote_file_list: Vec<(&str, u64, &str)> = parse_file_list(&remote_file_list);
@@ -337,7 +339,7 @@ pub async fn download_files(
                 .ok_or_else(|| anyhow!("remote_file_list.get() error"))?);
             let (source_file_name, from_local) = get_source_file(file_name, digest);
             let base_url: String = base_url.clone();
-            let catalog: String = catalog.into();
+            let catalog: String = catalog.clone();
             let path: String = path.into();
             let digest: String = digest.into();
             let (task_add, part_size) = calc_parts(file_size, part_size, MAX_SPLIT_PARTS);

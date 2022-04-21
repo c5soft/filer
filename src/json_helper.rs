@@ -1,7 +1,8 @@
 use serde_json::Value;
 pub trait JsonHelper {
+    //fn str(&self, default: &str) -> &str;
     fn str(&self, default: &'static str) -> &str;
-    fn string(&self, default: &'static str) -> String;
+    fn string(&self, default: &str) -> String;
     fn bool(&self, default: bool) -> bool;
     fn u64(&self, default: u64) -> u64;
     fn i64(&self, default: i64) -> i64;
@@ -12,8 +13,10 @@ impl JsonHelper for Value {
     fn str(&self, default: &'static str) -> &str {
         self.as_str().unwrap_or(default)
     }
-    fn string(&self, default: &'static str) -> String {
-        String::from(self.str(default))
+    fn string(&self, default: &str) -> String {
+        self.as_str()
+            .map(|x| x.to_owned())
+            .unwrap_or(default.to_owned())
     }
     fn bool(&self, default: bool) -> bool {
         self.as_bool().unwrap_or(default)
@@ -34,9 +37,7 @@ impl JsonHelper for Value {
                     let xml: Vec<String> = obj
                         .iter()
                         .map(|(k, v)| match v {
-                            Value::Array(_) => {
-                                xml_process(v, k)
-                            }
+                            Value::Array(_) => xml_process(v, k),
                             _ => format!("<{}>{}</{}>", k, xml_process(v, k), k),
                         })
                         .collect();
@@ -48,14 +49,9 @@ impl JsonHelper for Value {
                 Value::Array(v) => {
                     let xml: Vec<String> = {
                         v.iter()
-                            .map(|x| {
-                                format!(
-                                    "<{}>{}</{}>",
-                                    last_key,
-                                    xml_process(x,  ""),
-                                    last_key,
-                                )
-                            })
+                            .map(
+                                |x| format!("<{}>{}</{}>", last_key, xml_process(x, ""), last_key,),
+                            )
                             .collect()
                     };
                     xml.join("")

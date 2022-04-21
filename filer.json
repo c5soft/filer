@@ -1,10 +1,10 @@
 {
     "server": {
-        "static_path": "d:/Rust/filer/public",
+        "static_path": "./public",
         "server_name": "Filer",
         "http_active": true,
         "http_port": 9191,
-        "https_active": false,
+        "https_active": true,
         "https_port": 443,
         "https_cert": "server.cer",
         "https_key": "server.key"
@@ -15,16 +15,22 @@
         "kill_running_exe": true
     },
     "client": {
-        "server": "192.168.100.147",
+        "server": "127.0.0.1",
         "port": 9191,
         "is_https": false,
-        "catalog": "tcsoftV6",
-        "path": "d:/tcsoftV6Test",
+        "catalog": "demo",
+        "path": "./demo_recv",
         "max_tasks": 128,
         "kill_running_exe": true
     },
     "tcsoftV6": {
         "path": "d:/tcsoftV6",
+        "part_size": 1024000,
+        "max_tasks": 32,
+        "list_name": "filelist.txt"
+    },
+    "demo":{
+        "path": "./demo_sent",
         "part_size": 1024000,
         "max_tasks": 32,
         "list_name": "filelist.txt"

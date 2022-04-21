@@ -1,6 +1,6 @@
 [package]
 name = "filer"
-version = "1.0.6"
+version = "1.0.7"
 authors = ["Xander Xiao <xander.xiao@gmail.com>"]
 edition = "2021"
 #resolver = "2"
