@@ -3,6 +3,7 @@ use serde_json::Value;
 use std::path::PathBuf;
 use std::sync::Arc;
 
+#[derive(Clone)]
 pub struct AppContext {
     pub(crate) config: Value,
 }

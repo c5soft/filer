@@ -5,7 +5,7 @@ use crate::JsonHelper;
 
 use anyhow::anyhow;
 use axum::{
-    extract::{ConnectInfo, Extension, Path},
+    extract::{ConnectInfo, Path, State},
     http::{
         header::{HeaderMap, HeaderName, HeaderValue},
         StatusCode,
@@ -17,13 +17,11 @@ use serde_json::Value;
 use std::net::SocketAddr;
 use std::sync::Arc;
 
-pub(crate) fn api(context: Arc<AppContext>) -> Router {
-    Router::new()
-        .route("/download/:download", get(download_file))
-        .layer(Extension(context))
+pub(crate) fn api(context: Arc<AppContext>) -> Router<AppContext> {
+    Router::with_state_arc(context).route("/download/:download", get(download_file))
 }
 async fn download_file(
-    Extension(context): Extension<Arc<AppContext>>,
+    State(context): State<AppContext>,
     ConnectInfo(addr): ConnectInfo<SocketAddr>,
     Path(params): Path<String>,
 ) -> (StatusCode, HeaderMap, Vec<u8>) {
