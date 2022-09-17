@@ -106,7 +106,7 @@ async fn server(context: &Arc<AppContext>) {
     let ctx = context.clone();
     let app = Router::new()
         .nest("/api", api::api(ctx))
-        .fallback(static_files::make_service(static_path, cache_age_in_minute));
+        .fallback_service(static_files::make_service(static_path, cache_age_in_minute));
 
     let http_server = tokio::spawn(start_server(server_config.clone(), false, app.clone()));
     let https_server = tokio::spawn(start_server(server_config, true, app));
