@@ -1,3 +1,4 @@
 /target
-/demo*
+/demo_recv
+/demo_sent
 /public/*.exe
