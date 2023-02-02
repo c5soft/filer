@@ -17,11 +17,13 @@ use serde_json::Value;
 use std::net::SocketAddr;
 use std::sync::Arc;
 
-pub(crate) fn api(context: Arc<AppContext>) -> Router<AppContext> {
-    Router::with_state_arc(context).route("/download/:download", get(download_file))
+pub(crate) fn api(context: Arc<AppContext>) -> Router {
+    Router::new()
+        .route("/download/:download", get(download_file))
+        .with_state(context)
 }
 async fn download_file(
-    State(context): State<AppContext>,
+    State(context): State<Arc<AppContext>>,
     ConnectInfo(addr): ConnectInfo<SocketAddr>,
     Path(params): Path<String>,
 ) -> (StatusCode, HeaderMap, Vec<u8>) {
