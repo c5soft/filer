@@ -19,9 +19,6 @@ tokio = {version = "1.25.0", features = [
   "time",
   "process",
 ]}
-#tokio-util = { version = "0.6.9",  default_features = false, features = ["io"] }
-#futures-util= "0.3.18"
-#futures= "0.3.18"
 anyhow = {version = "1.0.68"}
 byte-unit = "4.0.18"
 clap = {version = "3.2.23"}
@@ -39,9 +36,7 @@ tracing-subscriber = {version = "0.3.16", features = [
   "time",
   "local-time",
 ], optional = true}
-#md5={version="0.7.0", optional = true}
 reqwest = {version = "0.11.14", optional = true}
-#warp = { version = "0.3.1", features = ["tls", "compression"], optional = true }
 axum = {version = "0.6.4", optional = true}
 axum-server = {version = "0.4.4", features = ["tls-rustls"], optional = true}
 tower = {version = "0.4.13", optional = true}
@@ -50,11 +45,6 @@ tower-http = {version = "0.3.5", features = [
   "trace",
   "set-header",
 ], optional = true}
-
-#thiserror = "1.0.23"
-#uuid = { version = "0.8.2", features = ["serde", "v4"] }
-#async-trait = "0.1.42"
-#regex = "1.4.3"
 
 [features]
 default = ["xcopy", "digest", "download", "server"]

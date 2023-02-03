@@ -3,12 +3,12 @@ mod context;
 mod fileutil;
 mod json_helper;
 
+#[cfg(feature = "server")]
+mod api;
 #[cfg(any(feature = "server", feature = "download"))]
 mod base16;
 #[cfg(feature = "download")]
 mod download;
-#[cfg(feature = "server")]
-mod api;
 
 #[cfg(feature = "server")]
 mod static_files;
@@ -18,30 +18,28 @@ mod addr;
 #[cfg(feature = "xcopy")]
 mod xcopy;
 #[cfg(any(feature = "server", feature = "download"))]
-use std::sync::Arc;
+use axum::Router;
 #[cfg(any(feature = "server", feature = "download"))]
-use axum::{Router};
-
-
+use std::sync::Arc;
 
 use anyhow::Result;
-use clap::{Command, Arg, ArgMatches};
+use clap::{Arg, ArgMatches, Command};
 use context::AppContext;
 use json_helper::JsonHelper;
-use tokio::time::Instant;
 use serde_json::Value;
+use tokio::time::Instant;
 
 #[cfg(feature = "digest")]
 use fileutil::refresh_dir_files_digest;
 
-const VERSION: &str =env!("CARGO_PKG_VERSION");
+const VERSION: &str = env!("CARGO_PKG_VERSION");
 
 #[tokio::main]
 async fn main() -> Result<()> {
     tracing_subscriber::fmt::init();
 
     let args = args();
-    let context = if let Some(config_file) = args.value_of("config") {
+    let context = if let Some(config_file) = args.get_one::<String>("config") {
         AppContext::from(config_file.into())
     } else {
         AppContext::new()
@@ -49,10 +47,16 @@ async fn main() -> Result<()> {
     let cpus = num_cpus::get() as u64;
     let time_start = Instant::now();
 
+    let show_repeat = args.contains_id("repeat");
+
+    let default_catalog: String = String::from("tcsoftV6");
+    let empty_str: String = String::from("");
+
     #[cfg(feature = "digest")]
-    let show_repeat = args.is_present("repeat");
-    if args.is_present("digest") || show_repeat {
-        let catalog = args.value_of("catalog").unwrap_or("tcsoftV6");
+    if args.contains_id("digest") || show_repeat {
+        let catalog = args
+            .get_one::<String>("catalog")
+            .unwrap_or(&default_catalog);
         let config = context.config[catalog].clone();
         let part_size = config["part_size"].u64(102400u64);
         let max_tasks = config["max_tasks"].u64(cpus * 2);
@@ -60,26 +64,28 @@ async fn main() -> Result<()> {
         refresh_dir_files_digest(path, "filelist.txt", part_size, max_tasks, show_repeat).await?;
     }
     #[cfg(feature = "xcopy")]
-    if args.is_present("xcopy") {
+    if args.contains_id("xcopy") {
         let config = context.config.clone();
-        let source_path = args.value_of("source_path").unwrap_or("");
-        let target_path = args.value_of("target_path").unwrap_or("");
+        let source_path = args.get_one::<String>("source_path").unwrap_or(&empty_str);
+        let target_path = args.get_one::<String>("target_path").unwrap_or(&empty_str);
         if source_path.is_empty() || target_path.is_empty() {
             println!("Usage: filer --xcopy source_path target_path")
         } else {
             xcopy::xcopy_files(&config, source_path, target_path, cpus * 2).await?;
         }
     }
-    if args.is_present("server") {
+    if args.contains_id("server") {
         println!();
         #[cfg(feature = "server")]
         server(&context).await;
-    } else if args.is_present("download") || args.is_present("update") {
-        let catalog = args.value_of("catalog").unwrap_or("tcsoftV6");
+    } else if args.contains_id("download") || args.contains_id("update") {
+        let catalog = args
+            .get_one::<String>("catalog")
+            .unwrap_or(&default_catalog);
         #[cfg(feature = "download")]
         download::download_files(
             &context.config,
-            args.is_present("download"),
+            args.contains_id("download"),
             cpus * 4,
             catalog,
         )
@@ -111,7 +117,6 @@ async fn server(context: &Arc<AppContext>) {
     let http_server = tokio::spawn(start_server(server_config.clone(), false, app.clone()));
     let https_server = tokio::spawn(start_server(server_config, true, app));
     let (_, _) = tokio::join!(http_server, https_server);
-
 }
 
 #[cfg(feature = "server")]
