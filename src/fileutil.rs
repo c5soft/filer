@@ -87,9 +87,9 @@ pub fn get_dir_file_names(path: &str) -> Result<Vec<String>> {
 }
 */
 
-#[cfg(feature = "digest")]
+#[cfg(feature = "index")]
 //return [(file_name,size,digest)...]
-pub async fn get_dir_file_size_and_digest(
+pub async fn get_dir_index(
     path: &str,
     part_size: u64,
     max_tasks: u64,
@@ -181,7 +181,7 @@ pub async fn get_dir_file_size(path: &str) -> Result<Vec<(String, u64)>> {
     Ok(results)
 }
 
-#[cfg(feature = "digest")]
+#[cfg(feature = "index")]
 pub async fn get_file_size_and_digest(
     file_name: &str,
     part_size: u64,
@@ -319,7 +319,7 @@ pub async fn get_file(
     Ok(target_file_size)
 }
 
-#[cfg(feature = "digest")]
+#[cfg(feature = "index")]
 pub async fn get_file_and_digest(
     source_file_name: &str,
     source_file_size: u64,
@@ -376,7 +376,7 @@ pub async fn get_file_and_digest(
     Ok((target_file_size, digest))
 }
 
-#[cfg(feature = "digest")]
+#[cfg(feature = "index")]
 pub async fn refresh_dir_files_digest(
     path: &str,
     list_file_name: &str,
@@ -388,7 +388,7 @@ pub async fn refresh_dir_files_digest(
     let path_len = path.len();
     println!("Calc digest for files in {}...", path);
     //(file_name,file_size,digest)
-    let results = get_dir_file_size_and_digest(path, part_size, max_tasks, true).await?;
+    let results = get_dir_index(path, part_size, max_tasks, true).await?;
     let list_file_name = path.to_lowercase() + "/" + list_file_name;
     let file_list_iter = results
         .iter()

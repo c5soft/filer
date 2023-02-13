@@ -2,6 +2,7 @@ mod config;
 mod context;
 mod fileutil;
 mod json_helper;
+mod log;
 
 #[cfg(feature = "server")]
 mod api;
@@ -22,75 +23,99 @@ use axum::Router;
 #[cfg(any(feature = "server", feature = "download"))]
 use std::sync::Arc;
 
-use anyhow::Result;
-use clap::{Arg, ArgMatches, Command};
+use anyhow::{anyhow, Result};
+use clap::{arg, command, value_parser, ArgAction, ArgMatches};
 use context::AppContext;
 use json_helper::JsonHelper;
 use serde_json::Value;
+use std::path::PathBuf;
 use tokio::time::Instant;
+use tracing::debug;
 
-#[cfg(feature = "digest")]
+#[cfg(feature = "index")]
 use fileutil::refresh_dir_files_digest;
 
 const VERSION: &str = env!("CARGO_PKG_VERSION");
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    tracing_subscriber::fmt::init();
-
     let args = args();
-    let context = if let Some(config_file) = args.get_one::<String>("config") {
-        AppContext::from(config_file.into())
+    let context = if let Some(config_file) = args.get_one::<PathBuf>("config") {
+        AppContext::from(config_file)
     } else {
         AppContext::new()
     };
+    let log_file_name = context.config["log_file_name"].string("");
+    log::init_logger(&log_file_name).map_err(|e| anyhow!("init_logger error {:?}", e))?;
+
     let cpus = num_cpus::get() as u64;
     let time_start = Instant::now();
 
-    let show_repeat = args.contains_id("repeat");
+    let get_flag_repeat = args.get_flag("repeat");
 
-    let default_catalog: String = String::from("tcsoftV6");
-    let empty_str: String = String::from("");
+    let catalog = args
+        .get_one::<String>("catalog")
+        .map(|x| x.as_str())
+        .unwrap_or_default();
 
-    #[cfg(feature = "digest")]
-    if args.contains_id("digest") || show_repeat {
-        let catalog = args
-            .get_one::<String>("catalog")
-            .unwrap_or(&default_catalog);
+    debug!("catalog = {:#?}", catalog);
+
+    #[cfg(feature = "index")]
+    if args.get_flag("index") || get_flag_repeat {
         let config = context.config[catalog].clone();
-        let part_size = config["part_size"].u64(102400u64);
-        let max_tasks = config["max_tasks"].u64(cpus * 2);
-        let path = config["path"].str("d:/tcsoftV6");
-        refresh_dir_files_digest(path, "filelist.txt", part_size, max_tasks, show_repeat).await?;
+        if config.is_null() {
+            println!("catalog {} not found in config", catalog);
+        } else {
+            let part_size = config["part_size"].u64(102400u64);
+            let max_tasks = config["max_tasks"].u64(cpus * 2);
+            let path = config["path"].str("");
+            if path.is_empty() {
+                println!("path not provided in catalog {}", catalog)
+            } else {
+                refresh_dir_files_digest(
+                    path,
+                    "filelist.txt",
+                    part_size,
+                    max_tasks,
+                    get_flag_repeat,
+                )
+                .await?;
+            }
+        }
     }
     #[cfg(feature = "xcopy")]
-    if args.contains_id("xcopy") {
+    if args.get_flag("xcopy") {
         let config = context.config.clone();
-        let source_path = args.get_one::<String>("source_path").unwrap_or(&empty_str);
-        let target_path = args.get_one::<String>("target_path").unwrap_or(&empty_str);
+        let source_path = args
+            .get_one::<String>("source_path")
+            .map(|x| x.as_str())
+            .unwrap_or_default();
+        let target_path = args
+            .get_one::<String>("target_path")
+            .map(|x| x.as_str())
+            .unwrap_or_default();
         if source_path.is_empty() || target_path.is_empty() {
             println!("Usage: filer --xcopy source_path target_path")
         } else {
             xcopy::xcopy_files(&config, source_path, target_path, cpus * 2).await?;
         }
     }
-    if args.contains_id("server") {
-        println!();
+    if args.get_flag("server") {
         #[cfg(feature = "server")]
         server(&context).await;
-    } else if args.contains_id("download") || args.contains_id("update") {
-        let catalog = args
-            .get_one::<String>("catalog")
-            .unwrap_or(&default_catalog);
+        #[cfg(not(feature = "server"))]
+        println!("run as server not suported");
+    } else if args.get_flag("download") || args.get_flag("update") {
         #[cfg(feature = "download")]
         download::download_files(
             &context.config,
-            args.contains_id("download"),
+            args.get_flag("download"),
             cpus * 4,
             catalog,
         )
         .await?;
-        println!();
+        #[cfg(not(feature = "download"))]
+        println!("download/update not suported");
     }
     let pcpus = num_cpus::get_physical() as u64;
     println!(
@@ -153,74 +178,37 @@ async fn start_server(config: Value, is_https: bool, app: Router) {
 }
 
 fn args() -> ArgMatches {
-    let app = Command::new("Filer 文件传输系统")
-        .version(VERSION)
-        .author("xander.xiao@gmail.com")
-        .about("极速文件分发、拷贝工具")
-        .mut_arg("version", |a| a.help(Some("显示版本号")))
-        .mut_arg("help", |a| a.help(Some("显示帮助信息")))
-        .arg(
-            Arg::new("config")
-                .help("指定配置文件")
-                .short('C')
-                .long("config")
-                .value_name("config")
-                .takes_value(true)
-                .default_value("filer.json"),
-        );
-
-    #[cfg(any(feature = "server", feature = "calc_digest", feature = "download"))]
-    let app = app.arg(
-        Arg::new("catalog")
-            .help("指定分发目录")
-            .short('c')
-            .long("catalog")
-            .value_name("catalog")
-            .takes_value(true)
-            .default_value("tcsoftV6"),
+    let app = command!().arg(
+        arg!(-C --config <CONFIG> "set config file")
+            .default_value("filer.json")
+            .value_parser(value_parser!(PathBuf)),
     );
 
-    #[cfg(feature = "digest")]
-    let app = app.arg(
-        Arg::new("digest")
-            .help("刷新文件列表，计算文件的哈希值")
-            .short('i')
-            .long("index"),
-    );
+    #[cfg(any(feature = "server", feature = "index", feature = "download"))]
+    let app =
+        app.arg(arg!(-c --catalog <CATALOG> "set catalog in config").default_value("tcsoftV6"));
 
-    #[cfg(feature = "digest")]
-    let app = app.arg(
-        Arg::new("repeat")
-            .help("刷新文件哈希值列表时，列出重复文件")
-            .short('r')
-            .long("repeat"),
-    );
+    #[cfg(feature = "index")]
+    let app = app
+        .arg(arg!(-i --index "generate the filelist.txt which contains a list of file hash,size,name").action(ArgAction::SetTrue))
+        .arg(arg!(-r --repeat "list repeated files while indexing").action(ArgAction::SetTrue));
 
     #[cfg(feature = "xcopy")]
     let app = app
         .arg(
-            Arg::new("xcopy")
-                .help("复制文件夹或文件")
-                .short('x')
-                .long("xcopy"),
+            arg!(-x --xcopy "xcopy file(s)" )
+                .action(ArgAction::SetTrue)
+                .conflicts_with("server")
+                .conflicts_with("download")
+                .conflicts_with("update"),
         )
-        .arg(
-            Arg::new("source_path")
-                .help("Sets the XCopy source path or file")
-                .index(1),
-        )
-        .arg(
-            Arg::new("target_path")
-                .help("Sets the XCopy target path")
-                .index(2),
-        );
+        .arg(arg!([source_path] "Sets the XCopy source path or file")) //.index(1))
+        .arg(arg!([target_path] "Sets the XCopy target path")); //.index(2));
 
     #[cfg(feature = "server")]
     let app = app.arg(
-        Arg::new("server")
-            .help("作为服务器启动文件服务")
-            .short('s')
-            .long("server")
+        arg!(-s --server "run as file distribution server")
+            .action(ArgAction::SetTrue)
             .conflicts_with("download")
             .conflicts_with("update"),
     );
@@ -228,18 +216,13 @@ fn args() -> ArgMatches {
     #[cfg(feature = "download")]
     let app = app
         .arg(
-            Arg::new("download")
-                .help("作为客户端下载所有文件")
-                .short('d')
-                .long("download")
+            arg!(-d --download "run as file download client")
+                .action(ArgAction::SetTrue)
                 .conflicts_with("server")
                 .conflicts_with("update"),
         )
         .arg(
-            Arg::new("update")
-                .help("作为客户端下载更新文件")
-                .short('u')
-                .long("update")
+            arg!(-u --update "run as file update client")
                 .conflicts_with("server")
                 .conflicts_with("download"),
         );

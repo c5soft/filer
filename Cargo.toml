@@ -1,14 +1,15 @@
 [package]
+name = "filer"
+version = "1.0.9"
+description = "File Distribution System With Extreme Speed"
 authors = ["Xander Xiao<xander.xiao@gmail.com>"]
 edition = "2021"
-name = "filer"
-version = "1.0.8"
 #resolver = "2"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-tokio = {version = "1.25.0", features = [
+tokio = { version = "1.25.0", features = [
   "rt",
   "rt-multi-thread",
   "macros",
@@ -18,37 +19,38 @@ tokio = {version = "1.25.0", features = [
   "io-util",
   "time",
   "process",
-]}
-anyhow = {version = "1.0.68"}
+] }
+anyhow = { version = "1.0.69" }
 byte-unit = "4.0.18"
-clap = {version = "3.2.23"}
+clap = { version = "4.1.4", features = ["cargo"] }
 futures-util = "0.3.26"
 num_cpus = "1.15.0"
-serde = {version = "1.0.152", features = ["derive"]}
-serde_json = "1.0.91"
+serde = { version = "1.0.152", features = ["derive"] }
+serde_json = "1.0.93"
 
-blake3 = {version = "1.3.3", optional = true}
-chrono = {version = "0.4.23", features = ["serde"], optional = true}
-time = {version = "0.3.17", features = ["macros"], optional = true}
-tracing = {version = "0.1.37", optional = true}
-tracing-subscriber = {version = "0.3.16", features = [
+# optional crates
+blake3 = { version = "1.3.3", optional = true }
+chrono = { version = "0.4.23", features = ["serde"], optional = true }
+time = { version = "0.3.17", features = ["macros"], optional = true }
+tracing = { version = "0.1.37", optional = true }
+tracing-subscriber = { version = "0.3.16", optional = true, features = [
   "env-filter",
   "time",
   "local-time",
-], optional = true}
-reqwest = {version = "0.11.14", optional = true}
-axum = {version = "0.6.4", optional = true}
-axum-server = {version = "0.4.4", features = ["tls-rustls"], optional = true}
-tower = {version = "0.4.13", optional = true}
-tower-http = {version = "0.3.5", features = [
+] }
+reqwest = { version = "0.11.14", optional = true }
+axum = { version = "0.6.6", optional = true }
+axum-server = { version = "0.4.4", optional = true, features = ["tls-rustls"] }
+tower = { version = "0.4.13", optional = true }
+tower-http = { version = "0.3.5", optional = true, features = [
   "fs",
   "trace",
   "set-header",
-], optional = true}
+] }
 
 [features]
-default = ["xcopy", "digest", "download", "server"]
-digest = ["blake3"]
+default = ["xcopy", "index", "download", "server"]
+index = ["blake3"]
 download = ["reqwest", "blake3"]
 server = [
   "axum",
@@ -59,6 +61,6 @@ server = [
   "tracing-subscriber",
   "tracing",
   "chrono",
-  "time"
+  "time",
 ]
 xcopy = []

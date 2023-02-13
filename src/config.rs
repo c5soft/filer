@@ -30,7 +30,7 @@ fn read_json<P: AsRef<Path>>(path: P) -> Value {
     }
 }
 
-pub fn from(path: PathBuf) -> Value {
+pub fn from<P: AsRef<Path>>(path: P) -> Value {
     read_json(path)
 }
 

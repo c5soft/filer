@@ -9,11 +9,6 @@
         "https_cert": "server.cer",
         "https_key": "server.key"
     },
-    "xcopy": {
-        "max_tasks": 128,
-        "part_size": 1024000,
-        "kill_running_exe": true
-    },
     "client": {
         "server": "127.0.0.1",
         "port": 9191,
@@ -23,13 +18,18 @@
         "max_tasks": 128,
         "kill_running_exe": true
     },
+    "xcopy": {
+        "max_tasks": 128,
+        "part_size": 1024000,
+        "kill_running_exe": true
+    },
     "tcsoftV6": {
         "path": "d:/tcsoftV6",
         "part_size": 1024000,
         "max_tasks": 32,
         "list_name": "filelist.txt"
     },
-    "demo":{
+    "demo": {
         "path": "./demo_sent",
         "part_size": 1024000,
         "max_tasks": 32,
