@@ -179,35 +179,35 @@ async fn start_server(config: Value, is_https: bool, app: Router) {
 
 fn args() -> ArgMatches {
     let app = command!().arg(
-        arg!(-C --config <CONFIG> "set config file")
+        arg!(-C --config <CONFIG> "Set config file")
             .default_value("filer.json")
             .value_parser(value_parser!(PathBuf)),
     );
 
     #[cfg(any(feature = "server", feature = "index", feature = "download"))]
     let app =
-        app.arg(arg!(-c --catalog <CATALOG> "set catalog in config").default_value("tcsoftV6"));
+        app.arg(arg!(-c --catalog <CATALOG> "Set catalog in config").default_value("tcsoftV6"));
 
     #[cfg(feature = "index")]
     let app = app
-        .arg(arg!(-i --index "generate the filelist.txt which contains a list of file hash,size,name").action(ArgAction::SetTrue))
-        .arg(arg!(-r --repeat "list repeated files while indexing").action(ArgAction::SetTrue));
+        .arg(arg!(-i --index "Generate the filelist.txt which contains a list of file hash,size,name").action(ArgAction::SetTrue))
+        .arg(arg!(-r --repeat "List repeated files while indexing").action(ArgAction::SetTrue));
 
     #[cfg(feature = "xcopy")]
     let app = app
         .arg(
-            arg!(-x --xcopy "xcopy file(s)" )
+            arg!(-x --xcopy "XCopy file(s)" )
                 .action(ArgAction::SetTrue)
                 .conflicts_with("server")
                 .conflicts_with("download")
                 .conflicts_with("update"),
         )
-        .arg(arg!([source_path] "Sets the XCopy source path or file")) //.index(1))
-        .arg(arg!([target_path] "Sets the XCopy target path")); //.index(2));
+        .arg(arg!([source_path] "Set the XCopy source path or file")) //.index(1))
+        .arg(arg!([target_path] "Set the XCopy target path")); //.index(2));
 
     #[cfg(feature = "server")]
     let app = app.arg(
-        arg!(-s --server "run as file distribution server")
+        arg!(-s --server "Run as file distribution server")
             .action(ArgAction::SetTrue)
             .conflicts_with("download")
             .conflicts_with("update"),
@@ -216,13 +216,13 @@ fn args() -> ArgMatches {
     #[cfg(feature = "download")]
     let app = app
         .arg(
-            arg!(-d --download "run as file download client")
+            arg!(-d --download "Run as file download client")
                 .action(ArgAction::SetTrue)
                 .conflicts_with("server")
                 .conflicts_with("update"),
         )
         .arg(
-            arg!(-u --update "run as file update client")
+            arg!(-u --update "Run as file update client")
                 .conflicts_with("server")
                 .conflicts_with("download"),
         );
